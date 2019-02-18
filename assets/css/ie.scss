@@ -1,3 +1,8 @@
+---
+# IExplorer specific customizations.
+# This header ensures Jekyll reads the file to be transformed into CSS later
+---
+
 .lt-ie9.js {
 
 	.logo {
@@ -24,6 +29,6 @@
 				margin-left: 20px;
 				border:none;
 			}
-		} 
+		}
 	}
 }

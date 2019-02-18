@@ -1,10 +1,13 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Pfiu
+description: Blog despre sănătate și lifestyle
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://pfiu.ro
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+
+sass:
+    style: compressed
 
 markdown: kramdown
 highlighter: rouge
@@ -12,17 +15,17 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Acasă
     url: /index.html
-  - title: About
+  - title: Despre
     url: /about
   - title: Contact
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: alexandru
+  twitter: alexelcu
+  facebook: alexelcu
+  email: contact@m9.pfiu.ro
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"

@@ -4,7 +4,7 @@ description: Blog despre sănătate și lifestyle
 url: https://pfiu.ro
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: :year/:month/:day/:title/
 
 sass:
     style: compressed

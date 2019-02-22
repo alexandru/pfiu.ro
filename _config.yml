@@ -21,6 +21,8 @@ navigation:
     url: /despre/
   - title: Contact
     url: /contact/
+  - title: Abonează-te
+    url: /abonament/
 
 social:
   github: alexandru

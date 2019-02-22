@@ -9,14 +9,20 @@ image_caption: "Autor: Victor Bezrukov"
 
 - [Introducere](#introducere)
   - [Bonus: prezentare video (în engleză)](#bonus-prezentare-video-în-engleză)
-- [Beneficii](#beneficii)
+  - [Beneficii](#beneficii)
 - [Avertisment: Cine nu poate?](#avertisment-cine-nu-poate)
-- [Cum se practică postul intermitent?](#cum-se-practică-postul-intermitent)
+- [Cum se practică?](#cum-se-practică)
 - [Reguli pentru un post curat](#reguli-pentru-un-post-curat)
 - [Întrebări frecvente](#Întrebări-frecvente)
   - [Nu este postul înformetare?](#nu-este-postul-înformetare)
   - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restricțiile-calorice)
 - [Referințe](#referințe)
+    - [Pierderea în greutate](#pierderea-în-greutate)
+    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-sânge-și-rezistența-la-insulină)
+    - [Longevitate](#longevitate)
+    - [Autofagie](#autofagie)
+    - [Importanța postului curat](#importanța-postului-curat)
+    - [Rata metabolică](#rata-metabolică)
 - [Alătură-te, hai pe grup](#alătură-te-hai-pe-grup)
 
 ## Introducere
@@ -36,11 +42,13 @@ Postul intermitent nu este ciudat, ci este parte deja din viața de zi cu zi, pa
 - **gratis**, nu te costă nimic să-l practici
 - **simplu**, trebuie doar să nu mănânci 🙂 în afara ferestrei ce ți-o aloci
 
+Nu ai nevoie de suplimente alimentare, de sucuri speciale, de mâncare pregătită într-un anumit fel. În fereastra de festin poți mânca ce vrei (fără excese evident), sau o poți cupla cu o altă dietă (de exemplu LCHF) în funcție de preferințe. Postul intermitent este cea mai simplă și ieftină dietă posibilă.
+
 ### Bonus: prezentare video (în engleză)
 
-{% include youtube.html id="tIuj-oMN-Fk" caption="Dr. Jason Fung – ‘Therapeutic Fasting – Solving the Two-Compartment Problem’" %}
+{% include youtube.html id="tIuj-oMN-Fk" caption="Dr. Jason Fung – ‘Postul Terapeutic – Rezolvarea Problemei Celor Două Compartimente’" %}
 
-## Beneficii
+### Beneficii
 
 În prezent mulți oameni redescoperă această intervenție dietetică ce poate avea beneficii uriașe atunci când este practicat corect:
 
@@ -59,7 +67,7 @@ Deși postul are multe beneficii dovedite, încă este o practică controversat�
 
 **NU este recomandat** pentru femei însărcinate sau care alăptează, copii sub 18 ani sau oameni subponderali, ce suferă de o tulburare de alimentație cum ar fi anorexia. Acest articol se adresează adulților cu discernământ și nu înlocuiește sfatul unui medic.
 
-## Cum se practică postul intermitent?
+## Cum se practică?
 
 Îți alegi un interval orar zilnic în care să nu mănânci. Poți alege ce intervale orare vrei și orice durată vrei. Pentru ușurință, protocoalele standard (despre care s-a scris în literatura de specialitate) sunt:
 
@@ -74,7 +82,7 @@ Poți alege propriul interval orar pentru fereastra de festin. Poți alege ferea
 
 Nu uitați, în post nu este vorba de restricție calorică, ci de prelungirea anumitor procese metabolice, cum ar fi autofagia, lipoliza, inhibiția canalului mTOR, etc. Nu vreți să întrerupeți postul cu ștevia din cafea, că vă chinuiți degeaba 😉
 
-Dacă nu crezi, [vezi referințele](#referinte-post-curat) 😉
+Dacă nu crezi, [vezi referințele](#importanța-postului-curat) 😉
 
 Băuturile permise:
 
@@ -91,6 +99,9 @@ Deasemenea există și un motiv practic pentru a evita întreruperea postului di
 
 Unii oameni preferă să țină postul doar cu apă, însă există studii ce arată că cafeina promovează autofagia și inhibă deasemenea canalul mTOR, astfel că ajută, plus că unii dintre noi nu se pot lipsi de doza de cafeină zilnică 🙂 Dar fără arome, că nu vreți să întrerupeți postul de la scorțișoară, iasomie sau mentă.
 
+Pentru mai multe detalii vezi:
+[E cafeaua permisă în post?](/2019/02/21/e-cafeaua-permisa-in-post/)
+
 ## Întrebări frecvente
 
 ### Nu este postul înformetare?
@@ -103,13 +114,15 @@ Mâncarea este disponibilă, însă alegi să nu o mănânci. Asta se poate înt
 
 Deși postul face în mod clar managementul caloriilor mai ușor, postul nu presupune neapărat o restricție calorică zilnică. Deasemenea postul are avantajul de reglare a metabolismului datorită efectelor sale printre care:
 
-- Mărirea sensibilității la insulină
+- Mărirea sensibilității la insulină ([referințe](glucoza-din-sânge-și-rezistența-la-insulină))
   - Notă: ca să fim drepți și restricția calorică are acest efect (logic, cu cât mănânci mai puțin, cu atât stimulezi mai puțin pancreasul), însă restricția calorică pe termen lung nu este fezabilă, pe când postul da
 - Prevenirea secreției de insulină în timpul postului, ce ajută procesul de lipoliză (mobilizarea energiei din propriul strat de grăsime)
-- Îmbunătățirea procesului de [autofagie](https://en.wikipedia.org/wiki/Autophagy) ([vezi referințe](#referinte-autofagie))
-- Nu reduce rata metabolica bazală (energia consumată de corp când se odihnește), principala problemă cu restricția calorică ([vezi referințe](#referinte-bmr))
+- Îmbunătățirea procesului de [autofagie](https://en.wikipedia.org/wiki/Autophagy) ([referințe](#autofagie))
+- Nu reduce rata metabolica bazală (energia consumată de corp când se odihnește), principala problemă cu restricția calorică ([vezi referințe](#rata-metabolică))
 
 ## Referințe
+
+#### Pierderea în greutate
 
 Lucrări ce confirmă că postul intermitent este eficient pentru pierderea în greutate:
 
@@ -118,4 +131,50 @@ Lucrări ce confirmă că postul intermitent este eficient pentru pierderea în 
 - [Intermittent Fasting: The Choice for a Healthier Lifestyle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6128599/)
 - [Effects of eight weeks of time-restricted  feeding (16/8) on basal metabolism, maximal strength, body composition,  inflammation, and cardiovascular risk factors in resistance-trained  males](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064803/)
 
+#### Glucoza din sânge și rezistența la insulină
+
+Lucrări ce confirmă că postul intermitent duce la o scădere a glucozei din sânge și a insulinei, fiind indicat astfel pentru diabetici:
+
+- [Time-restricted feeding and risk of metabolic disease: a review of human and animal studies](https://academic.oup.com/nutritionreviews/article-abstract/72/5/308/1933482)
+- [Effect of Ramadan fasting on some indices of insulin resistance and components of the metabolic syndrome in healthy male adults.](https://www.ncbi.nlm.nih.gov/pubmed/18053308)
+- [Effects of meal frequency on metabolic profiles and substrate partitioning in lean healthy males](https://www.ncbi.nlm.nih.gov/pubmed/22719910)
+
+#### Longevitate
+
+Lucrări ce confirmă că postul intermitent poate prelungi viața:
+
+- [Programmed longevity, youthspan, and juventology.](https://www.ncbi.nlm.nih.gov/pubmed/30334314)
+
+#### Autofagie
+
+Lucrări ce confirmă că postul intermitent poate activa procesul de curățare a celulelor, stimulând autofagia (un proces la nivel celular a cărei descoperire i-a adus autorului premiul Nobel în 2016):
+
+- [Impact of intermittent fasting on health and disease processes.](https://www.ncbi.nlm.nih.gov/pubmed/27810402)
+- [Fasting: molecular mechanisms and clinical applications.](https://www.ncbi.nlm.nih.gov/pubmed/24440038)
+
+#### Importanța postului curat
+
+Lucrări ce confirmă faptul că există o conexiune între papilele gustative și secreția de insulină, efect ce-ți poate întrerupe postul, indiferent de calorii sau macro-nutrienți:
+
+- [Relationships between insulin release and taste.](https://www.ncbi.nlm.nih.gov/m/pubmed/17510492/)
+- [Cephalic phase insulin release in healthy humans after taste stimulation?](https://www.ncbi.nlm.nih.gov/m/pubmed/18556090/)
+- [Effects of artificial sweeteners on insulin release and cationic fluxes in rat pancreatic islets.](https://www.ncbi.nlm.nih.gov/pubmed/9884024)
+- [Sweet taste receptor signaling in beta cells mediates fructose-induced potentiation of glucose-stimulated insulin secretion.](https://www.ncbi.nlm.nih.gov/pubmed/22315413)
+
+Vezi deasemenea:
+[E cafeaua permisă în post?](/2019/02/21/e-cafeaua-permisa-in-post/)
+
+#### Rata metabolică
+
+O lucrare ce confirmă diferența între post și restricția calorică vizavi de rata metabolică bazală:
+
+- [Resting energy expenditure in short-term starvation is increased as a result of an increase in serum norepinephrine.](https://www.ncbi.nlm.nih.gov/pubmed/10837292)
+
 ## Alătură-te, hai pe grup
+
+Avem un grup de Facebook al cărui subiect este postul, ca și intervenție dietetică. E mai ușor în grup:
+
+- [facebook.com/groups/FastingRomania/](https://www.facebook.com/groups/FastingRomania/){:target="_blank"}
+
+
+Deasemenea [abonează-te la acest blog](/abonament/) 😉

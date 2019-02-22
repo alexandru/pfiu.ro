@@ -7,7 +7,7 @@ layout: default
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
-        <time class="date" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d.%m.%Y' }}</time>
+        <time class="date" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | ro_date_to_long_string }}</time>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         {% if post.image %}
         <figure>

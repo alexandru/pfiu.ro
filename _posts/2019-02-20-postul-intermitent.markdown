@@ -4,6 +4,7 @@ title:  "Postul intermitent"
 date:   2019-02-20
 description: Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată. Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză intermittent fasting, prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 image: 2019/empty-plates.jpg
+image_caption: "Autor: Victor Bezrukov"
 ---
 
 - [Introducere](#introducere)
@@ -20,7 +21,7 @@ image: 2019/empty-plates.jpg
 
 ## Introducere
 
-Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată.
+<p class="intro"><span class="dropcap">P</span>ostul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată.</p>
 
 Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză [intermittent fasting](https://en.wikipedia.org/wiki/Intermittent_fasting), prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 
@@ -43,12 +44,12 @@ Postul intermitent nu este ciudat, ci este parte deja din viața de zi cu zi, pa
 
 În prezent mulți oameni redescoperă această intervenție dietetică ce poate avea beneficii uriașe atunci când este practicat corect:
 
-    pierdere în greutate, eficientă și fără restricții alimentare în fereastra pentru festin
-    energie crescută, îmbunătățirea capacității de concentrare
-    îmbunătățirea sistemului imunitar
-    creșterea longevității
-    curățarea pielii de acnee
-    inversarea diabetului de tip 2 și chiar remisia sa completă
+- pierdere în greutate, eficientă și fără restricții alimentare în fereastra pentru festin
+- energie crescută, îmbunătățirea capacității de concentrare
+- îmbunătățirea sistemului imunitar
+- creșterea longevității
+- curățarea pielii de acnee
+- inversarea diabetului de tip 2 și chiar remisia sa completă
 
 Pentru studii interesante vezi [referințele](#referințe).
 

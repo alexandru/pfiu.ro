@@ -3,12 +3,17 @@ layout: default
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+  <h1 class="pageTitle">Articole Recente</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <time class="date" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d.%m.%Y' }}</time>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        {% if post.image %}
+        <div class="featuredImage">
+          <img src="{{ '/assets/img/' | prepend: site.baseurl | append: post.image }}" />
+        </div>
+        {% endif %}
         <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
       </li>
     {% endfor %}

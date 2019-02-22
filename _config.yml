@@ -18,9 +18,9 @@ navigation:
   - title: Acasă
     url: /index.html
   - title: Despre
-    url: /about
+    url: /despre/
   - title: Contact
-    url: /contact
+    url: /contact/
 
 social:
   github: alexandru

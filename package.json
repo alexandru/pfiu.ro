@@ -1,0 +1,19 @@
+{
+  "name": "pfiu.ro",
+  "private": true,
+  "version": "1.0.0",
+  "description": "My website",
+  "devDependencies": {
+    "doctoc": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandru/pfiu.ro.git"
+  },
+  "author": "Alexandru Nedelcu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alexandru/pfiu.ro/issues"
+  },
+  "homepage": "https://github.com/alexandru/pfiu.ro#readme"
+}

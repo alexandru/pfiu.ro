@@ -27,9 +27,9 @@
       <meta content="{{ site.url }}/despre/" property="article:author">
     {% endif %}
     {% if page.image %}
-      <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
+      <meta content="{{ site.url }}/assets/media/{{ page.image }}" property="og:image">
     {% else %}
-      <meta content="{{ '/assets/img/touring.jpg' | prepend: site.url }}" property="og:image">
+      <meta content="{{ '/assets/media/touring.jpg' | prepend: site.url }}" property="og:image">
     {% endif %}
 
     <!-- Twitter Cards -->
@@ -46,17 +46,17 @@
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-      <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+      <meta name="twitter:image:src" content="{{ site.url }}/assets/media/{{ page.image }}">
     {% else %}
-      <meta name="twitter:image:src" content="{{ '/assets/img/touring.jpg' | prepend: site.url }}">
+      <meta name="twitter:image:src" content="{{ '/assets/media/touring.jpg' | prepend: site.url }}">
     {% endif %}
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" sizes="16x16" />
-    <link rel="icon" href="{{ "/assets/img/favicon-32.png" | prepend: site.baseurl }}" sizes="32x32" />
-    <link rel="icon" href="{{ "/assets/img/favicon-192.png" | prepend: site.baseurl }}" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="{{ "/assets/img/favicon-180.png" | prepend: site.baseurl }}" />
-    <meta name="msapplication-TileImage" content="{{ "/assets/img/favicon-270.png" | prepend: site.baseurl }}" />
+    <link rel="icon" type="image/x-icon" href="{{ "/assets/media/favicon.ico" | prepend: site.baseurl }}" sizes="16x16" />
+    <link rel="icon" href="{{ "/assets/media/favicon-32.png" | prepend: site.baseurl }}" sizes="32x32" />
+    <link rel="icon" href="{{ "/assets/media/favicon-192.png" | prepend: site.baseurl }}" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="{{ "/assets/media/favicon-180.png" | prepend: site.baseurl }}" />
+    <meta name="msapplication-TileImage" content="{{ "/assets/media/favicon-270.png" | prepend: site.baseurl }}" />
 
     <!-- Come and get me RSS readers -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />

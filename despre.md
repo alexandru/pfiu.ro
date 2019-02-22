@@ -5,7 +5,7 @@ title: Despre
 
 <div class="post about">
 	<h1 class="pageTitle">Despre Pfiu.ro</h1>
-	<img src="{{ '/assets/img/avatar-400.jpg' | prepend: site.baseurl }}" width="300" align="right" class="avatar" />
+	<img src="{{ '/assets/media/avatar-400.jpg' | prepend: site.baseurl }}" width="300" align="right" class="avatar" />
 	<p class="intro">
 		Mă numesc Alexandru Nedelcu.
 		<p>Sunt dezvoltator de software și tătic de băiețel, iar acesta este un blog personal, fără interese comerciale.</p>

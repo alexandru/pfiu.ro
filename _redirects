@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://pfiu.netlify.com/* http://pfiu.ro/:splat 301!

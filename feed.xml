@@ -24,6 +24,7 @@ layout: null
         <description><![CDATA[
           {% if post.image %}
           <img src="{{ '/assets/media/' | prepend: site.baseurl | append: post.image }}" align="middle" />
+          <br />
           {% endif %}
           {{ post.content }}
         ]]></description>

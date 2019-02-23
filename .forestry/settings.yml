@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: jekyll-posts
@@ -15,8 +15,8 @@ sections:
   label: Images
   create: all
   match: "**/*"
-upload_dir: assets/uploads
-public_path: "/uploads"
+upload_dir: assets/media
+public_path: "/assets/media"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:filename:"

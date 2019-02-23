@@ -3,10 +3,32 @@ layout: default
 title: Abonează-te
 ---
 
-<div class="post subscribe">
+<div id="abonament" class="post">
   <h1 class="pageTitle">Abonează-te</h1>
+
+  <h2>Email</h2>
   <p class="intro">
-    <span class="dropcap">I</span>ntrodu adresa de email în formularul de mai jos pentru a primi notificări despre articole noi pe email. Notificările nu sunt frecvente, și promit că nu voi folosi adresa ta pentru nimic altceva:
+    <span class="dropcap">I</span>ntrodu adresa de email în următorul formularul pentru a primi notificări despre articole noi pe email.
   </p>
-  <p><i>Coming soon...</i></p>
+
+  <form action="https://feed.press/e/mailverify" method="post"
+        target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed_id=pfiu', 'popupwindow', 'scrollbars=yes,width=550,height=400');return true">
+    <input type="hidden" value="pfiu" name="feed_id"/>
+    <label for="email">Adresă email:</label>
+    <input type="text" id="email" name="email" class="full-width"><br>
+    <input type="submit" value="Abonează-te" class="button" />
+  </form>
+
+  <h2>Flux RSS</h2>
+
+  <p>O alternativă la email ar fi urmărirea fluxului RSS al website-ului. Poți face asta prin diverse aplicații, atât locale cât și online, printre care recomandăm:</p>
+  <ul>
+    <li><a href="https://newsblur.com/">Newsblur</a></li>
+    <li><a href="https://feedly.com">Feedly</a></li>
+  </ul>
+
+  <p>Website-ul poate fi adăugat pur și simplu, dar în caz de probleme puteți folosi următorul link:</p>
+  <p>
+    <a href="https://flux.pfiu.ro/">flux.pfiu.ro</a>
+  </p>
 </div>

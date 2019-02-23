@@ -23,10 +23,7 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description><![CDATA[
           {% if post.image %}
-          <figure>
-            <img src="{{ post.image }}" align="middle" />
-            {% if post.image_caption %}<figcaption>{{ post.image_caption }}</figcaption>{% endif %}
-          </figure>
+          <img src="{{ '/assets/media/' | prepend: site.baseurl | append: post.image }}" align="middle" />
           {% endif %}
           {{ post.content }}
         ]]></description>

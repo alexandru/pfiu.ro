@@ -1,9 +1,8 @@
-title: Pfiu
-description: Blog despre sănătate și lifestyle
+title: Pfiu.ro
+description: Explorări, dietă, viață
 
 url: https://pfiu.ro
 baseurl: ""
-paginate_path: "blog/page:num/"
 permalink: :year/:month/:day/:title/
 
 sass:
@@ -11,8 +10,13 @@ sass:
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 5
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 1
+  permalink: '/page/:num/'
+  title: ':title - pagina :num'
 
 navigation:
   - title: Acasă

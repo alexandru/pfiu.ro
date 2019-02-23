@@ -529,6 +529,11 @@ img.right {
 }
 
 .posts {
+	img {
+		border-radius: 3px;
+		transition: opacity .2s ease;
+	}
+
 	figure {
 		margin: 1rem 0;
 

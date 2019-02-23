@@ -26,7 +26,8 @@ layout: null
           <img src="{{ '/assets/media/' | prepend: site.baseurl | prepend: site.url | append: post.image }}" align="middle" style="display: block; max-width:100%; margin: 0 auto;" />
           <br />
           {% endif %}
-          {{ post.content }}
+          <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
+          <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Citește mai mult...</a></p>
         ]]></description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

@@ -1,23 +1,30 @@
 ---
 label: Standard
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: post
+  config:
+    required: true
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    date_format: YYYY-MM-DD
+    required: true
 - name: categories
   label: Categories
   type: tag_list
@@ -28,6 +35,11 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+  description: Article excerpt
 - name: image
   label: Image
   type: file

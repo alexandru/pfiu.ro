@@ -3,7 +3,9 @@ layout: null
 permalink: /feed/
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -11,17 +13,24 @@ permalink: /feed/
     <atom:link href="{{ "/feed/" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  	<language>ro</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+	  <sy:updateFrequency>1</sy:updateFrequency>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+
     {% for post in site.posts limit:10 %}
       {% unless post.link %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
+        <description><![CDATA[
+          {% if post.image %}
+          <figure>
+            <img src="{{ post.image }}" align="middle" />
+            {% if post.image_caption %}<figcaption>{{ post.image_caption }}</figcaption>{% endif %}
+          </figure>
+          {% endif %}
+          {{ post.content }}
+        ]]></description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>

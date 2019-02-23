@@ -3,6 +3,7 @@ layout: post
 title:  "Este cafeaua permisă în post?"
 date:   2019-02-21
 categories: Dietă
+tags: ["Fasting"]
 description: "Alimentele și băuturile pot întrerupe postul și beneficiile sale metabolice. O mare nedumerire vizavi de a ține post (intermitent, alternativ, extins) ar fi: <i>Este cafeaua permisă în post sau nu?</i>"
 image: 2019/coffee.jpg
 image_caption: "Autor: <a href='https://flic.kr/p/k2WYEw'>tsaiproject</a>"

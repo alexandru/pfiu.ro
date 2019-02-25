@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Subiecte jurnal de dietă
-date: 2019-02-25 00:00:00 +0200
+date: 2019-02-24 22:00:00 +0000
 categories: []
 description: Jurnalul poate face diferența între succes și eșec, deoarece obstacolele
   mentale sunt principala problemă atunci când vrem să slăbim, pentru că există o
   componentă emoțională puternică atunci când vine vorba de mâncare. Sărbătorim cu
   mâncare și ne recompensăm cu mâncare.
-image: "/assets/media/2019/9355090806_f5221afc1a_k.jpg"
+image: "/2019/9355090806_f5221afc1a_k.jpg"
 image_caption: <a href="https://flic.kr/p/ffFhz5">sursa</a>
 
 ---

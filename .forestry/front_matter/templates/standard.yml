@@ -50,5 +50,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _posts/subiecte-jurnal-de-dieta.md

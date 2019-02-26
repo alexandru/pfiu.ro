@@ -1,9 +1,10 @@
 title: Pfiu.ro
 description: Explorări, dietă, viață
 
-url: https://pfiu.netlify.com
+url: https://pfiu.ro
 baseurl: ""
 permalink: :year/:month/:day/:title/
+feed: https://pfiu.ro/feed.xml
 
 sass:
     style: compressed

@@ -6,6 +6,8 @@ baseurl: ""
 permalink: :year/:month/:day/:title/
 feed: https://pfiu.ro/feed.xml
 
+include: ["_redirects"]
+
 sass:
     style: compressed
 

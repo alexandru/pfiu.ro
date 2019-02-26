@@ -30,9 +30,9 @@ navigation:
     url: /abonament/
 
 social:
-  github: alexandru
-  twitter: alexelcu
-  facebook: alexelcu
+  # github: alexandru
+  # twitter: alexelcu
+  # facebook: alexelcu
   email: contact@m9.pfiu.ro
 
 google_analytics: "UA-84530423-4"

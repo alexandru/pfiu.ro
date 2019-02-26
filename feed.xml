@@ -24,7 +24,7 @@ layout: null
         <description><![CDATA[
           {% if post.image %}
           <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-            <img src="{{ '/assets/media/' | prepend: site.baseurl | prepend: site.url | append: post.image }}" align="middle" style="display: block; max-width:100%; margin: 0 auto;" />
+            <img src="{{ site.url }}{{ post.image }}" align="middle" style="display: block; max-width:100%; margin: 0 auto;" />
           </a>
           <br />
           {% endif %}

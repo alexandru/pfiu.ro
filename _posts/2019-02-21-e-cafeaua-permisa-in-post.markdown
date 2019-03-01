@@ -1,5 +1,5 @@
 ---
-layout: post-dieta
+layout: post
 title:  "Este cafeaua permisă în post?"
 date:   2019-02-21
 categories: ["Dietă"]

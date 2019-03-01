@@ -4,7 +4,7 @@ description: Explorări, dietă, viață
 url: https://pfiu.ro
 baseurl: ""
 permalink: :year/:month/:day/:title/
-feed: https://flux.pfiu.ro/
+feed: http://flux.pfiu.ro/
 
 include: ["_redirects"]
 

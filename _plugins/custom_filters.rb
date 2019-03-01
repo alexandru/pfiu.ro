@@ -49,7 +49,7 @@ module Jekyll
       end
 
       doc.css("figcaption").each do |elem|
-        elem.inner_html = "<i>" + elem.inner_html + "</i><br/>"
+        elem.inner_html = "<p><i>" + elem.inner_html + "</i></p>"
       end
 
       doc.at_css("body").inner_html

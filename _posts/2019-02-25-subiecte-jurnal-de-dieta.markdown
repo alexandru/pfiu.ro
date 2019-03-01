@@ -1,7 +1,8 @@
 ---
-layout: post-dieta
+layout: post
 title: Subiecte jurnal de dietă
 date: 2019-02-25
+categories: ["Dietă"]
 tags: ["Fasting"]
 description: "Jurnalul poate face diferența între succes și eșec, deoarece obstacolele mentale sunt principala problemă atunci când vrem să slăbim, pentru că există o componentă emoțională puternică atunci când vine vorba de mâncare. Sărbătorim cu mâncare și ne recompensăm cu mâncare."
 image: /assets/media/2019/9355090806_f5221afc1a_k.jpg
@@ -41,3 +42,5 @@ Inspirat de ["Delay, Don't Deny"](https://www.goodreads.com/book/show/33647411-d
 25. Am mâncăruri pe care le consider rele pentru mine? Am mâncăruri pe care le consider bune? Ce aș putea să fac pentru a scăpa de astfel de etichete, pentru ca mâncarea să nu mai aibă asemenea putere asupra mea?
 26. Ce vreau să-i învăț pe cei din generațiile următoare (copii, nepoți) despre mâncare?
 27. Când mă gândesc la istoria mea cu dietele anterioare, ce lecții am învățat despre mine?
+
+{% include hai-in-grup.html %}

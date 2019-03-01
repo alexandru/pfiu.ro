@@ -10,7 +10,7 @@ image_hide_in_post: true
 
 <p class="intro"><span class="dropcap">B</span>eau prea multă cafea și ceaiul nu-mi place, plus că-n post ceaiul îmi cam face foame ceea ce nu-i bine. Crezusem că mi-am epuizat toate posibilitățile și o să aleg mereu între cafea neagră și ceai, însă am găsit substitutul perfect ...</p>
 
-<p class="intro">Apă caldă 😂</p>
+<p class="intro"><b>Apă caldă 😂</b></p>
 
 Cum stau la birou toată ziua în fața unui laptop, simt nevoia să bag ceva cald, obișnuință formată în timp, de am ajuns să bag 4-5 căni de cafea pe zi. Încerc însă ceva nou:
 

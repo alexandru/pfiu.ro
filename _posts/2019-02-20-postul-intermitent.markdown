@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post-dieta
 title:  "Postul intermitent"
 date:   2019-02-20
-categories: Dietă
+tags: ["Fasting"]
 description: Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată. Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză intermittent fasting, prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 image: /assets/media/2019/fasting.jpg
 ---
@@ -23,7 +23,7 @@ image: /assets/media/2019/fasting.jpg
     - [Autofagie](#autofagie)
     - [Importanța postului curat](#importanța-postului-curat)
     - [Rata metabolică](#rata-metabolică)
-- [Alătură-te, hai pe grup](#alătură-te-hai-pe-grup)
+- [Alătură-te, hai în grup](#alatura-te-hai-in-grup)
 
 ## Introducere
 
@@ -169,12 +169,3 @@ Vezi deasemenea:
 O lucrare ce confirmă diferența între post și restricția calorică vizavi de rata metabolică bazală:
 
 - [Resting energy expenditure in short-term starvation is increased as a result of an increase in serum norepinephrine.](https://www.ncbi.nlm.nih.gov/pubmed/10837292)
-
-## Alătură-te, hai pe grup
-
-Avem un grup de Facebook al cărui subiect este postul, ca și intervenție dietetică. E mai ușor în grup:
-
-[facebook.com/groups/FastingRomania/](https://www.facebook.com/groups/FastingRomania/){:target="_blank"}
-
-
-Deasemenea [abonează-te la acest blog](/abonament/) 😉

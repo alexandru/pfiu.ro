@@ -48,6 +48,10 @@ module Jekyll
         elem["href"] = to_absolute_url(@@site, elem['href'])
       end
 
+      doc.css("figcaption").each do |elem|
+        elem.inner_html = "<i>" + elem.inner_html + "</i><br/>"
+      end
+
       doc.at_css("body").inner_html
     end
   end

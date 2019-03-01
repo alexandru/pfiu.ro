@@ -1,0 +1,7 @@
+/*
+  # Caching for 4 hours
+  Cache-Control: public, max-age=14400
+
+/assets/*
+  # Caching for 100 hours (4 days)
+  Cache-Control: public, max-age=360000

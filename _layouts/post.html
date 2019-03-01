@@ -9,7 +9,11 @@ layout: default
     </figure>
   {% endif %}{% endunless %}
   <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | ro_date_to_long_string }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> minute</p>
+  <p class="meta">
+    {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
+    {{ page.date | ro_date_to_long_string }} |
+    <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
+  </p>
 
   {{ content }}
 

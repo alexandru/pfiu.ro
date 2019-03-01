@@ -1,3 +1,13 @@
+require "nokogiri"
+
+def to_absolute_url(site, url)
+  if url =~ /^\//
+    site['url'] + site['baseurl'] + url
+  else
+    url
+  end
+end
+
 module Jekyll
   module MyDateFilter
     @@ro_months = {
@@ -23,6 +33,25 @@ module Jekyll
       d + " " + m + " " + y
     end
   end
+
+  module MyRSSFilter
+    @@site = Jekyll.configuration({})
+
+    def absolute_links(html)
+      doc = Nokogiri::HTML(html)
+
+      doc.css("img").each do |elem|
+        elem["src"] = to_absolute_url(@@site, elem['src'])
+      end
+
+      doc.css("a").each do |elem|
+        elem["href"] = to_absolute_url(@@site, elem['href'])
+      end
+
+      doc.at_css("body").inner_html
+    end
+  end
 end
 
 Liquid::Template.register_filter(Jekyll::MyDateFilter)
+Liquid::Template.register_filter(Jekyll::MyRSSFilter)

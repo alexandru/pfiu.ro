@@ -42,10 +42,4 @@ Inspirat de ["Delay, Don't Deny"](https://www.goodreads.com/book/show/33647411-d
 26. Ce vreau să-i învăț pe cei din generațiile următoare (copii, nepoți) despre mâncare?
 27. Când mă gândesc la istoria mea cu dietele anterioare, ce lecții am învățat despre mine?
 
-## Alătură-te, hai pe grup
-
-Avem un grup de Facebook al cărui subiect este postul, ca și intervenție dietetică. E mai ușor în grup:
-
-* [facebook.com/groups/FastingRomania/](https://www.facebook.com/groups/FastingRomania/)
-
-Deasemenea [abonează-te la acest blog](https://pfiu.ro/abonament/) 😉
+{% include hai-in-grup.html %}

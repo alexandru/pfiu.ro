@@ -110,11 +110,4 @@ Aș include aici și ceaiul negru sau verde. Ceaiul verde în particular am citi
 
 ATENȚIE: consensul însă nu este unanim vizavi de autofagie, deși există indicații că cafeina ajută, vezi notițe.
 
-## Alătură-te, hai pe grup
-
-Avem un grup de Facebook al cărui subiect este postul, ca și intervenție dietetică. E mai ușor în grup:
-
-- [facebook.com/groups/FastingRomania/](https://www.facebook.com/groups/FastingRomania/){:target="_blank"}
-
-
-Deasemenea [abonează-te la acest blog](/abonament/) 😉
+{% include hai-in-grup.html %}

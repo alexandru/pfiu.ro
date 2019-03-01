@@ -174,7 +174,7 @@ O lucrare ce confirmă diferența între post și restricția calorică vizavi d
 
 Avem un grup de Facebook al cărui subiect este postul, ca și intervenție dietetică. E mai ușor în grup:
 
-- [facebook.com/groups/FastingRomania/](https://www.facebook.com/groups/FastingRomania/){:target="_blank"}
+[facebook.com/groups/FastingRomania/](https://www.facebook.com/groups/FastingRomania/){:target="_blank"}
 
 
 Deasemenea [abonează-te la acest blog](/abonament/) 😉

@@ -273,6 +273,8 @@ POST STYLING
 	}
 
 	img {
+		border-radius: 3px;
+		transition: opacity .2s ease;
 		margin-bottom: 2rem;
 	}
 

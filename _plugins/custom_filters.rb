@@ -52,7 +52,8 @@ module Jekyll
         elem.inner_html = "<p><em>" + elem.inner_html + "</em></p>"
       end
 
-      doc.at_css("body").inner_html
+      body = doc.at_css("body")
+      body ? doc.at_css("body").inner_html : ""
     end
   end
 end

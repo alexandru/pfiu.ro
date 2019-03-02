@@ -22,12 +22,14 @@ fields:
   label: Categories
   type: tag_list
   hidden: false
-  default: ''
+  default:
+  - Dietă
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
-  default: ''
+  default:
+  - Fasting
 - name: description
   label: Description
   type: textarea

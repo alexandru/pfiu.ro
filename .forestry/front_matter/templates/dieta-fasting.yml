@@ -45,3 +45,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- _posts/lumina-ne-afectează-performanța-și-somnul.md

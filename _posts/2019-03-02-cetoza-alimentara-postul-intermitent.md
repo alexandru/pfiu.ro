@@ -76,15 +76,15 @@ După numai 15 ore de post (parte din protocolul meu zilnic de post intermitent)
 
 Dieta recomandată pentru cetoză alimentară este dieta ketogenică (Keto) prin care consumul de carbohidrați zilnic este redus la sub 15 de grame (cantitate netă, adică se scad fibrele din total).
 
-Problema cu Keto însă este că nu-i foarte eficientă în sine dacă cetoza alimentară este un scop. Consumul de carbohidrați redus nu-i o problemă insurmontabilă, însă o problemă și mai mare este consumul de proteine. Practic în lipsă de glucoză organismul poate fabrica glucoza necesară prin [gluconeogeneză](https://ro.wikipedia.org/wiki/Gluconeogenez%C4%83){:target="_blank"}, descompunând proteine, însă în caz de lipsuri corpul emite compuși de cetonă practic pentru a salva musculatura.
+Problema cu Keto însă este că nu-i foarte eficientă în sine dacă cetoza alimentară este un scop. Consumul de carbohidrați redus nu-i o problemă insurmontabilă, însă o problemă și mai mare este consumul de proteine. Practic în lipsă de glucoză organismul poate fabrica glucoza necesară prin [gluconeogeneză](https://ro.wikipedia.org/wiki/Gluconeogenez%C4%83){:target="_blank"}, descompunând proteine. Este important de reținut aici că starea de cetoză se întâmplă ca reacție de supraviețuire, ficatul emițând cetone practic pentru a salva musculatura.
 
-Și problema apare atunci când mănânci mai multe proteine decât are corpul nevoie, deoarece surplusul este folosit pentru gluconeogeneză, un proces ce se întâmplă oricum, deoarece creierul și alte organe nu pot funcționa doar cu compuși de cetonă.
+Și problema apare atunci când mănânci mai multe proteine decât are corpul nevoie pentru a-și menține masa musculară, deoarece surplusul este folosit pentru gluconeogeneză.
 
 Nu puține sunt cazurile în care oameni ce țin dieta Keto religios (dpdv al carbohidraților), când își măsoară cetonele din sânge, observă valori de sub 0.5 mmol/L. De altfel există și o neînțelegere vizavi de Ketostix, testele de cetonă în urină, folosite de începători, și ce pentru mulți încetează să mai funcționeze după câteva luni. Se spune că nu mai funcționează deoarece corpul s-a adaptat la consumul de grăsime, însă pentru mulți motivul este de fapt că nu sunt în cetoză.
 
 Pentru cele mai bune rezultate cei experimentați apelează la două metode:
 
-1. combinarea cu postul intermitent
+1. combinarea dietei Keto cu postul intermitent
 2. suplimente alimentare cu cetone "exogene", cum ar fi uleiul de cocos, sau uleiul MCT ... însă prin suplimente alimentare nu se atinge o stare metabolică adecvată
 
 Astfel că postul intermitent e util chiar dacă ții sau nu Keto.

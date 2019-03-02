@@ -16,9 +16,9 @@ sections:
   create: all
   match: "**/*"
 upload_dir: assets/media
-public_path: ''
-front_matter_path: ''
-use_front_matter_path: false
+public_path: "{{ site.baseurl }}/assets/media"
+front_matter_path: "/assets/media"
+use_front_matter_path: true
 file_template: ":year:/:filename:"
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site

@@ -5,7 +5,7 @@ categories:
 tags:
 - Fasting
 title: Lumina ne afectează performanța și somnul
-date: ''
+date: 2019-03-02 00:00:00 +0200
 description: ''
 image: "{{ site.baseurl }}/assets/media/2019/blue-light.jpg"
 image_hide_in_post: false

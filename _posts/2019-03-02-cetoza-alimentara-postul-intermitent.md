@@ -50,7 +50,7 @@ Evident, deși în timpul unui post intermitent atingi starea de cetoză, odată
 
 ## Experiment personal (n=1)
 
-Am un glucometru ce poate măsura și cetonele din sânge. L-am luat de distracție și pentru că-mi place să colectez date. Testele pentru cetone sunt destul de scumpe și nu mi-am cumpărat decât câteva.
+Am un glucometru ce poate măsura și cetonele din sânge. L-am luat de distracție și pentru că-mi place să colectez date. Testele pentru cetone sunt destul de scumpe, dar merg pentru un test ocazional.
 
 Practic post intermitent, programul meu fiind de minim 18 ore pe zi. Cu o zi înainte am mâncat salată boeuf și o banană. În mod regulat mănânc cartofi și banane, fructele mele preferate. Mă abțin ce-i drept de la grăunțe (făină) și zahăr (orice în formă procesată), însă alaltăieri am mâncat și puțin tort, fiind ziua soției mele.
 

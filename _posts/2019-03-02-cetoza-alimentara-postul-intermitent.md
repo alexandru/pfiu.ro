@@ -82,7 +82,7 @@ Problema cu Keto însă este că nu-i foarte eficientă în sine dacă cetoza al
 
 Și problema apare atunci când mănânci mai multe proteine decât are corpul nevoie pentru a-și menține masa musculară, deoarece surplusul este folosit pentru gluconeogeneză.
 
-Nu puține sunt cazurile în care oameni ce țin dieta Keto religios (dpdv al carbohidraților), când își măsoară cetonele din sânge, observă valori de sub 0.5 mmol/L. De altfel există și o neînțelegere vizavi de Ketostix, testele de cetonă în urină, folosite de începători, și ce pentru mulți încetează să mai funcționeze după câteva luni. Se spune că nu mai funcționează deoarece corpul s-a adaptat la consumul de grăsime, însă pentru mulți motivul este de fapt că nu sunt în cetoză.
+Nu puține sunt cazurile în care oameni ce țin dieta Keto religios (dpdv al carbohidraților), când își măsoară cetonele din sânge, observă valori de sub 0.5 mmol/L. De altfel există și o neînțelegere vizavi de Ketostix, testele de cetonă în urină, folosite de începători, și ce pentru mulți încetează să mai funcționeze după câteva luni. Se spune că nu mai funcționează deoarece corpul s-a adaptat la consumul de grăsime, însă pentru mulți motivul adevărat este că nu mai intră în cetoză.
 
 Pentru cele mai bune rezultate cei experimentați apelează la două metode:
 

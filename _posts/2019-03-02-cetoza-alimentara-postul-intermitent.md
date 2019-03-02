@@ -72,6 +72,8 @@ După numai 15 ore de post (parte din protocolul meu zilnic de post intermitent)
 
 Țineți cont că valorile sunt de la ora 11, după doar 15 ore de post. Protocolul meu normal de post intermitent este de minim 18 ore pe zi și se întâmplă să sar și de 20 de ore, iar nivelul cetonelor din sânge tot crește.
 
+NOTĂ: nu este prima oară când fac experimentul, l-am repetat de câteva ori în ultimele 3 săptămâni și cu siguranță îl voi mai repeta, însă rezultatele sunt consistent. Într-adevăr dacă mă măsor la peste 12 ore de post îmi dă peste 0.5 mmol/L.
+
 ## Dieta ketogenică
 
 Dieta recomandată pentru cetoză alimentară este dieta ketogenică (Keto) prin care consumul de carbohidrați zilnic este redus la sub 15 de grame (cantitate netă, adică se scad fibrele din total).

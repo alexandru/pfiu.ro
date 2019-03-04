@@ -7,4 +7,4 @@ http://www.pfiu.ro/* https://pfiu.ro/:splat 301!
 https://www.pfiu.ro/* https://pfiu.ro/:splat 301!
 
 # Redirect flux.pfiu.ro to /feed/
-https://flux.pfiu.ro/ https://pfiu.ro/feed.xml 302!
+https://flux.pfiu.ro/* https://pfiu.ro/feed/:splat 302!

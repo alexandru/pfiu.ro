@@ -37,11 +37,20 @@ module Jekyll
   module MyRSSFilter
     @@site = Jekyll.configuration({})
 
-    def absolute_links(html)
+    def rss_process(html)
       doc = Nokogiri::HTML(html)
 
       doc.css("img").each do |elem|
         elem["src"] = to_absolute_url(@@site, elem['src'])
+        elem["style"] = "max-width: 100%; " + (elem["style"] || "")
+      end
+
+      doc.css("iframe").each do |elem|
+        elem["style"] = "max-width: 100%; " + (elem["style"] || "")
+      end
+
+      doc.css("figure").each do |elem|
+        elem["style"] = "max-width: 100%; " + (elem["style"] || "")
       end
 
       doc.css("a").each do |elem|

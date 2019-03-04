@@ -28,7 +28,7 @@ layout: null
           </a>
           <br />
           {% endif %}{% endunless %}
-          {{ post.content | absolute_links }}
+          {{ post.content | rss_process }}
         ]]></description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

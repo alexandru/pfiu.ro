@@ -309,13 +309,14 @@ POST STYLING
 	}
 
 	div.related {
-		border-top: 3px solid darken(white, 15%);
+		border-top: 2px solid darken(white, 15%);
 		width: 100%;
 		margin: 0 auto 3rem;
 
 		h2 {
 			margin: 0;
 			margin-top: 1rem;
+			color: darken($primary-color, 20%);
 		}
 
 		div.container {

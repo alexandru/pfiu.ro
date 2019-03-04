@@ -6,9 +6,12 @@ https://pfiu.netlify.com/* https://pfiu.ro/:splat 301!
 http://www.pfiu.ro/* https://pfiu.ro/:splat 301!
 https://www.pfiu.ro/* https://pfiu.ro/:splat 301!
 
-# Redirect flux.pfiu.ro to /feed/
-http://flux.pfiu.ro/* https://flux.pfiu.ro/feed/:splat 301!
+### RSS feed
 
+# HTTPS
+http://flux.pfiu.ro/*  https://flux.pfiu.ro/:splat 301!
+
+# Redirect flux.pfiu.ro to /feed/
 https://flux.pfiu.ro/* https://pfiu.ro/feed/:splat 200!
 
 # Correct feed path

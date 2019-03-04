@@ -6,5 +6,5 @@ https://pfiu.netlify.com/* https://pfiu.ro/:splat 301!
 http://www.pfiu.ro/* https://pfiu.ro/:splat 301!
 https://www.pfiu.ro/* https://pfiu.ro/:splat 301!
 
-# Redirect /feed/ to feed.xml
-https://pfiu.ro/feed/ https://flux.pfiu.ro/ 301!
+# Redirect flux.pfiu.ro to /feed/
+https://flux.pfiu.ro/ https://pfiu.ro/feed.xml 302!

@@ -307,6 +307,55 @@ POST STYLING
 			margin-bottom: 0;
 		}
 	}
+
+	div.related {
+		border-top: 3px solid darken(white, 15%);
+		width: 100%;
+		margin: 0 auto 2rem;
+
+		h2 {
+			margin: 0;
+			margin-top: 2rem;
+		}
+
+		div.container {
+			display: block;
+			margin-top: 2rem;
+
+			div.item {
+				clear: left;
+				margin-bottom: 1rem;
+
+				div.related-image {
+					display: block;
+					float: left;
+					margin-bottom: 1rem;
+					margin-right: 1rem;
+					width: 84px;
+					height: 84px;
+
+					background-position: center;
+					background-size: 150px;
+					border-radius: 2px;
+					text-decoration: none;
+					padding: 1rem;
+				}
+
+				.related-meta {
+					font-family: $sans-serif;
+					font-weight: 300;
+					font-size: .8em;
+					color: lighten(black, 50%);
+
+					a {
+						color: lighten(desaturate($primary-color, 25%), 15%);
+						text-decoration: none;
+						&:hover { text-decoration: underline; }
+					}
+				}
+			}
+		}
+	}
 }
 
 

@@ -3,38 +3,63 @@ layout: default
 ---
 <div class="post">
   {% unless page.image_hide_in_post %}{% if page.image %}
-    <figure class="featuredImage">
-      <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
-      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
-    </figure>
+  <figure class="featuredImage">
+    <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
   {% endif %}{% endunless %}
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
     {{ page.date | ro_date_to_long_string }}
     {% for category in page.categories %}
-      | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+    | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
     {% endfor %}
     | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
   </p>
 
   {{ content }}
 
+  {% if site.related_posts %}
+  <div class="related">
+    <h2>Articole similare</h2>
+    <div class="container">
+      {% for related_post in site.related_posts %}
+      {% unless related_post.url == page.url %}
+      <div class="item">
+        <a class="related-link" href="{{ site.baseurl }}{{ related_post.url }}">
+          <div class="related-image" style="background-image: url({{ site.baseurl }}{{ related_post.image }});"></div>
+          {{ related_post.title }}
+        </a>
+        <div class="related-meta">
+          {{ related_post.date | ro_date_to_long_string }}
+          {% for category in related_post.categories %}
+          | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endunless %}
+      {% endfor %}
+      <div class="clearfix"></div>
+    </div>
+  </div>
+  {% endif %}
+
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
     {% if page.previous.url %}
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+    <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
       {% if page.previous.image %}
-        <img src="{{ site.baseurl }}{{ page.previous.image }}" alt="">
+      <img src="{{ site.baseurl }}{{ page.previous.image }}" alt="">
       {% endif %}
     </a>
     {% endif %}
     {% if page.next.url %}
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
+    <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
       {% if page.next.image %}
-        <img src="{{ site.baseurl }}{{ page.next.image }}" alt="">
+      <img src="{{ site.baseurl }}{{ page.next.image }}" alt="">
       {% endif %}
-      </a>
+    </a>
     {% endif %}
   </div>
 </div>

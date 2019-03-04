@@ -1,16 +1,15 @@
 ---
 layout: default
-has_full_title: true
-pagination:
-  enabled: true
+autopages:
+  title: ':cat'
+  permalink: '/categorie/:cat/'
 ---
-
 <div class="home" id="home">
-  <!-- <h1 class="pageTitle">Articole Recente</h1> -->
+  <h1 class="pageTitle"><span class="type">Categorie:</span> {% if page.autopages %}{{ page.autopages.display_name }}{% endif %}</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
-        {% include post-excerpt.html post=post %}
+        {% include post-excerpt.html post=post autopages=page.autopages %}
       </li>
     {% endfor %}
   </ul>

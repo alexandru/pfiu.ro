@@ -22,6 +22,17 @@ pagination:
   title: ':title - pagina :num'
   sort_reverse: true
 
+autopages:
+  enabled: true
+
+  categories:
+    layouts:
+      - 'auto-categorie.html'
+  tags:
+    enabled: false
+  collections:
+    enabled: false
+
 navigation:
   - title: Acasă
     url: /index.html

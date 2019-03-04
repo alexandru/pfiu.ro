@@ -11,8 +11,11 @@ layout: default
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
-    {{ page.date | ro_date_to_long_string }} |
-    <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
+    {{ page.date | ro_date_to_long_string }}
+    {% for category in page.categories %}
+      | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+    {% endfor %}
+    | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
   </p>
 
   {{ content }}

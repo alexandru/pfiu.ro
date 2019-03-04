@@ -165,6 +165,10 @@ PAGE STYLES
 .pageTitle {
 	margin: 2rem auto 1em;
 	text-align: center;
+
+	.type {
+		color: #888;
+	}
 }
 
 .content {
@@ -254,6 +258,14 @@ POST STYLING
 		color: lighten(black, 50%);
 		font-family: $sans-serif;
 		font-weight: 300;
+
+		a {
+			color: lighten(desaturate($primary-color, 25%), 15%);
+			text-decoration: none;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
 	}
 
 	figure {
@@ -480,11 +492,17 @@ POST LIST STYLING
 			}
 		}
 
-		.date {
-			color: lighten(black, 50%);
+		.meta {
 			font-family: $sans-serif;
 			font-weight: 300;
 			font-size: .8em;
+			color: lighten(black, 50%);
+
+			a {
+				color: lighten(desaturate($primary-color, 25%), 15%);
+				text-decoration: none;
+				&:hover { text-decoration: underline; }
+			}
 		}
 
 		h3 {

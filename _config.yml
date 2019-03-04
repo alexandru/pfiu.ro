@@ -32,6 +32,13 @@ navigation:
   - title: Abonează-te
     url: /abonament/
 
+authors:
+  alexelcu:
+    name: Alexandru Nedelcu
+    github: alexandru
+    twitter: alexelcu
+    facebook: alexelcu
+
 social:
   # github: alexandru
   # twitter: alexelcu

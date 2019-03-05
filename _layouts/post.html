@@ -24,7 +24,12 @@ layout: default
   <div class="related">
     <h2>Articole similare</h2>
     <div class="container">
-      {% for related_post in site.related_posts limit:4 %}
+      {% assign num=4 %}
+      {% for related_post in site.related_posts limit:num %}
+        {% if related_post.url == page.url %}{% assign num=5 %}{% endif %}
+      {% endfor %}
+
+      {% for related_post in site.related_posts limit:num %}
       {% unless related_post.url == page.url %}
       <div class="item">
         <a class="related-link" href="{{ site.baseurl }}{{ related_post.url }}">

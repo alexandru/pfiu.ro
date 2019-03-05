@@ -17,5 +17,3 @@ author: alexelcu
 Știința ce explică aceste sisteme noi s-a accelerat în ultimii 20, odată cu descoperirea fotopigmentului din ochi numit [Melanopsină](https://en.wikipedia.org/wiki/Melanopsin). 
 
 Mulți dintre noi am auzit de "conuri și bastonașe", cele două tipuri de celule fotoreceptoare prin care ochiul captează lumina, însă celulele ganglionului retinian ce conțin melanopsină sunt sensibile la o gamă largă de frecvențe "albastru-verde" în jurul valorii de 480nm.
-
-O gamă variată de frecvențe pare că stimulează sistemul circadian în oameni, astfel că deși ne referim la "lumina albastră"

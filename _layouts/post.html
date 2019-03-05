@@ -24,11 +24,11 @@ layout: default
   <div class="related">
     <h2>Articole similare</h2>
     <div class="container">
-      {% for related_post in site.related_posts %}
+      {% for related_post in site.related_posts limit:4 %}
       {% unless related_post.url == page.url %}
       <div class="item">
         <a class="related-link" href="{{ site.baseurl }}{{ related_post.url }}">
-          <div class="related-image" style="background-image: url({{ site.baseurl }}{{ related_post.image }});"></div>
+          <div class="related-image" style='{% if related_post.image %}background-image: url({% asset '{{ related_post.image | replace: "/assets/media/", "" }}' @path magick:resize=300x300 %});{% endif %}'></div>
           {{ related_post.title }}
         </a>
         <div class="related-meta">

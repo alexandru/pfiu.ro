@@ -57,3 +57,12 @@ social:
   email: contact@m9.pfiu.ro
 
 google_analytics: "UA-84530423-4"
+
+assets:
+  destination: "/assets/compiled"
+  caching:
+    path: ".jekyll-cache/assets"
+    type: file # Possible values: memory, file
+    enabled: true
+  sources:
+    - assets/media

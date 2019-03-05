@@ -18,6 +18,17 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+      section: jekyll-posts
+    options:
+    - alexelcu
+    required: true
+  label: Author
+  default: alexelcu
 - name: categories
   label: Categories
   type: tag_list
@@ -46,5 +57,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/intri-în-cetoză-doar-cu-post-intermitent.md
 - _posts/lumina-ne-afecteaza-performanta-si-somnul.md

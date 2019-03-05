@@ -18,6 +18,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  config:
+    date_format: YYYY-MM-DD
 - type: select
   name: author
   config:

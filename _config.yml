@@ -38,8 +38,6 @@ navigation:
     url: /index.html
   - title: Despre
     url: /despre/
-  - title: Contact
-    url: /contact/
   - title: Abonează-te
     url: /abonament/
 

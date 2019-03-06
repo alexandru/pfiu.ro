@@ -2,12 +2,6 @@
 layout: default
 ---
 <div class="post">
-  {% unless page.image_hide_in_post %}{% if page.image %}
-  <figure class="featuredImage">
-    <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
-    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
-  </figure>
-  {% endif %}{% endunless %}
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
@@ -17,6 +11,13 @@ layout: default
     {% endfor %}
     | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
   </p>
+
+  {% unless page.image_hide_in_post %}{% if page.image %}
+  <figure class="featuredImage">
+    <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}{% endunless %}
 
   {{ content }}
 

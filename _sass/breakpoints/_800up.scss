@@ -10,20 +10,6 @@ body {
 	padding-top: 0;
 	position: relative;
 	z-index: 1;
-
-	&:after {
-		z-index: -1;
-		background: white;
-		content: "";
-		display: block;
-		width: 100%;
-		height: 10em;
-		position: absolute;
-		top: -2em;
-		left: 0;
-		transform: skewY(-2deg);
-		transform-origin: bottom left;
-	}
 }
 
 .container {
@@ -56,9 +42,9 @@ HEADER STYLING
 ***************/
 
 .header {
-	height: 15em;
+	height: 13em;
 	position: relative;
-	padding-bottom: 2em;
+	padding-bottom: 0;
 
 	.container {
 		position: relative;
@@ -156,19 +142,6 @@ POST STYLING
 	.featuredImage {
 		position: relative;
 		margin-top: 2rem;
-
-		&:before {
-			background: white;
-			content: "";
-			display: block;
-			width: 100%;
-			height: 4em;
-			position: absolute;
-			top: -2em;
-			left: 0;
-			transform: skewY(-2deg);
-			transform-origin: bottom left;
-		}
 	}
 }
 

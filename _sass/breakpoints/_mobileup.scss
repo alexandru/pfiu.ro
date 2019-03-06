@@ -3,7 +3,8 @@ GLOBAL STYLES
 ***************/
 
 html {
-  box-sizing: border-box;
+	box-sizing: border-box;
+	background: $site-background;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -15,7 +16,7 @@ body {
 	font-size: 112.5%; // 18px base font size
 	color: $black;
 	overflow-x: hidden;
-  margin: 0;
+	margin: 0;
 
 	p , ul {
 		margin: 0 0 2rem;
@@ -186,7 +187,7 @@ HEADER STYLING
 	background-position: center center;
 	color: white;
 	padding: 0;
-	height: 3em;
+	height: 10em;
 
 	.container {
 		padding: 0;
@@ -563,6 +564,10 @@ POST LIST STYLING
 
 // -------------------------------------------------
 // Customisations
+
+#home {
+	padding-top: 2em;
+}
 
 img.right {
 	float: none;

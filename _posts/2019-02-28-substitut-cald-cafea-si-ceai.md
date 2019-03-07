@@ -10,7 +10,9 @@ image: /assets/media/2019/apa-calda.jpg
 image_hide_in_post: true
 ---
 
-<p class="intro"><span class="dropcap">B</span>eau prea multă cafea și ceaiul nu-mi place, plus că-n post ceaiul îmi cam face foame ceea ce nu-i bine. Crezusem că mi-am epuizat toate posibilitățile și o să aleg mereu între cafea neagră și ceai, însă am găsit substitutul perfect ...</p>
+<p class="intro">
+  Beau prea multă cafea și ceaiul nu-mi place, plus că-n post ceaiul îmi cam face foame ceea ce nu-i bine. Crezusem că mi-am epuizat toate posibilitățile și o să aleg mereu între cafea neagră și ceai, însă am găsit substitutul perfect ...
+</p>
 
 <p class="intro"><b>Apă caldă 😂</b></p>
 

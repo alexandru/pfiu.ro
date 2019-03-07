@@ -10,7 +10,7 @@ image: /assets/media/2019/writing.jpg
 image_caption: "<a href='https://flic.kr/p/ffFhz5'>sursa</a>"
 ---
 
-<p class="intro"><span class="dropcap">J</span>urnalul poate face diferența între succes și eșec, deoarece obstacolele mentale sunt principala problemă atunci când vrem să slăbim, pentru că există o componentă emoțională puternică atunci când vine vorba de mâncare. Sărbătorim cu mâncare și ne recompensăm cu mâncare.</p>
+<p class="intro">Jurnalul poate face diferența între succes și eșec, deoarece obstacolele mentale sunt principala problemă atunci când vrem să slăbim, pentru că există o componentă emoțională puternică atunci când vine vorba de mâncare. Sărbătorim cu mâncare și ne recompensăm cu mâncare.</p>
 
 Poți ține un jurnal public, pe rețele de socializare, pe propriul blog, sau îl poți ține în privat, pe un fișier în propriul computer, sau folosind un caiet și-un pix simplu, nu prea contează.
 

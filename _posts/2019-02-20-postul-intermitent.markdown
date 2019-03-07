@@ -29,7 +29,7 @@ image: /assets/media/2019/fasting.jpg
 
 ## Introducere
 
-<p class="intro"><span class="dropcap">P</span>ostul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată.</p>
+<p class="intro">Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată.</p>
 
 Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză [intermittent fasting](https://en.wikipedia.org/wiki/Intermittent_fasting), prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 

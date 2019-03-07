@@ -12,7 +12,7 @@ image_hide_in_post: true
 ---
 
 <p class="intro">
-  <span class="dropcap">C</span>etoza alimentară este o stare metabolică ce stimulează arderea de grăsimi (lipoliza), ajutând la slăbit, dar și un semn că nivelul de insulină din sânge e foarte scăzut, ceea ce-i important pentru diabetici. Postul intermitent are <a href="/2019/02/20/postul-intermitent/#beneficii">multe beneficii</a>, dar oare poate induce starea de cetoză, fără schimbarea alimentației?
+  Cetoza alimentară este o stare metabolică ce stimulează arderea de grăsimi (lipoliza), ajutând la slăbit, dar și un semn că nivelul de insulină din sânge e foarte scăzut, ceea ce-i important pentru diabetici. Postul intermitent are <a href="/2019/02/20/postul-intermitent/#beneficii">multe beneficii</a>, dar oare poate induce starea de cetoză, fără schimbarea alimentației?
 </p>
 
 <p class="intro">Răspunsul este DA, dar să vedem ...</p>

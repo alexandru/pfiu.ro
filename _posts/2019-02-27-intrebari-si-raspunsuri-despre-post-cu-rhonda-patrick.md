@@ -11,7 +11,7 @@ image_hide_in_post: true
 ---
 
 <p class="intro">
-  <span class="dropcap">D</span>r. Rhonda Patrick este destul de cunoscută în comunitatea de fasting, fiind o sursă de informații despre longevitate și sănătate optimă conform ultimelor cercetări. Are doctorat în știință biomedicală și se angajează în dezbateri publice despre rolul deficiențelor de micro-nutrienți în bolile cronice, despre beneficiile exercițiului fizic, a postului și despre importanța meditației, a reducerii stresului și a somnului.
+  Dr. Rhonda Patrick este destul de cunoscută în comunitatea de fasting, fiind o sursă de informații despre longevitate și sănătate optimă conform ultimelor cercetări. Are doctorat în știință biomedicală și se angajează în dezbateri publice despre rolul deficiențelor de micro-nutrienți în bolile cronice, despre beneficiile exercițiului fizic, a postului și despre importanța meditației, a reducerii stresului și a somnului.
 </p>
 
 Mi-a plăcut următorul interviu, este despre beneficiile metabolice ale postului intermitent sau extins, ce poți consuma, etc:

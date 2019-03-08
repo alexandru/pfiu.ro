@@ -6,3 +6,14 @@ body {
   max-width: 990px;
 }
 
+.footer {
+	.container {
+		max-width: 990px;
+	}
+
+	.contributions {
+    #disqus_thread {
+			max-width: 1000px;
+		}
+	}
+}

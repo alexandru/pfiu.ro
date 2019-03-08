@@ -23,10 +23,10 @@
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif -%}
     {% if page.date -%}
-      <meta content="{{ page.date | date_to_xmlschema }}" property="og:article:published_time">
+      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     {% endif -%}
     {% if page.date_updated -%}
-      <meta content="{{ page.date_updated | date_to_xmlschema }}" property="og:article:modified_time">
+      <meta content="{{ page.date_updated | date_to_xmlschema }}" property="article:modified_time">
     {% endif -%}
     {% if page.image -%}
       <meta content="{{ site.url }}{{ page.image }}" property="og:image">
@@ -38,7 +38,7 @@
     {% else %}
       {% assign author_facebook = site.authors.alexelcu.facebook -%}
     {% endif -%}
-    <meta content="og:article:author" property="https://www.facebook.com/{{ author_facebook }}">
+    <meta content="article:author" property="https://www.facebook.com/{{ author_facebook }}">
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">

@@ -254,7 +254,7 @@ POST STYLING
 		}
 	}
 
-	.meta {
+	.meta, #article-details {
 		text-align: center;
 		color: lighten(black, 50%);
 		font-family: $sans-serif;
@@ -307,6 +307,14 @@ POST STYLING
 		img {
 			margin-bottom: 0;
 		}
+	}
+
+	#article-details {
+		border-top: 1px solid darken(white, 15%);
+		width: 100%;
+		text-align: left;
+		margin: 0 auto;
+		padding: 1rem 0;
 	}
 
 	div.related {

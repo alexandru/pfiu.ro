@@ -6,13 +6,10 @@ layout: default
   <p class="meta">
     <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ page.url | absolute_url }}"/>
     <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}"/>
-    {% if page.date_updated -%}
-    <meta itemprop="dateModified" content="{{ page.date_updated | date: '%Y-%m-%dT%H:%M:%S%z' }}"/>
-    {% endif %}
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
     <time itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | ro_date_to_long_string }}</time>
     {% for category in page.categories %}
-    | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+    | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" itemprop="category" class="category">{{ category | downcase }}</a>
     {% endfor %}
     | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
   </p>
@@ -56,6 +53,20 @@ layout: default
 
   <div id="content" itemprop="articleBody">
     {{ content }}
+  </div>
+
+  <div id="article-details">
+    {% if page.date_updated -%}
+      {% assign date_updated = page.date_updated -%}
+    {% else -%}
+      {% assign date_updated = page.date -%}
+    {% endif %}
+    <time itemprop="dateModified" content="{{ date_updated | date: '%Y-%m-%dT%H:%M:%S%z' }}">
+        Actualizat: {{ date_updated | ro_date_to_long_string }}
+    </time>
+    {% if page.author %}
+      | Scris de <a href="{{ '/despre/' | absolute_url }}#{{ page.author }}" itemprop="url" rel="author">{{ site.authors | map: page.author | map: 'name' }}</a>
+    {% endif %}
   </div>
 
   {% if site.related_posts %}

@@ -34,11 +34,11 @@
       <meta content="{{ '/assets/media/header.jpg' | prepend: site.url }}" property="og:image">
     {% endif -%}
     {% if page.author -%}
-      {% assign author_facebook = site.authors | map: page.author | map: "name" -%}
+      {% assign author_facebook = site.authors | map: page.author | map: "facebook" -%}
     {% else %}
-      {% assign author_facebook = site.authors.alexelcu.name -%}
+      {% assign author_facebook = site.authors.alexelcu.facebook -%}
     {% endif -%}
-    <meta content="article:author" property="https://www.facebook.com/{{ author_facebook }}">
+    <meta content="https://www.facebook.com/{{ author_facebook }}" property="article:author">
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">

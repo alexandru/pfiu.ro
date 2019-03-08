@@ -9,7 +9,7 @@ layout: default
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
     <time itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | ro_date_to_long_string }}</time>
     {% for category in page.categories %}
-    | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" itemprop="category" class="category">{{ category | downcase }}</a>
+    | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
     {% endfor %}
     | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
   </p>

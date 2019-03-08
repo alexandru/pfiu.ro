@@ -451,8 +451,20 @@ FOOTER STYLING
 	padding: 2rem 0;
 	clear: both;
 
+	border-top: 2px dashed darken(white, 15%);
+	background: $site-background-footer;
+
+	.contributions {
+    max-width: 90%;
+		margin: 0 auto;
+	}
+
+	.bottom {
+		border-top: 2px solid darken(white, 15%);
+		background: $site-background;
+	}
+
 	.container {
-		border-top: 4px solid darken(white, 15%);
 		padding-top: .5em;
     max-width: 90%;
 	}

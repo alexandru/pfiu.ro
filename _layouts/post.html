@@ -18,27 +18,32 @@ layout: default
   </p>
 
   {% if page.image -%}
-  {% unless page.image_hide_in_post -%}
-  <figure class="featuredImage" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="{{ page.image | absolute_url }}" />
-    <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
-    {% if page.image_caption %}<figcaption itemprop="caption">{{ page.image_caption }}</figcaption>{% endif %}
-  </figure>
-  {% else %}
-  <div class="hidden" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="{{ page.image | absolute_url }}" />
-    {% if page.image_caption -%}
-    <meta itemprop="caption" content="{{ page.image_caption | escape }}" />
-    {% endif %}
-  </div>
-  {% endunless %}
+    {% unless page.image_hide_in_post -%}
+    <figure class="featuredImage" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="{{ page.image | absolute_url }}" />
+      <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
+      {% if page.image_caption %}<figcaption itemprop="caption">{{ page.image_caption }}</figcaption>{% endif %}
+    </figure>
+    {% else %}
+    <div class="hidden" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="{{ page.image | absolute_url }}" />
+      {% if page.image_caption -%}
+      <meta itemprop="caption" content="{{ page.image_caption | escape }}" />
+      {% endif %}
+    </div>
+    {% endunless %}
   {% endif %}
 
-  {% if page.author %}
-    {% assign author = site.authors | map: post.author %}
+  {% if page.author -%}
+    {% assign author_twitter = site.authors | map: page.author | map: "twitter" -%}
+    {% assign author_facebook = site.authors | map: page.author | map: "facebook" -%}
+    {% assign author_github = site.authors | map: page.author | map: "github" -%}
     <div class="hidden" itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="{{ author | map: 'name' }}" />
-      <meta itemprop="url" content="{{ '/despre/' | absolutet_url }}#{{ page.author }}" />
+      <meta itemprop="name" content="{{ site.authors | map: page.author | map: 'name' }}" />
+      <meta itemprop="url" content="{{ '/despre/' | absolute_url }}#{{ page.author }}" />
+      {% if author_twitter -%}<meta itemprop="url" content="https://twitter.com/{{ author_twitter }}" />{% endif %}
+      {% if author_facebook -%}<meta itemprop="url" content="https://www.facebook.com/{{ author_facebook }}" />{% endif %}
+      {% if author_github -%}<meta itemprop="url" content="https://github.com/{{ author_github }}" />{% endif %}
     </div>
   {% endif %}
 

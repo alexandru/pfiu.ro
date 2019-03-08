@@ -17,13 +17,22 @@ layout: default
     | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
   </p>
 
-  {% unless page.image_hide_in_post %}{% if page.image %}
+  {% if page.image -%}
+  {% unless page.image_hide_in_post -%}
   <figure class="featuredImage" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
     <meta itemprop="url" content="{{ page.image | absolute_url }}" />
     <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
-    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+    {% if page.image_caption %}<figcaption itemprop="caption">{{ page.image_caption }}</figcaption>{% endif %}
   </figure>
-  {% endif %}{% endunless %}
+  {% else %}
+  <div class="hidden" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="{{ page.image | absolute_url }}" />
+    {% if page.image_caption -%}
+    <meta itemprop="caption" content="{{ page.image_caption | escape }}" />
+    {% endif %}
+  </div>
+  {% endunless %}
+  {% endif %}
 
   <div id="content" itemprop="articleBody">
     {{ content }}

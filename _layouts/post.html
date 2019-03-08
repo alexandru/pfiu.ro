@@ -37,6 +37,7 @@ layout: default
   <div class="hidden" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
     <meta itemprop="name" content="Pfiu.ro">
     <meta itemprop="url" content="{{ '/despre/' | absolute_url }}">
+    <meta itemprop="logo" content="{{ '/assets/raw/logo-green.png' | absolute_url }}">
   </div>
   {% if page.author -%}
     {% assign author_twitter = site.authors | map: page.author | map: "twitter" -%}

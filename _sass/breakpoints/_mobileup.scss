@@ -459,13 +459,14 @@ FOOTER STYLING
 	}
 
 	.bottom {
-		background: black;
+		background: darken($color: seagreen, $amount: 20);
 		color: white;
+		font-size: 90%;
 	}
 
 	.container {
 		padding-top: .5em;
-		max-width: 90%;
+    max-width: 90%;
 		text-align: center;
 	}
 

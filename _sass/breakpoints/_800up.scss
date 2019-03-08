@@ -173,17 +173,17 @@ FOOTER STYLES
 ***************/
 
 .footer {
-	&-links {
-		float: right;
-	}
-
 	.copy {
 		float: left;
 	}
 
 	.container {
 		padding: 1rem 0;
-    max-width: 75%;
+    max-width: 880px;
+	}
+
+	.contributions {
+    max-width: 880px;
 	}
 }
 
@@ -244,8 +244,3 @@ div.header {
 	}
 }
 
-.footer {
-	.contributions {
-		max-width: 65%;
-	}
-}

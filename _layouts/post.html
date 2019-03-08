@@ -58,11 +58,13 @@ layout: default
   <div id="article-details">
     {% if page.date_updated -%}
       {% assign date_updated = page.date_updated -%}
+      {% assign date_action = "Actualizat" -%}
     {% else -%}
       {% assign date_updated = page.date -%}
+      {% assign date_action = "Publicat" -%}
     {% endif %}
     <time itemprop="dateModified" content="{{ date_updated | date: '%Y-%m-%dT%H:%M:%S%z' }}">
-        Actualizat: {{ date_updated | ro_date_to_long_string }}
+        {{ date_action }}: {{ date_updated | ro_date_to_long_string }}
     </time>
     {% if page.author %}
       | Scris de <a href="{{ '/despre/' | absolute_url }}#{{ page.author }}" itemprop="url" rel="author">{{ site.authors | map: page.author | map: 'name' }}</a>

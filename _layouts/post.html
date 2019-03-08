@@ -34,6 +34,14 @@ layout: default
   {% endunless %}
   {% endif %}
 
+  {% if page.author %}
+    {% assign author = site.authors | map: post.author %}
+    <div class="hidden" itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="{{ author | map: 'name' }}" />
+      <meta itemprop="url" content="{{ '/despre/' | absolutet_url }}#{{ page.author }}" />
+    </div>
+  {% endif %}
+
   <div id="content" itemprop="articleBody">
     {{ content }}
   </div>

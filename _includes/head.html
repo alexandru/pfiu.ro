@@ -40,8 +40,13 @@
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{ site.social.twitter }}">
-    <meta name="twitter:creator" content="@{{ site.social.twitter }}">
+    {% if page.author -%}
+      {% assign author_twitter = site.authors | map: page.author | map: "twitter" -%}
+      {% if author_twitter %}
+      <meta name="twitter:site" content="@{{ author_twitter }}">
+      <meta name="twitter:creator" content="@{{ author_twitter }}">
+      {% endif %}
+    {% endif %}
     <meta name="twitter:title" content="{{ page_or_site_title }}">
     {% if page.url %}
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">

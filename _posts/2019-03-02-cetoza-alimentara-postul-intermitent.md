@@ -77,7 +77,7 @@ După numai 15 ore de post (parte din protocolul meu zilnic de post intermitent)
 
 NOTĂ: nu este prima oară când fac experimentul, l-am repetat de câteva ori în ultimele 3 săptămâni și cu siguranță îl voi mai repeta, însă rezultatele sunt consecvente. Dacă mă măsor la peste 12 ore de post îmi dă peste 0.5 mmol/L.
 
-### ACTUALIZĂRI: 7 Martie, 2019
+### Actualizare: 7 Martie, 2019
 
 Am repetat testele azi după 20 de ore de post curat ...
 

@@ -1,15 +1,17 @@
 <div class="footer">
+  {% if page.has_comments %}
   <div class="contributions">
     {% include disqus.html %}
   </div>
+  {% endif %}
 
+  {% comment %}
   <div class="bottom">
     <div class="container">
-      <p class="copy">
-        &copy; {{ site.time | date: '%Y' }}, <a href="{{ site.baseurl }}/despre/">Pfiu.ro</a>.
-        Toate drepturile rezervate.
-      </p>
+        Pfiu.ro &copy; {{ site.time | date: '%Y' }}
     </div>
+    <div class="clearfix"></div>
   </div>
+  {% endcomment %}
 </div><!-- end .footer -->
 

@@ -8,6 +8,13 @@ feed: https://flux.pfiu.ro/
 
 include: ["_redirects"]
 
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      has_comments: true
+
 sass:
     style: compressed
 

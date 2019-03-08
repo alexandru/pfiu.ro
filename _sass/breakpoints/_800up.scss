@@ -173,17 +173,25 @@ FOOTER STYLES
 ***************/
 
 .footer {
-	.copy {
-		float: left;
-	}
-
 	.container {
-		padding: 1rem 0;
-    max-width: 880px;
+		max-width: 880px;
 	}
 
 	.contributions {
-    max-width: 880px;
+    #disqus_thread {
+			max-width: 880px;
+		}
+	}
+
+	.bottom {
+		.container {
+			.copy::after {
+				content: "|";
+			}
+			.copy, .links {
+				display: inline;
+			}
+		}
 	}
 }
 

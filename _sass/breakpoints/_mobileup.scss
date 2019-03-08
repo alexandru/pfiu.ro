@@ -449,33 +449,33 @@ FOOTER STYLING
 .footer {
 	margin-top: 2rem;
 	clear: both;
-
-	border-top: 2px solid #efefef;
 	background: #fafafa;
 
 	.contributions {
-    max-width: 90%;
-		margin: 0 auto;
+		border-top: 2px solid #efefef;
+		padding: 1rem 0;
+
+		#disqus_thread {
+			max-width: 90%;
+			margin: 0 auto;
+		}
 	}
 
 	.bottom {
-		background: darken($color: seagreen, $amount: 20);
-		color: white;
-		font-size: 90%;
-	}
-
-	.container {
-		padding-top: .5em;
-    max-width: 90%;
-		text-align: center;
-	}
-
-	.copy, .footer-links {
+		background: darken($color: white, $amount: 5);
 		font-size: .8em;
-	}
+		color: #656c7a;
+		border-top: 2px solid darken($color: #efefef, $amount: 2);
+		padding: 1rem 0;
 
-	.copy {
-		margin-bottom: 1rem;
+		.container {
+			max-width: 90%;
+			text-align: center;
+
+			.copy, .links {
+				display: block;
+			}
+		}
 	}
 }
 

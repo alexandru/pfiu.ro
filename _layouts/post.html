@@ -34,6 +34,10 @@ layout: default
     {% endunless %}
   {% endif %}
 
+  <div class="hidden" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="Pfiu.ro">
+    <meta itemprop="url" content="{{ '/despre/' | absolute_url }}">
+  </div>
   {% if page.author -%}
     {% assign author_twitter = site.authors | map: page.author | map: "twitter" -%}
     {% assign author_facebook = site.authors | map: page.author | map: "facebook" -%}

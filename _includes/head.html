@@ -34,9 +34,9 @@
       <meta content="{{ '/assets/media/header.jpg' | prepend: site.url }}" property="og:image">
     {% endif -%}
     {% if page.author -%}
-      {% assign author_facebook = site.authors | map: page.author | map: "facebook" -%}
+      {% assign author_facebook = site.authors | map: page.author | map: "name" -%}
     {% else %}
-      {% assign author_facebook = site.authors.alexelcu.facebook -%}
+      {% assign author_facebook = site.authors.alexelcu.name -%}
     {% endif -%}
     <meta content="article:author" property="https://www.facebook.com/{{ author_facebook }}">
 

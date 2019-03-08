@@ -23,12 +23,19 @@
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif %}
     {% if page.date %}
-      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+      <meta content="{{ page.date | date_to_xmlschema }}" property="og:article:published_time">
+    {% endif %}
+    {% if page.date_updated %}
+      <meta content="{{ page.date_updated | date_to_xmlschema }}" property="og:article:modified_time">
     {% endif %}
     {% if page.image %}
       <meta content="{{ site.url }}{{ page.image }}" property="og:image">
     {% else %}
       <meta content="{{ '/assets/media/header.jpg' | prepend: site.url }}" property="og:image">
+    {% endif %}
+    {% if page.author -%}
+      {% assign author_facebook = site.authors | map: page.author | map: "facebook" -%}
+      {% if author_facebook %}<meta content="og:article:author" property="{{ author_facebook }}">{% endif %}
     {% endif %}
 
     <!-- Twitter Cards -->

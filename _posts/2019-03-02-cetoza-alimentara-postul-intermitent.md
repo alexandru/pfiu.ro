@@ -6,6 +6,8 @@ tags:
 - Fasting
 title: Cetoza alimentară și postul intermitent
 author: alexelcu
+date: 2019-03-02 22:00:00 +0200
+date_updated: 2019-03-08 06:59:52 +0200
 description: 'Cetoza alimentară este o stare metabolică ce stimulează arderea de grăsimi (lipoliza), ajutând la slăbit, dar și un semn că nivelul de insulină din sânge e foarte scăzut, ceea ce-i important pentru diabetici. Postul intermitent are multe beneficii, dar oare poate induce starea de cetoză, fără schimbarea alimentației?'
 image: "/assets/media/2019/cetone.jpg"
 image_hide_in_post: true
@@ -74,6 +76,26 @@ După numai 15 ore de post (parte din protocolul meu zilnic de post intermitent)
 Țineți cont că valorile sunt de la ora 11, după doar 15 ore de post. Protocolul meu normal de post intermitent este de minim 18 ore pe zi și se întâmplă să sar și de 20 de ore, iar nivelul cetonelor din sânge tot crește.
 
 NOTĂ: nu este prima oară când fac experimentul, l-am repetat de câteva ori în ultimele 3 săptămâni și cu siguranță îl voi mai repeta, însă rezultatele sunt consecvente. Dacă mă măsor la peste 12 ore de post îmi dă peste 0.5 mmol/L.
+
+### ACTUALIZĂRI: 7 Martie, 2019
+
+Am repetat testele azi după 20 de ore de post curat ...
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/media/2019/cetone-experiment2.jpg" />
+  <figcaption>
+    Cetone: 5.6 mmol/L, ceea ce indică o stare de cetoză profundă
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/media/2019/glucoza-experiment2.jpg" />
+  <figcaption>
+    Glucoză: 54 mg/dL, o valoare cam prea mică 😕
+  </figcaption>
+</figure>
+
+5.6 mmol/L este cetoză alimentară profundă, iar nivelul glucozei de 54 mg/dL este foarte mic. Nu, n-am diabet 🙂 Se zice că-n postul intermitent starea de cetoză profundă se poate atinge după 18 ore. Eu cred că ating starea asta mai devreme.
 
 ## Dieta ketogenică
 

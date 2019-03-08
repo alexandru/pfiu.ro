@@ -1,11 +1,16 @@
 ---
 layout: default
 ---
-<div class="post">
-  <h1 class="postTitle">{{ page.title }}</h1>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="postTitle" itemprop="headline">{{ page.title }}</h1>
   <p class="meta">
+    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ page.url | absolute_url }}"/>
+    <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}"/>
+    {% if page.date_updated -%}
+    <meta itemprop="dateModified" content="{{ page.date_updated | date: '%Y-%m-%dT%H:%M:%S%z' }}"/>
+    {% endif %}
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
-    {{ page.date | ro_date_to_long_string }}
+    <time itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | ro_date_to_long_string }}</time>
     {% for category in page.categories %}
     | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
     {% endfor %}
@@ -13,13 +18,16 @@ layout: default
   </p>
 
   {% unless page.image_hide_in_post %}{% if page.image %}
-  <figure class="featuredImage">
+  <figure class="featuredImage" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="{{ page.image | absolute_url }}" />
     <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
     {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
   </figure>
   {% endif %}{% endunless %}
 
-  {{ content }}
+  <div id="content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
   {% if site.related_posts %}
   <div class="related">
@@ -70,4 +78,4 @@ layout: default
     {% endif %}
   </div>
   {% endcomment %}
-</div>
+</article>

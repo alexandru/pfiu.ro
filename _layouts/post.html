@@ -67,7 +67,6 @@ layout: default
         {{ date_action }}: {{ date_updated | ro_date_to_long_string }}
     </time>
     {% if page.author %}
-      {{ page.author }}
       | Scris de <a href="{{ '/despre/' | absolute_url }}#{{ page.author }}" itemprop="url" rel="author">{{ site.authors | map: page.author | map: 'name' }}</a>
     {% endif %}
   </div>

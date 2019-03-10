@@ -4,21 +4,17 @@ categories:
 - Dietă
 tags:
 - Fasting
-title: Cărți și alte resurse despre post
-date: 2019-03-07 06:50:00 +0000
-description: ''
+title: 2 cărți de Jason Fung
+date: 2019-03-10 21:27:07 +0200
+description: 'Cărțile și resursele în limba română despre practici de dietă și viață mai moderne, cum ar fi postul intermitent, sunt mai puțin disponibile și mai puțin cunoscute. Următoarele două cărți însă au fost traduse și reprezintă o resursă bună pentru începători.'
 image: "/assets/media/2019/fasting-book.jpg"
 image_hide_in_post: false
 author: alexelcu
 ---
 
-<p class="intro">Cărțile și resursele în limba română despre practici de dietă și viață mai moderne, cum ar fi postul intermitent, sunt mai puțin disponibile și mai puțin cunoscute, așa că-mi propun în acest articol să le adun, atât în limba română, cât și în limba engleză.</p>
+<p class="intro">Cărțile și resursele în limba română despre practici de dietă și viață mai moderne, cum ar fi postul intermitent, sunt mai puțin disponibile și mai puțin cunoscute. Următoarele două cărți însă au fost traduse și reprezintă o resursă bună pentru începători.</p>
 
-## Cărți în limba română
-
-Urmează câteva cărți ce le-am găsit la noi pe piață ...
-
-### Ghidul greutății corporale — Dr. Jason Fung
+## Codul greutății corporale
 
 "_Secretul unui corp sănătos._"
 
@@ -81,7 +77,7 @@ Vedeți și pentru versiunea în Engleză:
 - [Goodreads](https://www.goodreads.com/book/show/24945404-the-obesity-code)
 - [Amazon](https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight-ebook/dp/B01C6D0LCK/ref=sr_1_1)
 
-### Puterea vindecatoare a postului — Dr Jason Fung
+## Puterea vindecatoare a postului
 
 "_Ghidul popular pentru post intermitent, alternativ sau extins._"
 
@@ -101,6 +97,20 @@ Cuprinsul:
 3. Resurse — lichide pentru post, post de 24 de ore, post de 36 de ore, post de 42 de ore, post de 7-14 zile
 4. Rețete
 
+Ca și notă pentru această carte, co-autor este Jimmy Moore și la fel ca și la "Codul greutății corporale", această carte are o tentă LCHF, sfătuind lumea la o dietă săracă în carbohidrați. Este OK dacă vreți să încercați, mai ales că mulți oameni sunt rezistenți la insulină și au nevoie, dar în general țineți cont că vă puteți bucura de beneficiile postului și fără să schimbați ceea ce mâncați.
+
+Cartea a fost tradusă din limba engleză de editura Paralela 45.
+Link-uri — deși nu-mi dau seama cât vor supravieții pe web-ul românesc:
+
+- [Paralela 45](https://www.edituraparalela45.ro/produs/puterea-vindecatoare-a-postului-ghidul-popular-pentru-post-intermitent-alternativ-sau-extins/)
+- [Emag](https://www.emag.ro/search/puterea+vindecatoare+a+postului+jason+fung)
+- [Goodreads](https://www.goodreads.com/book/show/43583837-puterea-vindec-toare-a-postului-ghidul-popular-pentru-post-intermitent)
+
+Vedeți și pentru versiunea în Engleză:
+
+- [Amazon](https://www.amazon.com/Complete-Guide-Fasting-Intermittent-Alternate-Day-ebook/dp/B01MF8SC2X/ref=tmm_kin_swatch_0)
+
+
 ## Despre autori
 
 E util să știm cine sunt autorii cărților enumerate...
@@ -109,3 +119,8 @@ E util să știm cine sunt autorii cărților enumerate...
 
 Jason Fung a absolvit Facultatea de Medicină a Universității din Toronto și a urmat un program de specializare în nefrologie la Universitatea din California, Los Angeles, la spitalul Cedars-Sinai. Din 2001 s-a alăturat echipei medicale de la Scarborough General Hospital, unde lucrează și astăzi. Este fondatorul Programului de Management Intensiv al Regimului Alimentar (IDM Program).
 
+### Jimmy Moore
+
+Jimmy Moore a devenit popular în 2004 după o pierdere în greutate de 82 Kg, ceea ce i-a permis să renunțe la medicamentele pentru colesterol mărit, tensiune și probleme de respirație. Este persoana energetică din spatele blogului foarte popular "_Livin’ La Vida Low-Carb_", gazda podcast-ului foarte popular "_The Livin’ La Vida Low-Carb Show_" și deasemenea gazda "_Low-Carb Conversations_" și "_Keto Talk_". A intervievat peste 1000 din experții mondiali în sănătate. Este și autorul aclamat al cărților "_The Ketogenic Cookbook_", "_Keto Clarity", și "_Cholesterol Clarity_".
+
+{% include hai-in-grup.html %}

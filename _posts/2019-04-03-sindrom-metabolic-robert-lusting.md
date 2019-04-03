@@ -31,7 +31,7 @@ apar împreună, ce par a fi cauzate de același motiv, adică boli
 cardiovasculare, atacuri cerebrale, obezitatea și diabetul de
 tip 2. 
 
-{% include youtube.html id=zx-QrilOoSM caption="Robert Lustig - What is Metabolic Syndrome Anyway?" %}
+{% include youtube.html id="zx-QrilOoSM" caption="Robert Lustig - What is Metabolic Syndrome Anyway?" %}
 
 TIP: puteți porni subtitrările apăsând pe butonul "CC", apoi din
 setări ați putea să le și traduceți în limba română automat, dar

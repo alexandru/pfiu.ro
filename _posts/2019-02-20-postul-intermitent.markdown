@@ -10,22 +10,22 @@ image: /assets/media/2019/fasting.jpg
 ---
 
 - [Introducere](#introducere)
-  - [Bonus: prezentare video (în engleză)](#bonus-prezentare-video-în-engleză)
+  - [Bonus: prezentare video (în engleză)](#bonus-prezentare-video-%C3%AEn-englez%C4%83)
   - [Beneficii](#beneficii)
 - [Avertisment: Cine nu poate?](#avertisment-cine-nu-poate)
-- [Cum se practică?](#cum-se-practică)
+- [Cum se practică?](#cum-se-practic%C4%83)
 - [Reguli pentru un post curat](#reguli-pentru-un-post-curat)
-- [Întrebări frecvente](#Întrebări-frecvente)
-  - [Nu este postul înformetare?](#nu-este-postul-înformetare)
-  - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restricțiile-calorice)
-- [Referințe](#referințe)
-    - [Pierderea în greutate](#pierderea-în-greutate)
-    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-sânge-și-rezistența-la-insulină)
+- [Întrebări frecvente](#%C3%AEntreb%C4%83ri-frecvente)
+  - [Nu este postul înformetare?](#nu-este-postul-%C3%AEnformetare)
+  - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restric%C8%9Biile-calorice)
+- [Referințe](#referin%C8%9Be)
+    - [Pierderea în greutate](#pierderea-%C3%AEn-greutate)
+    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-s%C3%A2nge-%C8%99i-rezisten%C8%9Ba-la-insulin%C4%83)
     - [Longevitate](#longevitate)
     - [Autofagie](#autofagie)
-    - [Importanța postului curat](#importanța-postului-curat)
-    - [Rata metabolică](#rata-metabolică)
-- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
+    - [Importanța postului curat](#importan%C8%9Ba-postului-curat)
+    - [Rata metabolică](#rata-metabolic%C4%83)
+- [Alătură-te, hai în grup](#al%C4%83tur%C4%83-te-hai-%C3%AEn-grup)
 
 ## Introducere
 

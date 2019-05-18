@@ -104,7 +104,7 @@ Un motiv mai bun pentru evitare ar fi că atât celealele cât și multe legumin
 
 Dieta este agnostică vizavi de carbohidrați și grăsimi, deoarece la nivel mondial nu există o corelație între consumul de carbohidrați (ca procent din dietă) și obezitate. Ne putem inspira evident din populațiile moderne de vânători-culegători, ce nu suferă de boli cronice atâta timp cât n-au adoptat deja dieta noastră, dar și în populațiile observate până acum consumul de carbohidrați și de grăsimi ca și procent din dietă este variabil și depinde foarte mult de poziția geografică, de accesul la mâncare și de genetică.
 
-Eschimoșii Inuit mâncau aproape numai carne, cu foarte multă grăsime, dar s-au observat și adaptări ale ficatului și rinichilor pentru asta. Maasai din Africa au fost observați că mănâncă carne crudă și sânge crud de vită. Kuna din Panama sau băștinașii din Kitava au fost observați cu diete de peste 65% carbohidrați și-n condiții de sănătate excelente.
+Eschimoșii Inuit mâncau aproape numai carne, cu foarte multă grăsime, dar s-au observat și adaptări ale ficatului și rinichilor pentru asta. Maasai din Africa au fost observați că mănâncă carne crudă și sânge crud de vită. Kuna din Panama sau băștinașii din Kitava au fost observați cu diete de peste 65% carbohidrați și-n condiții de sănătate excelentă.
 
 Considerăm totuși că în contextul vieții moderne, dietele cu mai puțini carbohidrați sunt mai sănătoase decât dietele cu mai mulți carbohidrați. Însă dacă veți elimina zahărul și carbohidrații rafinați din dietă, conform recomandării, veți fi oricum "low carb" pentru că o dietă cu mulți carbohidrați devine foarte grea fără făină și zahăr 😉
 

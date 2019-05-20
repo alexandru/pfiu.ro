@@ -22,4 +22,7 @@ Ceva patogeni trăiesc în afara celulelor: acești patogeni circulă în sânge
 
 Dar cum omorâm patogenii ce trăiesc în interiorul celulelor umane? Celulele albe pot intra și ieși din interiorul celulelor, de exemplu pot trece prin celulele endoteliale în drumul lor spre țesutul infectat și rănit — dar celulele albe nu sunt mecanismul principal prin care corpul nostru omoară microbi intra-celulari.
 
-Procesul principal de omorâre a patogenilor intracelulari este un proces denumit _"autofagie"_, ce înseamnă la propriu "consumul de sine". Fiecare celulă are organite denumite "lizozomi" ce sunt devotate reciclării gunoiului celular — adică proteine și organite deteriorate, bacterii, viruși și alți germeni. Lizozomii digeră gunoaiele în părțile lor constituente.
+Procesul principal de omorâre a patogenilor intracelulari este un proces denumit _"autofagie"_, ce înseamnă la propriu "consumul de sine". Fiecare celulă are organite denumite "lizozomi" ce sunt devotate reciclării gunoiului celular — adică proteine și organite deteriorate, bacterii, viruși și alți germeni. Lizozomii digeră gunoaiele în părțile lor constituente — acizi grași, amino acizi, zaharuri — care sunt apoi reutilizate de către celulă pentru a crea proteine și organite utile.
+
+Celulele ce încearcă.
+

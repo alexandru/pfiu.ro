@@ -5,7 +5,7 @@ categories:
 tags:
 - Fasting
 title: Dieta Ancestrală
-date: 2019-05-18 
+date: 2019-05-18
 description: 'Dieta ancestrală este o dietă bazată pe alimente integrale, proaspete, inspirată de tradițiile culinare locale, ale bunicilor și strămoșilor noștrii, dar bazată pe știință.'
 image: "/assets/media/2019/dieta-ancestrala.jpg"
 image_hide_in_post: false
@@ -13,17 +13,19 @@ author: alexelcu
 ---
 
 - [Introducere](#introducere)
-- [Ce mâncăm](#ce-m%C3%A2nc%C4%83m)
-  - [Mâncăruri de evitat](#m%C3%A2nc%C4%83ruri-de-evitat)
-  - [Mâncăruri sănătoase](#m%C3%A2nc%C4%83ruri-s%C4%83n%C4%83toase)
-  - [Mâncăruri așa și-așa](#m%C3%A2nc%C4%83ruri-a%C8%99a-%C8%99i-a%C8%99a)
-  - [Macro-nutrienți](#macro-nutrien%C8%9Bi)
+- [Ce mâncăm](#ce-mâncăm)
+  - [Mâncăruri de evitat](#mâncăruri-de-evitat)
+  - [Mâncăruri sănătoase](#mâncăruri-sănătoase)
+  - [Mâncăruri așa și-așa](#mâncăruri-așa-și-așa)
+  - [Cum știi că ești sensibil la o mâncare?](#cum-știi-că-ești-sensibil-la-o-mâncare)
+  - [Macro-nutrienți](#macro-nutrienți)
 - [Motive pentru eliminare](#motive-pentru-eliminare)
-  - [Mâncarea ultra-procesată](#m%C3%A2ncarea-ultra-procesat%C4%83)
-  - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semin%C8%9Be)
-  - [Zahărul (Fructoza)](#zah%C4%83rul-fructoza)
-- [Dieta Paleolitică?](#dieta-paleolitic%C4%83)
-- [Alătură-te, hai în grup](#al%C4%83tur%C4%83-te-hai-%C3%AEn-grup)
+  - [Mâncarea ultra-procesată](#mâncarea-ultra-procesată)
+  - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semințe)
+  - [Zahărul (Fructoza)](#zahărul-fructoza)
+  - [Grâul și Glutenul](#grâul-și-glutenul)
+- [Dieta Paleolitică?](#dieta-paleolitică)
+- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
 
@@ -56,6 +58,7 @@ Această listă include mâncăruri ce ne pot face rău.
 3. **zahărul adăugat (cu fructoză)**, fie că vorbim de sucroză sau HFCS nu contează; nu bea nimic ce conține zahăr, evită chiar și sucul "natural" din fructe proaspete; deși fructele consumate întregi sunt sănătoase
 4. **grăsimile trans** — aceste grăsimi sunt super periculoase și în general se găsesc în mâncarea ultra-procesată, în fast-food, în multe mâncăruri de super-market ce au fost vândute ca fiind "sănătoase" cum ar fi margarina; verifică mereu eticheta
 5. **grăsimile polinesaturate** trebuie să constituie doar o foarte mică parte din dietă; asta înseamnă evitarea uleiurilor de semințe cum ar fi uleiul de floarea soarelui, uleiul de soia, uleiul de porumb, uleiul de șofrănel, uleiul de canola și altele similare; uleiul de floarea soarelui de exemplu este peste 65% din compoziție acizi grași omega-6, sau mai precis acid linolenic
+6. **grâul și produsele bogate în gluten** deoarece sunt inflamatoare și este posibil să provoace boli autoimune, în special grâul, fie că este de la gluten sau de la alte substanțe toxice din grâu ([detalii](#grâul-și-glutenul))
 
 ### Mâncăruri sănătoase
 
@@ -80,25 +83,49 @@ Următoarele mâncăruri sunt considerate a fi sănătoase, dar lista nu este ne
 
 NOTĂ: această listă nu este neapărat completă și conține atât alimente bogate în grăsimi cât și în carbohidrați, iar în funcție de preferințe vă puteți ajusta dieta.
 
-### Mâncăruri așa și-așa 
+### Mâncăruri așa și-așa
 
 În dietele "paleolitice" se mai recomandă limitarea:
 
 - leguminoaselor, cum ar fi fasolea sau lintea
-- cerealelor (grâul, porumbul), inclusiv a cerealelor integrale
+- tuturor cerealelor (grâul, porumbul), inclusiv a cerealelor integrale
 - alunelor de pământ
 
 Motivul invocat este că astfel de alimente sunt prea "moderne" și nu suntem bine adaptați pentru a le digera, iar semințele plantelor la modul general conțin toxine ce previn digestia și pot acționa ca și "antinutrienți", adică previn absorpția de nutrienți și pot duce la diverse deficiențe. Exemple ar fi lectinele sau acidul fitic.
 
 Problema este că multe alte legume conțin lectine sau acid fitic, deci acest fapt nu-i un motiv bun de eliminare. Deasemenea lectinele din leguminoase pot fi distruse prin procesul de gătire. Toxicitatea fasolei este diminuată mult dacă înmuiem fasolea în jur de 12 - 24 de ore înainte de gătire, iar apoi prin fierbere lectinele sunt distruse. Leguminoasele în mod tradițional se prepară printr-o înmuiere prealabilă, pentru a declanșa procesul de germinație și ce reduce astfel toxicitatea. Această practică însă a fost uitată și mai nou preferăm să cumpărăm fasole, mazăre semi-preparată la conservă de la supermarket, ce intră la categoria de mâncare ultra-procesată.
 
-Deasemenea anumite substanțe, cum ar fi din grâu, pot declanșa reacții autoimune. Un exemplu ar fi boala celiacă, declanșată de glutenul din grâu. Și de fapt tot mai mulți oameni dezvoltă o sensibilitate la gluten chiar dacă nu vorbim de boala celiacă. Însă în alte țări gluten izolat este servit ca și mâncare pe meniu, cum ar fi în Japonia și o teorie ar fi că devenim sensibili la gluten datorită unei flore intestinale din ce în ce mai afectată de mâncărurile procesate și antibiotice, dar că în contextul potrivit glutenul nu face rău.
+Deasemenea anumite substanțe, cum ar fi din grâu, pot declanșa reacții autoimune. Un exemplu ar fi boala celiacă, declanșată de glutenul din grâu. Și de fapt tot mai mulți oameni dezvoltă o sensibilitate la gluten chiar dacă nu vorbim de boala celiacă. Însă în alte țări gluten izolat este servit ca și mâncare pe meniu, cum ar fi în Japonia și o teorie ar fi că devenim sensibili la gluten datorită unei flore intestinale din ce în ce mai afectată de mâncărurile procesate și antibiotice, dar că în contextul potrivit glutenul în sine nu face rău. Dar înainte de a trage concluzii pripite, vedeți secțiunea despre [grâu și gluten](#grâul-și-glutenul).
 
-Astfel că aceste mâncăruri pot fi sănătoase, dacă sunt mâncate în moderație de oameni sănătoși. Deasemenea anumite leguminoase, dar și anumite cereale integrale, pot avea beneficii pentru flora intestinală. Însă aici depinde dacă aveți un stomac sănătos sau nu. Un stomac sănătos poate digera cereale și leguminoase fără probleme, însă un stomac cu probleme ale florei intestinale poate că nu.
+Astfel că astfel de mâncăruri pot fi sănătoase, dacă sunt mâncate în moderație de oameni sănătoși. Deasemenea anumite leguminoase, dar și anumite cereale integrale, pot avea beneficii pentru flora intestinală. Însă aici depinde dacă aveți un stomac sănătos sau nu. Un stomac sănătos poate digera cereale și leguminoase fără probleme, însă un stomac cu probleme ale florei intestinale poate că nu.
 
 Atenție însă, când vorbim de cereale aici, nu vorbim de _carbohidrați rafinați_, nu vorbim de făina de grâu, de pâine, sau de paste.
 
-Un motiv mai bun pentru evitare ar fi că atât celealele cât și multe leguminoase sunt bogate în calorii, dar sărace în nutrienți și fibre comparativ cu alte plante. Dieta ancestrală pune accentul pe mâncare ce maximizează nutrienții, astfel că recomandarea ar fi evitarea cerealelor și a leguminoaselor bogate în calorii. Dar din când în când o mămăligă din mălai integral, sau periodic o fasole sau o mazăre merge, atâta timp cât sunt corect preparate.
+Un motiv bun pentru evitare ar fi că atât celealele cât și multe leguminoase sunt bogate în calorii, dar sărace în nutrienți și fibre comparativ cu alte plante. Dieta ancestrală pune accentul pe mâncare ce maximizează nutrienții, astfel că recomandarea ar fi evitarea cerealelor și a leguminoaselor bogate în calorii. Dar din când în când o mămăligă din mălai integral, sau periodic o fasole sau o mazăre merge, atâta timp cât sunt corect preparate.
+
+### Cum știi că ești sensibil la o mâncare?
+
+Să zicem că vrei să afli dacă ai sensibilitate la anumite mâncăruri, candidați buni fiind:
+
+- grâul, glutenul
+- lactatele
+- ouăle
+- legume din familia Solanaceae (roșii, ardei, vinete)
+
+Protocolul este:
+
+1. elimină acea mâncare (și doar acea mâncare) pentru 60 de zile
+   - te simți mai bine după un timp? semn bun, dar ai putea avea factori de confuzie
+2. la sfârșitul perioadei mănâncă o farfurie mare cu mâncarea respectivă
+   - te simți rău? dacă da, atunci ai sensibilitate, dacă nu, atunci nu
+
+Pentru a determina sensibilitatea la gluten și la grâu:
+
+1. elimină tot glutenul și tot grâul din dietă pentru 60 de zile
+2. la sfârșitul perioadei mănâncă un castron de orz
+3. peste câteva zile mănâncă o bucată de pâine
+
+Orzul este bogat în gluten dar nu are multe din toxinele prezente în grâu. Dacă te simți rău după ce mănânci orz, atunci ai sensibilitate la gluten. Dacă nu, și totuși te simți rău după grâu, atunci ai sensibilitate la alte toxine din grâu.
 
 ### Macro-nutrienți
 
@@ -108,7 +135,7 @@ Eschimoșii Inuit mâncau aproape numai carne, cu foarte multă grăsime, dar s-
 
 Considerăm totuși că în contextul vieții moderne, dietele cu mai puțini carbohidrați sunt mai sănătoase decât dietele cu mai mulți carbohidrați. Însă dacă veți elimina zahărul și carbohidrații rafinați din dietă, conform recomandării, veți fi oricum "low carb" pentru că o dietă cu mulți carbohidrați devine foarte grea fără făină și zahăr 😉
 
-Proteinele sunt o altă problemă. Recomandarea este pentru un consum mărit de proteine, față de dieta standard, deoarece proteinele promovează sațietatea și sunt importante pentru întreținerea masei musculare și a oaselor. 
+Proteinele sunt o altă problemă. Recomandarea este pentru un consum mărit de proteine, față de dieta standard, deoarece proteinele promovează sațietatea și sunt importante pentru întreținerea masei musculare și a oaselor.
 
 Următoarele recomandări pentru proteine sunt per kilogram de masă musculară (fără grăsime), astfel:
 
@@ -128,7 +155,7 @@ Referințe:
 
 ### Mâncarea ultra-procesată
 
-Evitarea mâncării ultra-procesate este cea mai importantă regulă. 
+Evitarea mâncării ultra-procesate este cea mai importantă regulă.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/processed-food.jpg" />
 
@@ -231,11 +258,11 @@ Referințe:
 - [Dietary reference intakes for energy, carbohydrate, fiber, fat, fatty acids, cholesterol, protein and amino acids](https://www.nal.usda.gov/sites/default/files/fnic_uploads/energy_full_report.pdf)
 - [Lack of benefit of dietary advice to men with angina: results of a controlled trial](https://www.ncbi.nlm.nih.gov/pubmed/12571649)
 
-### Zahărul (Fructoza) 
+### Zahărul (Fructoza)
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/sugar.jpg" />
 
-Zahărul, fie că vorbim de sucroză fie de HFCS, este jumătate glucoză, jumătate fructoză. Consumul excesiv de fructoză devine toxic pentru ficat, la fel ca și alcoolul, ducând la rezistență la insulină hepatică și steatoză hepatică. 
+Zahărul, fie că vorbim de sucroză fie de HFCS, este jumătate glucoză, jumătate fructoză. Consumul excesiv de fructoză devine toxic pentru ficat, la fel ca și alcoolul, ducând la rezistență la insulină hepatică și steatoză hepatică.
 
 Consumul excesiv de fructoză:
 
@@ -270,6 +297,83 @@ Referințe:
 - [Fructose-induced leptin resistance exacerbates weight gain in response to subsequent high-fat feeding](https://www.ncbi.nlm.nih.gov/pubmed/18703413)
 - [Postprandial plasma fructose level is associated with retinopathy in patients with type 2 diabetes](https://www.ncbi.nlm.nih.gov/pubmed/15131761)
 
+### Grâul și Glutenul
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/gluten.jpg" />
+
+În contextul dietelor "paleolitice" se vorbește foarte mult despre renunțarea la gluten pe fondul unei populații ce devine din ce în ce mai intolerantă, iar în mass-media au apărut mai multe articole ce vorbesc despre sensibilitatea la gluten non-celiacă. Să vedem despre ce este vorba.
+
+Glutenul este un grup de componente proteice, de origine vegetală, prezent în cereale și ce poate declanșa boli autoimune, fiind deasemenea asociat cu cancer, boli cardiovasculare și neuropatie. Glutenul reprezintă 80% din proteina din grâu, secară și orz. Glutenul din grâu este format din două tipuri de proteine: gliadină, care este solubilă în alcool și este mai toxică și glutenină, care este insolubilă în alcool și mai puțin toxică.
+
+Glutenul poate fi toxic pentru celulele intestinale, existând indicii că inhibă proliferarea celulelor, mărește oxidarea celulară și schimbă structura membranei. În corp glutenul schimbă structura intestinului.
+
+Ca o toxină, glutenul poate inspira un răspuns autoimun. Acest răspuns autoimun ajută la curățarea glutenului din intestin. Însă din acest proces rezultă un intestin inflamat. Această inflamare omoară celule intestinale și provoacă sindromul intestinului permeabil.
+
+Aparent există 4 nivele de răspuns autoimun la grâu:
+
+1. 83% din populație s-ar putea să aibă o reacție inflamatoare la gluten din grâu parțial digerat
+2. 30% din populație poate să dezvolte anticorpi anti-gluten-din-grâu în intestin
+3. 11% din populație dezvoltă anticorpi sistemici (ce circulă prin corp) la gluten
+4. 0.4% din populație dezvoltă anticorpi ce atacă nu doar glutenul de grâu, dar și celule umane în intestin, tiroidă, pancreas, etc
+
+Acest ultim grup este diagnosticat cu boala celiac. Cu sistemul imunitar ce atacă și omoară celule din stomac, intestinul poate fi deteriorat și poate avea dificultate în a absorbi nutrienți.
+
+Ce trebuie să știi despre grâu:
+
+1. Aproape toată lumea are un răspuns autoimun la grâu
+2. Răspunsul imun la grâu poate rezulta în deteriorarea corpului, dar cel mai sever sunt afectate stomacul și tiroida
+3. Răspunsul la grâu variază de la persoană la persoană
+4. La orice moment o persoană poate obține anticorpi împotriva grâului ce pot genera atacuri autoimune
+5. Singura modalitate de a evita problemele de sănătate generate de grâu este să eliminați grâul din dietă
+
+Consumul de grâu poate genera atacuri autoimune ce pot duce la hipotiroidism. Grâul poate declanșa atacuri autoimune împotriva pancreasului și poate induce diabetul de tip 1, cauza descoperită fiind o proteină denumită "globulina 1". Însă vestea bună este că astfel de afecțiuni par să dispară atunci când grâul este eliminat din dietă.
+
+Grâul ar putea distruge inclusiv inima. Pacienții cu transplanturi de inimă au de obicei boala celiac, și când oamenii de știință au investigat, au aflat că anticorpi pentru gliadina din grâu atacă deasemenea inima.
+
+Grâul promovează boli autoimune și prin alte mecanisme, deoarece duce la permeabilitatea intestinului, ce permite bacteriilor din intestin și proteinele lor să pătrundă în corp.
+
+Într-un [studiu din China](http://perfecthealthdiet.com/category/diets/the-china-study/) se arată că, atunci când vine vorba de rata mortalității din cauza bolilor cardiovasculare:
+
+1. grâul are o corelație de +67%
+2. orezul are o corelație de -58% (minus)
+3. alte cereale au o corelație de +39%
+
+Cu alte cuvinte grâul pare să fie cea mai toxică mâncare, pe când orezul pare să fie corelat cu o sănătate mai bună.
+
+Grâul conține mai multe toxine. Un alt exemplu este aglutinina din germeni de grâu ("wheat germ agglutinin", sau WGA). WGA este o lectină, o proteină care se leagă puternic cu anumite zaharuri. WGA este toxică pentru celulele intestinale, afectând integritatea intestinului, făcându-l permeabil.
+
+WGA are un efect similar cu insulina, legându-se de receptorii de insulină, astfel că promovează obezitatea și diabetul de tip 2. WGA poate promova boli autoimune și este și are și efect inflamator.
+
+**Controversă:** există un studiu ce afirmă că un grup de pacienți cu sindromul intestinului parmeabil de fapt nu sunt sensibil la gluten.
+
+Foarte posibil ca glutenul în sine să nu fie problema pentru mulți pacienți cu acest sindrom, însă tot există multe studii ce leagă sensibilitatea la gluten nonceliac de o grămadă de boli, ca alergii, schizofrenie și autism.
+
+Deasemenea, așa cum spuneam, în grâu există mai multe toxine identificate, nu doar gluten. Este foarte posibil ca unii oameni ce s-au autodiagnosticat cu sensibilitate la gluten să aibă de fapt sensibilitate la grâu.
+
+Referințe:
+
+- [No effects of gluten in patients with self-reported non-celiac gluten sensitivity after dietary reduction of fermentable, poorly absorbed, short-chain carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/23648697)
+- [In vitro cytotoxic effect of wheat gliadin-derived peptides on the Caco-2 intestinal cell line is associated with intracellular oxidative imbalance: implications for coeliac disease](https://www.ncbi.nlm.nih.gov/pubmed/9989255)
+- [In vivo gluten ingestion in coeliac disease](https://www.ncbi.nlm.nih.gov/pubmed/10207218)
+- [Is gliadin really safe for non‐coeliac individuals? Production of interleukin 15 in biopsy culture from non‐coeliac individuals challenged with gliadin peptides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1954879/)
+- [Gluten Sensitivity: Celiac Disease is the Tip of the Iceberg](https://wholehealthsources.blogspot.com/2008/12/gluten-sensitivity-celiac-disease-is.html)
+- [Is celiac disease an autoimmune disorder?](https://www.ncbi.nlm.nih.gov/pubmed/16214317?dopt=AbstractPlus)
+- [Tissue transglutaminase antibodies in individuals with celiac disease bind to thyroid follicles and extracellular matrix and may contribute to thyroid dysfunction](https://www.ncbi.nlm.nih.gov/pubmed/19014325)
+- [A type 1 diabetes-related protein from wheat (Triticum aestivum). cDNA clone of a wheat storage globulin, Glb1, linked to islet damage](https://www.ncbi.nlm.nih.gov/pubmed/12409286)
+- [Gluten-dependent diabetes-related and thyroid-related autoantibodies in patients with celiac disease](https://www.ncbi.nlm.nih.gov/pubmed/10931424)
+- [Binding by serum IgA antibodies from patients with coeliac disease to monkey heart tissue](https://www.ncbi.nlm.nih.gov/pubmed/15223677)
+- [Gliadin, zonulin and gut permeability: Effects on celiac and non-celiac intestinal mucosa and intestinal cell lines](https://www.ncbi.nlm.nih.gov/pubmed/16635908)
+- [Zonulin upregulation is associated with increased gut permeability in subjects with type 1 diabetes and their relatives](https://www.ncbi.nlm.nih.gov/pubmed/16644703)
+- [Effects of wheat germ agglutinin on human gastrointestinal epithelium: insights from an experimental model of immune/epithelial cell interaction](https://www.ncbi.nlm.nih.gov/pubmed/19332085)
+- [Insulin-Like Activity of Concanavalin A and Wheat Germ Agglutinin—Direct Interactions with Insulin Receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC433288/)
+- [The identification of plant lectins with mucosal adjuvant activity](https://www.ncbi.nlm.nih.gov/pubmed/11168640?dopt=AbstractPlus)
+- [Production of TNF-alpha, IL-1beta, IL-12 and IFN-gamma in murine peritoneal macrophages on treatment with wheat germ agglutinin in vitro: involvement of tyrosine kinase pathways](https://www.ncbi.nlm.nih.gov/pubmed/17668318)
+- [No effects of gluten in patients with self-reported non-celiac gluten sensitivity after dietary reduction of fermentable, poorly absorbed, short-chain carbohydrates](https://www.ncbi.nlm.nih.gov/pubmed/23648697)
+- [Non-celiac gluten sensitivity. Is it in the gluten or the grain?](https://www.ncbi.nlm.nih.gov/pubmed/24369326)
+- [Occurrence of nonceliac gluten sensitivity in patients with allergic disease](https://www.ncbi.nlm.nih.gov/pubmed/21346369)
+- [Clinical features suggesting autism spectrum disorder as a manifestation of non-celiac gluten sensitivity](https://www.ncbi.nlm.nih.gov/pubmed/24656390)
+- [Non-Celiac Gluten sensitivity: the new frontier of gluten related disorders](https://www.ncbi.nlm.nih.gov/pubmed/24077239)
+
 ## Dieta Paleolitică?
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/paleo.jpeg" />
@@ -280,7 +384,7 @@ Dieta "paleolitică" a dobândit popularitate în anul 2002 odată cu cartea lui
 
 Oamenii sunt evoluați pentru un mediu apropiat celui din paleolitic, o perioadă din preistoria umană ce este caracterizată prin inventarea uneltelor de piatră și ce acoperă aproximativ 95% din existența umană, începând de acum 3.3 milioane de ani. Începând din era neolitică, de acum 12,000 de ani când s-a trecut la unelte de metal, oamenii au făcut deasemenea tranziția de la o cultură de vânători-culegători la una de agricultori. A avut sens pentru existență, pentru supraviețuire, agricultura permițându-ne să ne descurcăm într-un mediu cu resurse limitate, să ne extindem, să devenim mai statornici și să construim orașe.
 
-În ultimii 12.000 de ani mediul în care trăim s-a schimbat foarte mult, exponențial chiar, mai ales odată cu era industrială, însă genele noastre sunt în mare parte aceleași. Avem foarte puține adaptări genetice ce au apărut ca urmare a schimbărilor din neolitic. O astfel de adaptare s-a întâmplat undeva între anii 9000 și 3000 BC când s-a răspândit o mutație genetică prin populație ce a permis consumul de lapte de origine animală. 
+În ultimii 12.000 de ani mediul în care trăim s-a schimbat foarte mult, exponențial chiar, mai ales odată cu era industrială, însă genele noastre sunt în mare parte aceleași. Avem foarte puține adaptări genetice ce au apărut ca urmare a schimbărilor din neolitic. O astfel de adaptare s-a întâmplat undeva între anii 9000 și 3000 BC când s-a răspândit o mutație genetică prin populație ce a permis consumul de lapte de origine animală.
 
 Dar sunt puține astfel de adaptări cunoscute, iar la un calcul matematic putem vedea că, deși durează mult mai puțin timp pentru o mutație benefică să se întâmple datorită populației mari — 7 miliarde azi — durează foarte mult pentru ca o mutație genetică să devină comună, să se fixeze în populație. Putem estima de exemplu că raportat la populația curentă ar dura 200,000 de ani și ar fi durat 460,000 de ani în Paleolitic, ori nu avem decât 12,000 de ani de neolitic, ceea ce înseamnă că nu avem timp să ne adaptăm suficient la schimbările de mediu.
 

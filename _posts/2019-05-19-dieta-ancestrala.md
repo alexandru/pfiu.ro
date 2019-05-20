@@ -17,7 +17,7 @@ author: alexelcu
   - [Mâncăruri de evitat](#mâncăruri-de-evitat)
   - [Mâncăruri sănătoase](#mâncăruri-sănătoase)
   - [Mâncăruri așa și-așa](#mâncăruri-așa-și-așa)
-  - [Cum știi că ești sensibil la o mâncare?](#cum-știi-că-ești-sensibil-la-o-mâncare)
+  - [Cum afli că ești sensibil la o mâncare?](#cum-afli-că-ești-sensibil-la-o-mâncare)
   - [Macro-nutrienți](#macro-nutrienți)
 - [Motive pentru eliminare](#motive-pentru-eliminare)
   - [Mâncarea ultra-procesată](#mâncarea-ultra-procesată)
@@ -25,6 +25,7 @@ author: alexelcu
   - [Zahărul (Fructoza)](#zahărul-fructoza)
   - [Grâul și Glutenul](#grâul-și-glutenul)
 - [Dieta Paleolitică?](#dieta-paleolitică)
+- [Credite](#credite)
 - [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
@@ -103,7 +104,7 @@ Atenție însă, când vorbim de cereale aici, nu vorbim de _carbohidrați rafin
 
 Un motiv bun pentru evitare ar fi că atât celealele cât și multe leguminoase sunt bogate în calorii, dar sărace în nutrienți și fibre comparativ cu alte plante. Dieta ancestrală pune accentul pe mâncare ce maximizează nutrienții, astfel că recomandarea ar fi evitarea cerealelor și a leguminoaselor bogate în calorii. Dar din când în când o mămăligă din mălai integral, sau periodic o fasole sau o mazăre merge, atâta timp cât sunt corect preparate.
 
-### Cum știi că ești sensibil la o mâncare?
+### Cum afli că ești sensibil la o mâncare?
 
 Să zicem că vrei să afli dacă ai sensibilitate la anumite mâncăruri, candidați buni fiind:
 
@@ -399,6 +400,15 @@ Deasemenea, poate că nu am avut timp să evoluăm foarte mult, dar pentru multe
 Astfel că preferăm să ne bazăm pe știință. Pentru orice decizie este bine să avem niște indicii palpabile pentru care am elimina alimentele "moderne" din neolitic. Vă invit să vă uitați la următoarea prezentare:
 
 {% include youtube.html id="BMOjVYgYaG8" caption="Christina Warinner — Debunking the paleo diet" %}
+
+## Credite
+
+Pentru acest articol m-am inspirat din mai multe surse, însă sursele principale sunt:
+
+1. [The Perfect Health Diet](http://perfecthealthdiet.com/) o carte fantastic de bine documentată, bazată pe cercetări
+2. Website-ul lui [Chris Kresser](https://chriskresser.com/)
+
+Deasemenea oricine vrea să afle adevăruri direct de la sursă nu greșește dacă face căutări pe [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/).
 
 ## Alătură-te, hai în grup
 

@@ -343,7 +343,7 @@ Cu alte cuvinte grâul pare să fie cea mai toxică mâncare, pe când orezul pa
 
 Grâul conține mai multe toxine. Un alt exemplu este aglutinina din germeni de grâu ("wheat germ agglutinin", sau WGA). WGA este o lectină, o proteină care se leagă puternic cu anumite zaharuri. WGA este toxică pentru celulele intestinale, afectând integritatea intestinului, făcându-l permeabil.
 
-WGA are un efect similar cu insulina, legându-se de receptorii de insulină, astfel că promovează obezitatea și diabetul de tip 2. WGA poate promova boli autoimune și este și are și efect inflamator.
+WGA are un efect similar cu insulina, legându-se de receptorii de insulină, astfel că promovează obezitatea și diabetul de tip 2. WGA poate promova boli autoimune și are și efect inflamator.
 
 **Controversă:** există un studiu ce afirmă că un grup de pacienți cu sindromul intestinului parmeabil de fapt nu sunt sensibil la gluten.
 

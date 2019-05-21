@@ -16,3 +16,6 @@ https://flux.pfiu.ro/* https://pfiu.ro/feed.xml 200!
 
 # Correct feed path
 https://pfiu.ro/feed/ https://pfiu.ro/feed.xml 302!
+
+# Old links, new links
+/dieta-ancestrala-paleo/ /2019/05/18/dieta-ancestrala/

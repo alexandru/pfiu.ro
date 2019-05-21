@@ -11,7 +11,6 @@ description: 'Dieta ancestrală este o dietă bazată pe alimente integrale, pro
 image: "/assets/media/2019/dieta-ancestrala.jpg"
 image_hide_in_post: false
 author: alexelcu
-permalink: /dieta-ancestrala-paleo/
 ---
 
 - [Introducere](#introducere)

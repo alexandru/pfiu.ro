@@ -6,10 +6,12 @@ tags:
 - Fasting
 title: Dieta Ancestrală (Paleo)
 date: 2019-05-18
+date_updated: 2019-05-21
 description: 'Dieta ancestrală este o dietă bazată pe alimente integrale, proaspete, inspirată de tradițiile culinare locale, ale bunicilor și strămoșilor noștrii, dar bazată pe știință.'
 image: "/assets/media/2019/dieta-ancestrala.jpg"
 image_hide_in_post: false
 author: alexelcu
+permalink: /dieta-ancestrala-paleo/
 ---
 
 - [Introducere](#introducere)

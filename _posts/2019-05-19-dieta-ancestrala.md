@@ -112,15 +112,16 @@ Să zicem că vrei să afli dacă ai sensibilitate la anumite mâncăruri, candi
 - lactatele
 - ouăle
 - legume din familia Solanaceae (roșii, ardei, vinete)
+- leguminoase (fasole, mazăre, linte)
 
 Protocolul este:
 
-1. elimină acea mâncare (și doar acea mâncare) pentru 60 de zile
+1. elimină acea mâncare (și doar acea mâncare) pentru 30 sau 60 de zile
    - te simți mai bine după un timp? semn bun, dar ai putea avea factori de confuzie
-2. la sfârșitul perioadei mănâncă o farfurie mare cu mâncarea respectivă
+2. la sfârșitul perioadei mănâncă o porție sănătoasă din mâncarea respectivă
    - te simți rău? dacă da, atunci ai sensibilitate, dacă nu, atunci nu
 
-Pentru a determina sensibilitatea la gluten și la grâu:
+Pentru a determina sensibilitatea la gluten și la grâu e un pic mai dificil deoarece sensibilitatea la gluten poate fi confundată cu o sensibilitate la alte substanțe din grâu:
 
 1. elimină tot glutenul și tot grâul din dietă pentru 60 de zile
 2. la sfârșitul perioadei mănâncă un castron de orz

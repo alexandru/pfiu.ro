@@ -406,8 +406,9 @@ Astfel că preferăm să ne bazăm pe știință. Pentru orice decizie este bine
 
 Pentru acest articol m-am inspirat din mai multe surse, însă sursele principale sunt:
 
-1. [The Perfect Health Diet](http://perfecthealthdiet.com/) o carte fantastic de bine documentată, bazată pe cercetări
-2. Website-ul lui [Chris Kresser](https://chriskresser.com/)
+1. [The Perfect Health Diet](https://perfecthealthdiet.com/) o carte fantastic de bine documentată despre o dietă paleo, bazată pe cercetări, scrisă de Paul Jaminet și Shou-Ching Shih Jaminet
+2. [The Hungry Brain](https://www.stephanguyenet.com/thehungrybrain/) o carte despre mecanismele și semnalele prin care ne îngrășăm de la nivelul creierului, scrisă de Stephan J. Guyenet
+3. Website-ul lui [Chris Kresser](https://chriskresser.com/)
 
 Deasemenea oricine vrea să afle adevăruri direct de la sursă nu greșește dacă face căutări pe [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/).
 

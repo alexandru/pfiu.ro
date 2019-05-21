@@ -54,11 +54,11 @@ Această listă include mâncăruri ce ne pot face rău.
 
 În funcție de individ aceste alimente pot fi tolerate, dar doar în cantități mici și doar ocazional. În cantități mari devin toxice și este recomandat să fie eliminate din dietă:
 
-1. **mâncarea ultra-procesată** — vorbim de procesarea industrială, mâncărurile suspecte de ultra-procesare fiind mâncărurile ambalate frumos și cu ingrediente pe etichetă ce nu le cunoaștem
-2. **carbohidrații rafinați** — cum ar fi fulgii de porumb, făina de grâu și produsele bazate pe făină, cum ar fi pâinea și pastele
-3. **zahărul adăugat (cu fructoză)**, fie că vorbim de sucroză sau HFCS nu contează; nu bea nimic ce conține zahăr, evită chiar și sucul "natural" din fructe proaspete; deși fructele consumate întregi sunt sănătoase
+1. **mâncarea ultra-procesată** — vorbim de procesarea industrială, mâncărurile suspecte de ultra-procesare fiind mâncărurile ambalate frumos și cu ingrediente pe etichetă ce nu le cunoaștem ([detalii](#mâncarea-ultra-procesată))
+2. **carbohidrații rafinați** — cum ar fi fulgii de porumb, făina de grâu și produsele bazate pe făină, cum ar fi pâinea și pastele ([detalii](#mâncarea-ultra-procesată))
+3. **zahărul adăugat (cu fructoză)**, fie că vorbim de sucroză sau HFCS nu contează; nu bea nimic ce conține zahăr, evită chiar și sucul "natural" din fructe proaspete; deși fructele consumate întregi sunt sănătoase ([detalii](#zahărul-fructoza))
 4. **grăsimile trans** — aceste grăsimi sunt super periculoase și în general se găsesc în mâncarea ultra-procesată, în fast-food, în multe mâncăruri de super-market ce au fost vândute ca fiind "sănătoase" cum ar fi margarina; verifică mereu eticheta
-5. **grăsimile polinesaturate** trebuie să constituie doar o foarte mică parte din dietă; asta înseamnă evitarea uleiurilor de semințe cum ar fi uleiul de floarea soarelui, uleiul de soia, uleiul de porumb, uleiul de șofrănel, uleiul de canola și altele similare; uleiul de floarea soarelui de exemplu este peste 65% din compoziție acizi grași omega-6, sau mai precis acid linolenic
+5. **grăsimile polinesaturate** trebuie să constituie doar o foarte mică parte din dietă; asta înseamnă evitarea uleiurilor de semințe cum ar fi uleiul de floarea soarelui, uleiul de soia, uleiul de porumb, uleiul de șofrănel, uleiul de canola și altele similare; uleiul de floarea soarelui de exemplu este peste 65% din compoziție acizi grași omega-6, sau mai precis acid linolenic ([detalii](#uleiurile-vegetale-de-semințe))
 6. **grâul și produsele bogate în gluten** deoarece sunt inflamatoare și este posibil să provoace boli autoimune, în special grâul, fie că este de la gluten sau de la alte substanțe toxice din grâu ([detalii](#grâul-și-glutenul))
 
 ### Mâncăruri sănătoase

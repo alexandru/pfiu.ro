@@ -4,7 +4,7 @@ categories:
 - Dietă
 tags:
 - Fasting
-title: Dieta Ancestrală
+title: Dieta Ancestrală (Paleo)
 date: 2019-05-18
 description: 'Dieta ancestrală este o dietă bazată pe alimente integrale, proaspete, inspirată de tradițiile culinare locale, ale bunicilor și strămoșilor noștrii, dar bazată pe știință.'
 image: "/assets/media/2019/dieta-ancestrala.jpg"
@@ -24,7 +24,7 @@ author: alexelcu
   - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semințe)
   - [Zahărul (Fructoza)](#zahărul-fructoza)
   - [Grâul și Glutenul](#grâul-și-glutenul)
-- [Dieta Paleolitică?](#dieta-paleolitică)
+- [Dieta oamenilor din Paleolitic?](#dieta-oamenilor-din-paleolitic)
 - [Credite](#credite)
 - [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
@@ -376,13 +376,13 @@ Referințe:
 - [Clinical features suggesting autism spectrum disorder as a manifestation of non-celiac gluten sensitivity](https://www.ncbi.nlm.nih.gov/pubmed/24656390)
 - [Non-Celiac Gluten sensitivity: the new frontier of gluten related disorders](https://www.ncbi.nlm.nih.gov/pubmed/24077239)
 
-## Dieta Paleolitică?
+## Dieta oamenilor din Paleolitic?
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/paleo.jpeg" />
 
 Da și nu, dar întâi puțină istorie ...
 
-Dieta "paleolitică" a dobândit popularitate în anul 2002 odată cu cartea lui Loren Cordain, deși idea despre superioritatea unei diete primitive a apărut de prin secolul 19.
+Dieta "paleo" a dobândit popularitate în anul 2002 odată cu cartea lui Loren Cordain, deși idea despre superioritatea unei diete primitive a apărut de prin secolul 19.
 
 Oamenii sunt evoluați pentru un mediu apropiat celui din paleolitic, o perioadă din preistoria umană ce este caracterizată prin inventarea uneltelor de piatră și ce acoperă aproximativ 95% din existența umană, începând de acum 3.3 milioane de ani. Începând din era neolitică, de acum 12,000 de ani când s-a trecut la unelte de metal, oamenii au făcut deasemenea tranziția de la o cultură de vânători-culegători la una de agricultori. A avut sens pentru existență, pentru supraviețuire, agricultura permițându-ne să ne descurcăm într-un mediu cu resurse limitate, să ne extindem, să devenim mai statornici și să construim orașe.
 

@@ -24,7 +24,7 @@ author: alexelcu
   - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semințe)
   - [Zahărul (Fructoza)](#zahărul-fructoza)
   - [Grâul și Glutenul](#grâul-și-glutenul)
-- [Dieta oamenilor din Paleolitic?](#dieta-oamenilor-din-paleolitic)
+- [Dieta din Paleolitic?](#dieta-din-paleolitic)
 - [Credite](#credite)
 - [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
@@ -376,7 +376,7 @@ Referințe:
 - [Clinical features suggesting autism spectrum disorder as a manifestation of non-celiac gluten sensitivity](https://www.ncbi.nlm.nih.gov/pubmed/24656390)
 - [Non-Celiac Gluten sensitivity: the new frontier of gluten related disorders](https://www.ncbi.nlm.nih.gov/pubmed/24077239)
 
-## Dieta oamenilor din Paleolitic?
+## Dieta din Paleolitic?
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/paleo.jpeg" />
 

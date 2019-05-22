@@ -304,7 +304,7 @@ Referințe:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/gluten.jpg" />
 
-În contextul dietelor "paleolitice" se vorbește foarte mult despre renunțarea la gluten pe fondul unei populații ce devine din ce în ce mai intolerantă, iar în mass-media au apărut mai multe articole ce vorbesc despre sensibilitatea la gluten non-celiacă. Să vedem despre ce este vorba.
+În contextul dietelor "paleolitice" se vorbește foarte mult despre renunțarea la gluten pe fondul unei populații ce devine din ce în ce mai intolerantă, iar în mass-media au apărut mai multe articole ce vorbesc despre sensibilitatea la gluten non-celiacă, de unde și popularitatea tot mai mare a alimentelor fără de gluten ("gluten-free").
 
 Glutenul este un grup de componente proteice, de origine vegetală, prezent în cereale și ce poate declanșa boli autoimune, fiind deasemenea asociat cu cancer, boli cardiovasculare și neuropatie. Glutenul reprezintă 80% din proteina din grâu, secară și orz. Glutenul din grâu este format din două tipuri de proteine: gliadină, care este solubilă în alcool și este mai toxică și glutenină, care este insolubilă în alcool și mai puțin toxică.
 
@@ -351,7 +351,7 @@ WGA are un efect similar cu insulina, legându-se de receptorii de insulină, as
 
 Foarte posibil ca glutenul în sine să nu fie problema pentru mulți pacienți cu acest sindrom, însă tot există multe studii ce leagă sensibilitatea la gluten nonceliac de o grămadă de boli, ca alergii, schizofrenie și autism.
 
-Deasemenea, așa cum spuneam, în grâu există mai multe toxine identificate, nu doar gluten. Este foarte posibil ca unii oameni ce s-au autodiagnosticat cu sensibilitate la gluten să aibă de fapt sensibilitate la grâu.
+Deasemenea, cum spuneam, în grâu există mai multe toxine identificate, nu doar gluten. Este foarte posibil ca unii oameni ce s-au autodiagnosticat cu sensibilitate la gluten să aibă de fapt sensibilitate la grâu.
 
 Referințe:
 

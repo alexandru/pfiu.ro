@@ -31,7 +31,10 @@ permalink: /feed.xml
           </a>
           <br />
           {% endif %}{% endunless %}
-          {{ post.content | rss_process }}
+          {{ post.description | rss_process }}
+          <p>
+            <a href="{{ post.url | absolute_url }}">Citește articolul →</a>
+          </p>
         ]]></description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

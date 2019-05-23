@@ -44,9 +44,13 @@ function _gaEvent(category, action, label, value) {
 // Checks DO-NOT-TRACK status
 window._doNotTrack = false;
 if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTrackingProtectionEnabled' in window.external) {
-  window._doNotTrack = window.doNotTrack == "1" || navigator.doNotTrack == "yes" || navigator.doNotTrack == "1" || navigator.msDoNotTrack == "1" || window.external.msTrackingProtectionEnabled();
+  window._doNotTrack = window.doNotTrack == "1" || navigator.doNotTrack == "yes" ||
+    navigator.doNotTrack == "1" || navigator.msDoNotTrack == "1" ||
+    ('msTrackingProtectionEnabled' in window.external && window.external.msTrackingProtectionEnabled());
 }
 if (!_doNotTrack) {
   _gaLoad();
+} else if (typeof(console) !== "undefined") {
+  console.log("Google Analytics is off due to Do Not Track setting!");
 }
 </script>

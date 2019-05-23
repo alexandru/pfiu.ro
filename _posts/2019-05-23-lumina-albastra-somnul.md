@@ -13,19 +13,31 @@ author: alexelcu
 
 ---
 
+- [Introducere](#introducere)
+- [Cât de important este somnul?](#cât-de-important-este-somnul)
+- [Soluții](#soluții)
+- [Referințe](#referințe)
+- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
+
+## Introducere
+
 <p class="intro">Lumina puternică și albastră este necesară dimineața pentru a ne trezi procesele metabolice. Lumina albastră ne ține alerți și ne afectează ritmul circadian. Iar noaptea expunerea la lumină albastră (de neon, de la tablete și telefoane, de la televizor) ne poate afecta grav somnul.</p>
+
+Înainte de inventarea și adoptarea luminii electrice, sursa majoră de electricitate era soarele și oamenii își petreceau serile aproape pe întuneric, la lumânare sau lampă. În prezent aproape în toată lumea serile sunt iluminate artificial. Și ni le petrecem adesea uitându-ne la monitoare de telefon, tabletă, laptop sau televizor.
+
+Dar s-ar putea să plătim un preț. Noaptea, "lumina albastră" la care ne expunem ne dereglează ceasul biologic — ritmul circadian. Somnul suferă. Și cercetările arată că lipsa de somn contribuie la obezitate, diabet, boli de inimă și cancer, [vezi detalii](#cât-de-important-este-somnul).
 
 Știința ce explică aceste sisteme noi s-a accelerat în ultimii 20, odată cu descoperirea fotopigmentului din ochi numit [Melanopsină](https://en.wikipedia.org/wiki/Melanopsin).
 
-Mulți dintre noi am auzit de "conuri și bastonașe", cele două tipuri de celule fotoreceptoare prin care ochiul captează lumina, însă celulele ganglionului retinian ce conțin melanopsină sunt sensibile la o gamă largă de frecvențe "albastru-verde" în jurul valorii de 480nm. O gamă largă de lumini par să stimuleze ritmul circadian la oameni, și deși ne referim la "lumina albastră" pentru a diferenția de lumina pe care sistemul nostru vizual o vede, această lumină include de fapt lumini verzi, albastre, cyan și chiar și portocaliu.
+Mulți dintre noi am auzit de "conuri și bastonașe", cele două tipuri de celule fotoreceptoare prin care ochiul captează lumina, însă celulele ganglionului retinian ce conțin melanopsină sunt sensibile la o gamă largă de frecvențe "albastru-verde" în jurul valorii de 480nm. O gamă largă de lumini par să stimuleze ritmul circadian la oameni, și deși ne referim la "lumina albastră" pentru a o diferenția de lumina pe care sistemul nostru vizual o vede, această lumină include de fapt lumini verzi, albastre, cyan și chiar și portocaliu.
 
-În 2014 a fost publicat un studiu în PNAS ce compară efectele citirii pe un iPad înainte de culcare, versus o carte de hârtie:
+De exemplu în 2014 a fost publicat un studiu în PNAS ce compară efectele citirii pe un iPad înainte de culcare, versus o carte de hârtie:
 
 [Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness](https://www.pnas.org/content/112/4/1232)
 
 S-a observat că folosirea acestor aparate electronice înainte de culcare prelungește timpul necesar pentru a adormi, întârzie ceasul circadian, suprimă hormonul melatonină, necesar pentru promovarea somnului, reduce durata somnului adânc (REM) și reduce energia din dimineața următoare.
 
-Sunt o grămadă de studii ce confirmă perturbarea somnului din cauza luminii albastre la care suntem expuși înainte de culcare, [vezi referințe](#referințe).
+Exist mai multe studii ce confirmă perturbarea somnului din cauza luminii albastre la care suntem expuși înainte de culcare, [vezi referințe](#referințe).
 
 ## Cât de important este somnul?
 
@@ -95,4 +107,6 @@ O listă de studii, copiate de pe pagina [justgetflux.com/research](https://just
 - [Human circadian pacemaker is sensitive to light throughout subjective day without evidence of transients](http://ajpregu.physiology.org/content/273/5/R1800.full.pdf+html)
 - [Exposure to bright light and darkness to treat physiologic maladaptation to night work](http://www.nejm.org/doi/pdf/10.1056/NEJM199005033221801)
 
-{% include hai-in-grup.html %}
+## Alătură-te, hai în grup
+
+{% include hai-in-grup.html skip_header=true %}

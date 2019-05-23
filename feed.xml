@@ -26,18 +26,18 @@ permalink: /feed.xml
         <title>{{ post.title | xml_escape }}</title>
         <description><![CDATA[
           {% unless post.image_hide_in_post %}{% if post.image %}
-          <a href="{{ post.url | absolute_url }}">
+          <a href="{{ post.url | absolute_url }}?utm_source=notifications&utm_medium=rss">
             <img src="{{ post.image | absolute_url }}" align="middle" style="display: block; max-width:100%; margin: 0 auto;" />
           </a>
           <br />
           {% endif %}{% endunless %}
           {{ post.description | rss_process }}
           <p>
-            <a href="{{ post.url | absolute_url }}">Citește articolul →</a>
+            <a href="{{ post.url | absolute_url }}?utm_source=notifications&utm_medium=rss">Citește articolul →</a>
           </p>
         ]]></description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}?utm_source=notifications&amp;utm_medium=rss</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% if post.author %}
         {% assign author = site.authors | map: post.author | map: "name" %}

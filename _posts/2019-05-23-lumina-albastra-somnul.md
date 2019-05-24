@@ -55,7 +55,7 @@ Lipsa somnului acută este capabilă să atenueze semnalizarea insulinei, după 
 
 ## Soluții
 
-**Pentru calculatoare** cu Windows, MacOS sau telefoane **Android cu root**, vedeți această aplicație (o folosesc de vreo 3 ani și merge bine):
+**Pentru calculatoare** cu Windows, MacOS sau telefoane **Android cu root**, următoarea aplicație este un clasic, un standard defacto în domeniu, o folosesc de vreo 3 ani (fără nici o afiliere):
 
 **[f.lux](https://justgetflux.com/)**
 

@@ -3,7 +3,7 @@ layout: post
 categories:
 - Dietă
 tags:
-- Fasting
+- Paleo
 title: Dieta Ancestrală (Paleo)
 date: 2019-05-18
 date_updated: 2019-05-21

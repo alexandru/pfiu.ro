@@ -20,7 +20,7 @@ permalink: /feed.xml
 	  <sy:updateFrequency>1</sy:updateFrequency>
     <generator>Jekyll v{{ jekyll.version }}</generator>
 
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:200 %}
       {% unless post.link %}
       <item>
         <title>{{ post.title | xml_escape }}</title>

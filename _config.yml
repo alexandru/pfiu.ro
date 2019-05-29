@@ -20,7 +20,9 @@ sass:
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate-v2]
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
 
 pagination:
   enabled: true

@@ -10,22 +10,22 @@ image: /assets/media/2019/fasting.jpg
 ---
 
 - [Introducere](#introducere)
-  - [Bonus: prezentare video (în engleză)](#bonus-prezentare-video-%C3%AEn-englez%C4%83)
+  - [Bonus: prezentări video (în engleză)](#bonus-prezentări-video-în-engleză)
   - [Beneficii](#beneficii)
 - [Avertisment: Cine nu poate?](#avertisment-cine-nu-poate)
-- [Cum se practică?](#cum-se-practic%C4%83)
+- [Cum se practică?](#cum-se-practică)
 - [Reguli pentru un post curat](#reguli-pentru-un-post-curat)
-- [Întrebări frecvente](#%C3%AEntreb%C4%83ri-frecvente)
-  - [Nu este postul înformetare?](#nu-este-postul-%C3%AEnformetare)
-  - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restric%C8%9Biile-calorice)
-- [Referințe](#referin%C8%9Be)
-    - [Pierderea în greutate](#pierderea-%C3%AEn-greutate)
-    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-s%C3%A2nge-%C8%99i-rezisten%C8%9Ba-la-insulin%C4%83)
+- [Întrebări frecvente](#Întrebări-frecvente)
+  - [Nu este postul înformetare?](#nu-este-postul-înformetare)
+  - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restricțiile-calorice)
+- [Referințe](#referințe)
+    - [Pierderea în greutate](#pierderea-în-greutate)
+    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-sânge-și-rezistența-la-insulină)
     - [Longevitate](#longevitate)
     - [Autofagie](#autofagie)
-    - [Importanța postului curat](#importan%C8%9Ba-postului-curat)
-    - [Rata metabolică](#rata-metabolic%C4%83)
-- [Alătură-te, hai în grup](#al%C4%83tur%C4%83-te-hai-%C3%AEn-grup)
+    - [Importanța postului curat](#importanța-postului-curat)
+    - [Rata metabolică](#rata-metabolică)
+- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
 
@@ -46,9 +46,16 @@ Postul intermitent nu este ciudat, ci este parte deja din viața de zi cu zi, pa
 
 Nu ai nevoie de suplimente alimentare, de sucuri speciale, de mâncare pregătită într-un anumit fel. În fereastra de festin poți mânca ce vrei (fără excese evident), sau o poți cupla cu o altă dietă (de exemplu LCHF) în funcție de preferințe. Postul intermitent este cea mai simplă și ieftină dietă posibilă.
 
-### Bonus: prezentare video (în engleză)
+### Bonus: prezentări video (în engleză)
 
-{% include youtube.html id="tIuj-oMN-Fk" caption="Dr. Jason Fung – ‘Postul Terapeutic – Rezolvarea Problemei Celor Două Compartimente’" %}
+{% include youtube.html id="dFT2IKmwyfg" caption="Postul Intermitent & Foamea - ce zice știința" %}
+
+{% include youtube.html id="XW7g_KD52PA" caption="Joe Rogan & Dr Rhonda Patrick despre hrănirea într-un timp limitat (post intermitent)" %}
+
+TIP: puteți porni subtitrările apăsând pe butonul "CC", apoi din
+setări ați putea să le și traduceți în limba română automat, dar
+vedeți că traducerea automată e slabă și dacă cunoașteți limba engleză
+mai mult vă încurcă.
 
 ### Beneficii
 

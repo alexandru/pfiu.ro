@@ -19,3 +19,7 @@ https://pfiu.ro/feed/ https://pfiu.ro/feed.xml 302!
 
 # Old links, new links
 /2019/:month/:day/:slug/ /2019/:month/:slug/ 301!
+
+/foamea/ /2019/05/foamea/ 301!
+/postul-intermitent/ /2019/02/postul-intermitent/ 301!
+/dieta-ancestrala/ /2019/02/dieta-ancestrala/ 301!

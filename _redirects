@@ -18,4 +18,4 @@ https://flux.pfiu.ro/* https://pfiu.ro/feed.xml 200!
 https://pfiu.ro/feed/ https://pfiu.ro/feed.xml 302!
 
 # Old links, new links
-/:year/:month/:day/:slug/ /:slug/ 301!
+/2019/:month/:day/:slug/ /:slug/ 301!

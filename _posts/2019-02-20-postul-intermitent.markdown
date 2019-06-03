@@ -2,13 +2,12 @@
 layout: post
 title:  "Postul intermitent"
 date:   2019-02-20
-last_modified_at: 2019-06-01
+last_modified_at: 2019-06-03
 categories:
   - Dietă
   - Post
 tags:
   - Cetoză
-  - Fasting
   - Autofagie
 author: alexelcu
 description: Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată. Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză intermittent fasting, prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
@@ -16,7 +15,6 @@ image: /assets/media/2019/fasting.jpg
 ---
 
 - [Introducere](#introducere)
-  - [Bonus: prezentări video (în engleză)](#bonus-prezentări-video-în-engleză)
   - [Beneficii](#beneficii)
 - [Avertisment: Cine nu poate?](#avertisment-cine-nu-poate)
 - [Cum se practică?](#cum-se-practică)
@@ -24,6 +22,7 @@ image: /assets/media/2019/fasting.jpg
 - [Întrebări frecvente](#Întrebări-frecvente)
   - [Nu este postul înformetare?](#nu-este-postul-înformetare)
   - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restricțiile-calorice)
+- [Prezentări video (în engleză)](#prezentări-video-în-engleză)
 - [Referințe](#referințe)
     - [Pierderea în greutate](#pierderea-în-greutate)
     - [Glucoza din sânge și rezistența la insulină](#glucoza-din-sânge-și-rezistența-la-insulină)
@@ -51,17 +50,6 @@ Postul intermitent nu este ciudat, ci este parte deja din viața de zi cu zi, pa
 - **simplu**, trebuie doar să nu mănânci 🙂 în afara ferestrei ce ți-o aloci
 
 Nu ai nevoie de suplimente alimentare, de sucuri speciale, de mâncare pregătită într-un anumit fel. În fereastra de festin poți mânca ce vrei (fără excese evident), sau o poți cupla cu o altă dietă (de exemplu LCHF) în funcție de preferințe. Postul intermitent este cea mai simplă și ieftină dietă posibilă.
-
-### Bonus: prezentări video (în engleză)
-
-{% include youtube.html id="LLVf3d0rqqY" caption="Cum să practici Post Intermitent: Ghid Complet — Thomas DeLauer" %}
-
-{% include youtube.html id="XW7g_KD52PA" caption="Joe Rogan & Dr Rhonda Patrick despre hrănirea într-un timp limitat (post intermitent)" %}
-
-TIP: puteți porni subtitrările apăsând pe butonul "CC", apoi din
-setări ați putea să le și traduceți în limba română automat, dar
-vedeți că traducerea automată e slabă și dacă cunoașteți limba engleză
-mai mult vă încurcă.
 
 ### Beneficii
 
@@ -134,6 +122,19 @@ Deși postul face în mod clar managementul caloriilor mai ușor, postul nu pres
 - Prevenirea secreției de insulină în timpul postului, ce ajută procesul de lipoliză (mobilizarea energiei din propriul strat de grăsime)
 - Îmbunătățirea procesului de [autofagie](https://en.wikipedia.org/wiki/Autophagy) ([referințe](#autofagie))
 - Nu reduce rata metabolica bazală (energia consumată de corp când se odihnește), principala problemă cu restricția calorică ([vezi referințe](#rata-metabolică))
+
+## Prezentări video (în engleză)
+
+{% include youtube.html id="LLVf3d0rqqY" caption="Cum să practici Post Intermitent: Ghid Complet — Thomas DeLauer" %}
+
+{% include youtube.html id="tIuj-oMN-Fk" caption="Postul intermitent terapeutic: rezolvarea problemei celor 2 compartimente — Dr. Jason Fung" %}
+
+{% include youtube.html id="XW7g_KD52PA" caption="Joe Rogan & Dr Rhonda Patrick despre hrănirea într-un timp limitat (post intermitent)" %}
+
+TIP: puteți porni subtitrările apăsând pe butonul "CC", apoi din
+setări ați putea să le și traduceți în limba română automat, dar
+vedeți că traducerea automată e slabă și dacă cunoașteți limba engleză
+mai mult vă încurcă.
 
 ## Referințe
 

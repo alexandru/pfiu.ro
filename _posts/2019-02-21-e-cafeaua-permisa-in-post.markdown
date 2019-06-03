@@ -2,14 +2,14 @@
 layout: post
 title:  "Este cafeaua permisă în post?"
 date:   2019-02-21
-last_modified_at: 2019-06-01
+last_modified_at: 2019-06-03
 categories:
   - Dietă
   - Post
 tags:
   - Cetoză
-  - Fasting
   - Autofagie
+  - Metabolism
 author: alexelcu
 description: "Alimentele și băuturile pot întrerupe postul și beneficiile sale metabolice. O mare nedumerire vizavi de a ține post (intermitent, alternativ, extins) ar fi: <i>Este cafeaua permisă în post sau nu?</i>"
 image: /assets/media/2019/coffee.jpg

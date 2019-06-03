@@ -6,12 +6,23 @@ Sursa pentru [pfiu.ro](https://pfiu.ro).
 Categorii:
 
 - Dietă
-- Post
 - Paleo
+- Post
 - Somn
+- Sport
 
 Taguri:
 
+- Paleo
+- Post
 - Cetoză
 - Autofagie
+- Cafea
 - Fasting
+- Foame
+- Voință
+- Jurnal
+- Prezentare
+- Recenzie
+- Rețete
+- Teste

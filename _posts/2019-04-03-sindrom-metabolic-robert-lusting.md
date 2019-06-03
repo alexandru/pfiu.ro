@@ -5,9 +5,10 @@ categories:
 tags:
   - Prezentare
   - Metabolism
+  - Recenzie
 title: Ce este Sindromul Metabolic?
 date: 2019-03-10 21:27:07 +0200
-last_modified_at: 2019-06-01
+last_modified_at: 2019-06-03
 description: 'O prezentare fascinantă, în limba engleză, de Robert Lusting despre ce cauzează sindromul metabolic. Prezentatorul identifică fructoza (printre altele) ce cauzează îngrășarea ficatului, ce se corelează apoi cu obezitatea, diabetul de tip 2, bolile cardiovasculare și chiar și cancerul.'
 image: "/assets/media/2019/metabolic-syndrome-robert-lustig.png"
 image_hide_in_post: true

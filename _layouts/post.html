@@ -11,7 +11,7 @@ layout: default
     {% for category in page.categories %}
     | <a href="{{ category | downcase | append: '/' | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
     {% endfor %}
-    | <span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}
+    | <nobr><span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}</nobr>
   </p>
 
   {% if page.image -%}

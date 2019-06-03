@@ -2,8 +2,11 @@
 layout: post
 title: Subiecte jurnal de dietă
 date: 2019-02-25
-categories: ["Dietă"]
-tags: ["Fasting"]
+last_modified_at: 2019-06-01
+categories:
+  - Dietă
+tags:
+  - Voință
 author: alexelcu
 description: "Jurnalul poate face diferența între succes și eșec, deoarece obstacolele mentale sunt principala problemă atunci când vrem să slăbim, pentru că există o componentă emoțională puternică atunci când vine vorba de mâncare. Sărbătorim cu mâncare și ne recompensăm cu mâncare."
 image: /assets/media/2019/writing.jpg

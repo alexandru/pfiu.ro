@@ -2,8 +2,14 @@
 layout: post
 title:  "Postul intermitent"
 date:   2019-02-20
-categories: ["Dietă"]
-tags: ["Fasting"]
+last_modified_at: 2019-06-01
+categories:
+  - Dietă
+  - Post
+tags:
+  - Cetoză
+  - Fasting
+  - Autofagie
 author: alexelcu
 description: Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată. Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză intermittent fasting, prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 image: /assets/media/2019/fasting.jpg
@@ -48,7 +54,7 @@ Nu ai nevoie de suplimente alimentare, de sucuri speciale, de mâncare pregătit
 
 ### Bonus: prezentări video (în engleză)
 
-{% include youtube.html id="dFT2IKmwyfg" caption="Postul Intermitent & Foamea - ce zice știința" %}
+{% include youtube.html id="LLVf3d0rqqY" caption="Cum să practici Post Intermitent: Ghid Complet — Thomas DeLauer" %}
 
 {% include youtube.html id="XW7g_KD52PA" caption="Joe Rogan & Dr Rhonda Patrick despre hrănirea într-un timp limitat (post intermitent)" %}
 

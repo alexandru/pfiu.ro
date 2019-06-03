@@ -1,11 +1,13 @@
 ---
 layout: post
 categories:
-- Dietă
+  - Sănătate
 tags:
-- Somn
+  - Fasting
+  - Somn
 title: Lumina albastră ne afectează somnul
 date: 2019-05-23
+last_modified_at: 2019-06-01
 description: 'Lumina albastră ne ține alerți și ne afectează ritmul circadian. Iar noaptea expunerea la lumină albastră (de neon, de la tablete și telefoane, de la televizor) ne poate afecta grav somnul.'
 image: "/assets/media/2019/blue-light.jpg"
 image_hide_in_post: false

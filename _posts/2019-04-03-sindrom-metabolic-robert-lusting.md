@@ -1,19 +1,20 @@
 ---
 layout: post
 categories:
-- Dietă
+  - Dietă
 tags:
-- Prezentare
-- Metabolism
+  - Prezentare
+  - Metabolism
 title: Ce este Sindromul Metabolic?
 date: 2019-03-10 21:27:07 +0200
+last_modified_at: 2019-06-01
 description: 'O prezentare fascinantă, în limba engleză, de Robert Lusting despre ce cauzează sindromul metabolic. Prezentatorul identifică fructoza (printre altele) ce cauzează îngrășarea ficatului, ce se corelează apoi cu obezitatea, diabetul de tip 2, bolile cardiovasculare și chiar și cancerul.'
 image: "/assets/media/2019/metabolic-syndrome-robert-lustig.png"
 image_hide_in_post: true
 author: alexelcu
 ---
 
-<p class="intro"> 
+<p class="intro">
 O prezentare fascinantă, în limba engleză, de Robert Lusting despre ce
 cauzează sindromul metabolic. Prezentatorul identifică fructoza
 (printre altele) ce cauzează îngrășarea ficatului, ce se corelează
@@ -29,7 +30,7 @@ echilibrului energetic de către sistemul nervos central.
 Prezentarea este despre _sindromul metabolic_, un set de condiții ce
 apar împreună, ce par a fi cauzate de același motiv, adică boli
 cardiovasculare, atacuri cerebrale, obezitatea și diabetul de
-tip 2. 
+tip 2.
 
 {% include youtube.html id="zx-QrilOoSM" caption="Robert Lustig - What is Metabolic Syndrome Anyway?" %}
 
@@ -84,8 +85,8 @@ trebuie) și este compatibilă cu studiile ce arată că nu există
 diferențe semnificative între carbohidrați și grăsimi când vine vorba
 de dietă.
 
-Tot Robert Lusting mai are un interviu pe 
-[podcast-ul Diet Doctor](https://www.dietdoctor.com/diet-doctor-podcast-14-dr-robert-lustig), 
+Tot Robert Lusting mai are un interviu pe
+[podcast-ul Diet Doctor](https://www.dietdoctor.com/diet-doctor-podcast-14-dr-robert-lustig),
 explicând detalii interesante ce au scăpat din prezentare.
 
 Unul din comentariile sale este că fructele în starea lor naturală

@@ -2,8 +2,13 @@
 layout: post
 title: "Interviu cu Rhonda Patrick"
 date: 2019-02-27
-categories: ["Dietă"]
-tags: ["Fasting"]
+last_modified_at: 2019-06-01
+categories:
+  - Sănătate
+tags:
+  - Dietă
+  - Fasting
+  - Prezentare
 author: alexelcu
 description: "Dr. Rhonda Patrick este destul de cunoscută în comunitatea de fasting, fiind o sursă de informații despre longevitate și sănătate optimă conform ultimelor cercetări. Are doctorat în știință biomedicală și se angajează în dezbateri publice despre rolul deficiențelor de micro-nutrienți în bolile cronice, despre beneficiile exercițiului fizic, a postului și despre importanța meditației, a reducerii stresului și a somnului."
 image: /assets/media/2019/interviu-rhonda-patrick.jpg

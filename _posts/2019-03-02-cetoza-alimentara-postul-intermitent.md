@@ -1,13 +1,14 @@
 ---
 layout: post
 categories:
-- Dietă
+  - Dietă
 tags:
-- Fasting
+  - Fasting
+  - Cetoză
 title: Cetoza alimentară și postul intermitent
 author: alexelcu
 date: 2019-03-02 22:00:00 +0200
-last_modified_at: 2019-03-08 06:59:52 +0200
+last_modified_at: 2019-06-01
 description: 'Cetoza alimentară este o stare metabolică ce stimulează arderea de grăsimi (lipoliza), ajutând la slăbit, dar și un semn că nivelul de insulină din sânge e foarte scăzut, ceea ce-i important pentru diabetici. Postul intermitent are multe beneficii, dar oare poate induce starea de cetoză, fără schimbarea alimentației?'
 image: "/assets/media/2019/cetone.jpg"
 image_hide_in_post: true

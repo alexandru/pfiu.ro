@@ -3,7 +3,7 @@ description: Explorări, dietă, viață
 
 url: https://pfiu.ro
 baseurl: ""
-permalink: :year/:month/:day/:title/
+permalink: :categories/:title/
 feed: https://flux.pfiu.ro/
 
 include: ["_redirects"]
@@ -38,7 +38,8 @@ autopages:
     layouts:
       - 'auto-categorie.html'
   tags:
-    enabled: false
+    layouts:
+      - 'auto-tag.html'
   collections:
     enabled: false
 

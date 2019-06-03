@@ -314,6 +314,12 @@ POST STYLING
 		text-align: left;
 		margin: 0 auto;
 		padding: 1rem 0;
+
+		#all-categories {
+			margin-top: 1rem;
+			padding-top: 1rem;
+			border-top: 1px solid darken(white, 5%);
+		}
 	}
 
 	div.related {

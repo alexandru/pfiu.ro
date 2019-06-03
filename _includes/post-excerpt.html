@@ -3,7 +3,7 @@
   <time class="date" datetime="{{ include.post.date | date: '%Y-%m-%d' }}">{{ include.post.date | ro_date_to_long_string }}</time>
   {% for category in include.post.categories %}
     {% unless category == auto_category %}
-    | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+    | <a href="{{ category | downcase | append: '/' | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
     {% endunless %}
   {% endfor %}
 </div>

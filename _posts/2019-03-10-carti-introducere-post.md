@@ -1,11 +1,13 @@
 ---
 layout: post
 categories:
-- Dietă
+  - Dietă
 tags:
-- Fasting
+  - Fasting
+  - Cetoză
 title: 2 cărți pentru o introducere în post
 date: 2019-03-10 21:27:07 +0200
+last_modified_at: 2019-06-01
 description: 'Cărțile și resursele în limba română despre practici de dietă și viață mai moderne, cum ar fi postul intermitent, sunt mai puțin disponibile și mai puțin cunoscute. Următoarele două cărți însă au fost traduse și reprezintă o resursă bună pentru începători.'
 image: "/assets/media/2019/fasting-book.jpg"
 image_hide_in_post: false

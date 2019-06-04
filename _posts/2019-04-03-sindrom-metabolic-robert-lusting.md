@@ -6,6 +6,7 @@ tags:
   - Prezentare
   - Metabolism
   - Recenzie
+  - Zahăr
 title: Ce este Sindromul Metabolic?
 date: 2019-03-10 21:27:07 +0200
 last_modified_at: 2019-06-03

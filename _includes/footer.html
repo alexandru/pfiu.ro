@@ -1,9 +1,11 @@
 <div class="footer">
-  {% if page.has_comments %}
-  <div class="contributions">
-    {% include disqus.html %}
-  </div>
-  {% endif %}
+  {% comment %}
+    {% if page.has_comments %}
+    <div class="contributions">
+      {% include disqus.html %}
+    </div>
+    {% endif %}
+  {% endcomment %}
 
   <div class="bottom">
     <div class="container">

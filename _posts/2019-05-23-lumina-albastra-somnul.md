@@ -13,10 +13,10 @@ author: alexelcu
 ---
 
 - [Introducere](#introducere)
-- [Cât de important este somnul?](#c%C3%A2t-de-important-este-somnul)
-- [Soluții](#solu%C8%9Bii)
-- [Referințe](#referin%C8%9Be)
-- [Alătură-te, hai în grup](#al%C4%83tur%C4%83-te-hai-%C3%AEn-grup)
+- [Cât de important este somnul?](#cât-de-important-este-somnul)
+- [Soluții](#soluții)
+- [Referințe](#referințe)
+- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
 

@@ -224,6 +224,20 @@ img.right {
 	float: right;
 }
 
+.highlight {
+	padding: 1em;
+	margin: 1em 0;
+	overflow: auto;
+	line-height: 130%;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+
+	border: 2px solid #f0f0f0;
+	background-color: #fbfbfb;
+}
+
 // About page: /despre/
 .post.about {
 	img.avatar {

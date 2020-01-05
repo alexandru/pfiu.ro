@@ -239,7 +239,7 @@ Puteți observa cum riscul crește atunci când mai mulți factori sunt combina�
 
 Și puteți studia și "*Raportul de consens al Societății Europene de Arteroscleroză*" [[45]](#ref-45) un document foarte detaliat ce spune că numeroasele studii clinice și genetice confirmă fără echivoc că nivelurile ridicate de LDL cauzează [Arteroscleroză](https://ro.wikipedia.org/wiki/Ateroscleroz%C4%83){:target="_blank"}. Ca să ne înțelegem, *cauzalitatea* a fost stabilită — dacă mărești LDL crește riscul pentru arteroscleroză, dacă micșorezi LDL scade riscul.
 
-PS: există și [cholesterolcode.com](https://cholesterolcode.com/){:target="_blank"} la care mulți din comunitatea Keto face referire — Dave Feldman, un individ simpatic, are el o teorie cum că un colesterol foarte crescut la o dietă keto nu este o problemă. Ipoteza lui, deși interesantă, nu este decât o ipoteză netestată, ce infirmă extraordinar de multe studii și dovezi concludente. Și dacă continui cu-n colesterol LDL mărit bazat pe această informație, o faci pe barba ta.
+PS: există și [cholesterolcode.com](https://cholesterolcode.com/){:target="_blank"} la care mulți din comunitatea Keto fac referire — Dave Feldman, un individ simpatic, are el o teorie cum că un colesterol foarte crescut la o dietă keto nu este o problemă. Ipoteza lui, deși interesantă, nu este decât o ipoteză netestată, ce infirmă extraordinar de multe studii și dovezi concludente. Și dacă continui cu-n colesterol LDL mărit bazat pe această informație, o faci pe barba ta.
 
 [[Vezi conținut]](#continut)
 

@@ -58,7 +58,7 @@ Deasemenea nu este nevoie neapărat de dieta ketogenică pentru inducerea stări
 
 ### Caloriile nu sunt importante
 
-Asta-i o sintagmă pe care o veți auzi des. O [calorie](https://ro.wikipedia.org/wiki/Calorie){:target="_blank"}([engleză](https://en.wikipedia.org/wiki/Calorie){:target="_blank"}) este o unitate de energie folosită în nutriție, unitate prin care putem măsura energia ce o mâncăm și energia ce o ardem prin mișcarea zilnică.
+Asta-i o sintagmă pe care o veți auzi des. O [calorie](https://ro.wikipedia.org/wiki/Calorie){:target="_blank"} ([engleză](https://en.wikipedia.org/wiki/Calorie){:target="_blank"}) este o unitate de energie folosită în nutriție, unitate prin care putem măsura energia ce o mâncăm și energia ce o ardem prin mișcarea zilnică.
 
 NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau cât ardem, ne referim de fapt la kilocalorii (kcal), astfel că dacă spunem că un ou mediu are 68 de calorii, spunem de fapt că are 68 kcal. Asta naște un pic de confuzie, dar toată lumea folosește kcal, astfel că nu-i niciodată nevoie de vreo conversie.
 
@@ -212,7 +212,7 @@ La astfel de valori orice cardiolog te sfătuiește să iei statine, niște past
 
 În graficul de mai sus "`ApoB`" este proteina din componența particulelor LDL, o particulă LDL are o moleculă `ApoB`. Iar "`ApoA1`" este proteina din componența particulelor HDL, astfel că o particulă HDL are o moleculă `ApoA1`. Astfel că `ApoB / ApoA1` aproximează LDL / HDL.
 
-Deasemenea trebuie să reținem că HDL nu are cum să crească foarte mult în comparație cu LDL. La analiza lipidelor, o valoare mică pentru HDL-c ar fi 30 mg/dL, iar o valoare foarte bună pentru HDL-c ar fi 60 mg/dL. Mai mult de atât nu poate să crească. Astfel că dacă ai măsurătoarea pentru LDL-c la peste 200 mg/dL, unii o au la peste 300 mg/dL, atunci ai încurcat-o, indiferent cât ai HDL.
+Deasemenea trebuie să reținem că HDL nu are cum să crească foarte mult în comparație cu LDL. La analiza lipidelor, o valoare mică pentru HDL-c ar fi 30 mg/dL, iar o valoare foarte bună pentru HDL-c ar fi 60 mg/dL. Mai mult de atât rar poate să crească. Astfel că dacă ai măsurătoarea pentru LDL-c la peste 200 mg/dL, unii o au la peste 300 mg/dL, atunci ai încurcat-o, indiferent cât ai HDL.
 
 Puteți observa cum riscul crește atunci când mai mulți factori sunt combinați (obezitate, diabet, hipertensiune arterială).
 

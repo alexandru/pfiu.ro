@@ -136,7 +136,7 @@ Astfel că dacă vrei să demonstrezi ceva, trebuie să demonstrezi că interven
 
 Zahărul și fructoza nu sunt nevinovate totuși. Există suficiente indicii că zahărul și fructoza sunt asociate cu "ficatul gras non-alcoolic" [[15]](#ref-15) [[16]](#ref-16). Este foarte posibil ca fructoza să defină problematică atunci când consumăm calorii în exces.
 
-Problema este că zahărul nu pare să fie toxic atunci când consumul caloric este la mentenanță, mai ales în oameni normali. Și *creșterea în greutate* este un factor de confuzie la fel ca și *scăderea în greutate*.
+Problema este că zahărul nu pare să fie toxic atunci când consumul caloric este la mentenanță, mai ales în oameni sănătoși. Și *creșterea în greutate* este un factor de confuzie la fel ca și *scăderea în greutate*.
 
 **ADEVĂRUL:** consumul de zahăr este posibil să fie toxic doar în contextul unui exces caloric cronic. Avem foarte multe dovezi ce sugerează că atunci când consumăm mâncare, efectele rele apar doar când suntem într-un exces caloric.
 

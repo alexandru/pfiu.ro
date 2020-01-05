@@ -100,7 +100,7 @@ Astfel că o strategie bună de slăbit și de menținere a unei greutăți norm
 **ADEVĂRUL:** rata metabolismului nu se modifică semnificativ în funcție de ce mănânci.
 
 - aceeași meta-analiză menționată deja [[4]](#ref-4) arată că de fapt compoziția dietei nu prea contează pentru rata metabolică
-  - din contră, dietele bogate în carbohidrați par să aibă un avantaj ușor datorită "efectului termic al mâncării" ([engleză](https://en.wikipedia.org/wiki/Specific_dynamic_action){:target="blank"}), dar acest efect nu este semnificativ, astfel că conceptul de "o calorie este o calorie" se păstrează
+- din contră, dietele bogate în carbohidrați par să aibă un avantaj ușor datorită "efectului termic al mâncării" ([engleză](https://en.wikipedia.org/wiki/Specific_dynamic_action){:target="blank"}), dar acest efect nu este semnificativ, astfel că conceptul de "o calorie este o calorie" se păstrează
 - un studiu mai recent [[5]](#ref-5) ce a primit foarte multă atenție în comunitatea keto pretinde că o dietă foarte low-carb poate ridica rata metabolică cu +209 kcal/zi, însă asta pare să violeze [principiul întâi al termodinamicii](https://ro.wikipedia.org/wiki/Principiul_%C3%AEnt%C3%A2i_al_termodinamicii){:target="blank"} pentru conservarea energiei, și odată ce datele eronate sunt scoase [[6]](#ref-6), studiul nu mai prezintă diferențe semnificative între grupul pe keto și grupul de control
 
 [[Vezi conținut]](#continut)

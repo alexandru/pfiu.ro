@@ -209,7 +209,7 @@ Mai concret:
 
 Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pentru asta sunt de necontestat. Problema este că majoritatea pacienților nu vor ține cure de slăbire, chiar dacă sănătatea le este amenințată. Și astfel că se recurge la pastile, în primă fază pastile mai ușurele gen Metmorfin. Iar dacă ajungi la injecții cu insulină, asta înseamnă că capacitatea pancreasului a fost afectată, iar insulina nu se prescrie ușor.
 
-Din păcate teoriile conspiraționiste, acuzațiile de incompetență, dramele, astea sunt poveștile ce vând — așa că escrocilor le este mai ușor să-și vândă ipotezele și produsele atacându-i pe adevărații profesioniști cu acuzații de incompetență și conspirație.
+Din păcate teoriile conspiraționiste, acuzațiile de incompetență, dramele, astea sunt poveștile ce vând — așa că escrocilor le este mai ușor să-și vândă ipotezele și produsele atacându-i pe adevărații profesioniști cu acuzații de incompetență și conspirație. Iar oamenii bine intenționați, dar îndrumați greșit, preiau aceleași linii de la liderii pe care-i urmează.
 
 Ca și fapt, o prescriere pentru schimbarea dietei și pentru exerciții fizice este primul lucru pe care ți-l spune medicul.
 

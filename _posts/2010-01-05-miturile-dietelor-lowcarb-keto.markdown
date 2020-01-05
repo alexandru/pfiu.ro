@@ -76,7 +76,7 @@ Asta-i o sintagmă pe care o veți auzi des. O [calorie](https://ro.wikipedia.or
 
 NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau cât ardem, ne referim de fapt la kilocalorii (kcal), astfel că dacă spunem că un ou mediu are 68 de calorii, spunem de fapt că are 68 kcal. Asta naște un pic de confuzie, dar toată lumea folosește kcal, astfel că nu-i niciodată nevoie de vreo conversie.
 
-"*Caloriile care intră*" se referă la ce mâncăm, iar "*caloriile care ies*" se referă la ce ardem, mai concret la:
+"*Calorii care intră*" se referă la ce mâncăm, iar "*calorii care ies*" se referă la ce ardem, mai concret la:
 
 1. rata metabolismului bazal, adică ce ardem doar ca să fim în viață
 2. mișcări involuntare ([fidgeting](https://en.wikipedia.org/wiki/Fidgeting){:target="_blank"}), pentru că tot ce facem, inclusiv clipitul din ochi sau foitul pe scaun consumă calorii în plus

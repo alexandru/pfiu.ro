@@ -78,7 +78,7 @@ NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau 
 
 "*Calorii care intră*" se referă la ce mâncăm, iar "*calorii care ies*" se referă la ce ardem, mai concret la:
 
-1. rata metabolismului bazal, adică ce ardem doar ca să fim în viață
+1. rata metabolismului bazal, adică ce ardem doar ca să rămânem în viață
 2. mișcări involuntare ([fidgeting](https://en.wikipedia.org/wiki/Fidgeting){:target="_blank"}), pentru că tot ce facem, inclusiv clipitul din ochi sau foitul pe scaun consumă calorii în plus
 3. mișcări voluntare pentru treaba de zi cu zi, care le facem ca parte a rutinei zilnice pentru a rezolva probleme, pentru a participa la evenimente, etc, cum ar fi mersul pe jos
 4. exerciții de sport voluntare, dar acestea reprezintă adesea o minoritate din caloriile arse

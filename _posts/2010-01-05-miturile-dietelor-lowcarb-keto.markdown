@@ -51,9 +51,7 @@ Dieta ketogenică este o dietă low-carb dusă la extrem — cu un consum zilnic
 
 Scopul dietei keto este inducerea stării de "[cetoză alimentară](https://en.wikipedia.org/wiki/Ketosis){:target="_blank"}" (denumită și "cetoză fiziologică"), adică o stare metabolică în care ficatul, pentru a contracara un nivel scăzut al glucozei din sânge și pentru a conserva glucoza, ce este foarte necesară pentru funcționarea creierului, începe să emită cetone. Cetonele sunt niște compuși chimici ce sunt folosiți parțial de creier și de alte organe vitale, ca și alternativă la glucoză.
 
-Detaliile chimice și fiziologice sunt mai puțin importante, ce este important este că starea asta de cetoză are anumite avantaje metabolice, cum ar fi o scădere potențială (dar nu garantată) a apetitului.
-
-Deasemenea nu este nevoie neapărat de dieta ketogenică pentru inducerea stării de cetoză și nu este nici neapărat sănătos să stăm în cetoză tot timpul (vezi detalii mai jos).
+Detaliile chimice și fiziologice sunt mai puțin importante, ce este important este că starea asta de cetoză are anumite avantaje metabolice.
 
 ## De ce merg bine dietele low-carb / keto?
 

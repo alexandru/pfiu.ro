@@ -85,10 +85,10 @@ NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau 
 
 Se zice că:
 
-- ne îngrășăm atunci când consumăm mai multe calorii decât ardem
-- slăbim atunci când consumăm mai puține calorii decât ardem
+- ne îngrășăm atunci când consumăm mai multe calorii decât ardem (adică suntem într-n "echilibru de energie pozitiv")
+- slăbim atunci când consumăm mai puține calorii decât ardem ("echilibru de energie negativ")
 
-Acest model al obezității se numește modelul "balansului de energie" ([energy balance (engleză)](https://en.wikipedia.org/wiki/Energy_homeostasis){:target="blank"}).
+Acest model al obezității se numește modelul "echilibrului de energie" ([energy balance (engleză)](https://en.wikipedia.org/wiki/Energy_homeostasis){:target="blank"}).
 
 **ADEVĂRUL:** pentru a slăbi trebuie să mâncăm mai puține calorii decât ardem.
 
@@ -97,7 +97,7 @@ Acest model al obezității se numește modelul "balansului de energie" ([energy
 
 Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
 
-**FALS:** din modelul "*balansului de energie*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
+**FALS:** din modelul "*echilibrului de energie*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
 
 În primul rând asta-i o inepție de logică ([engleză](https://en.wikipedia.org/wiki/Fallacy){:target="_blank"}): din `A ⇒ B` nu rezultă în mod automat că `B ⇒ A` este deasemenea o propoziție adevărată. Asta-i logică (matematică) de liceu 😉
 

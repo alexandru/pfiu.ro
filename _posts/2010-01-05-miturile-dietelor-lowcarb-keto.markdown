@@ -171,7 +171,7 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 
 ### Carbohidrații ridică insulina din sânge, insulina îngrașă și provoacă diabet
 
-**FALS:** Consumul de carbohidrații cauzează un nivel mai ridicat al insulinei din sânge și că aceasta duce la "hiperinsulinemie" ([engleză](https://en.wikipedia.org/wiki/Hyperinsulinemia){:target="_blank"}) și că aceasta este cauza obezității și diabetului.
+**FALS:** Consumul de carbohidrații cauzează un nivel mai ridicat al insulinei din sânge, aceasta duce la "hiperinsulinemie" ([engleză](https://en.wikipedia.org/wiki/Hyperinsulinemia){:target="_blank"}) și aceasta este cauza obezității și diabetului.
 
 Acesta este ceea ce se cheamă "*modelul carbohidrați-insulină*" pentru obezitate (prescurtat: CIM), promovat de Gary Taubes în cartea sa "*Calorii bune, calorii rele*". Și din păcate există dovezi foarte bune împotriva sa.
 

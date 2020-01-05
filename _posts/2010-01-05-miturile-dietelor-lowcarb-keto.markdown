@@ -155,7 +155,7 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 
 **ADEVĂRUL:** zahărul sau carbohidrații îngrașă doar când duc la un consum de calorii mai mare decât nevoile individului și există o grămadă de studii ce arată că dietele cu mulți carbohidrați sunt foarte eficiente pentru slăbit.
 
-- impactul mâncărurilor asupra sațietății nu are legătură cu glucoza provocată din sânge [[34]](ref-34)
+- impactul mâncărurilor asupra sațietății nu are legătură cu glucoza din sânge rezultată [[34]](ref-34)
 - alți factori determină sațietatea provocată de diverse mâncăruri, cum ar fi fibrele, volumul sau proteinele conținute [[35]](#ref-35)
 - într-un review sistematic și meta-analiză a 30 de studii controlate și randomizate [13](#ref-13) s-a observat că zahărul îngrașă doar prin caloriile sale
 - într-un alt review sistematic și meta-analiză a 31 de studii de hrănire cu fructoză [[18]](#ref-18) se observă cum fructoza nu duce la o creștere în greutate atunci când caloriile sunt înlocuite cu calorii din alți carbohidrați

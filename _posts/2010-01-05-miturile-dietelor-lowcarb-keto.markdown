@@ -137,10 +137,10 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 
 **FALS:** se zice că zahărul sau carbohidrații îngrașă prin efecte ce nu au de-a face cu consumul caloric și nu poți slăbi dacă mănânci carbohidrați sau zahăr.
 
-**ADEVĂRUL:** zahărul sau carbohidrații îngrașă doar când duc la un consum de calorii mai mare decât nevoile individului și există o grămadă de studii ce arată că dietele cu mulți carbohidrați sunt foarte eficient pentru slăbit.
+**ADEVĂRUL:** zahărul sau carbohidrații îngrașă doar când duc la un consum de calorii mai mare decât nevoile individului și există o grămadă de studii ce arată că dietele cu mulți carbohidrați sunt foarte eficiente pentru slăbit.
 
 - impactul mâncărurilor asupra sațietății nu are legătură cu glucoza provocată din sânge [[34]](ref-34)
-  - alți factori determină sațietatea provocată de diverse mâncăruri, cum ar fi fibrele, volumul sau proteinele conținute [[35]](#ref-35)
+- alți factori determină sațietatea provocată de diverse mâncăruri, cum ar fi fibrele, volumul sau proteinele conținute [[35]](#ref-35)
 - într-un review sistematic și meta-analiză a 30 de studii controlate și randomizate [13](#ref-13) s-a observat că zahărul îngrașă doar prin caloriile sale
 - într-un alt review sistematic și meta-analiză a 31 de studii de hrănire cu fructoză [[18]](#ref-18) se observă cum fructoza nu duce la o creștere în greutate atunci când caloriile sunt înlocuite cu calorii din alți carbohidrați
 - meta-review-ul deja amintit [[4]](#ref-4) arată cum compoziția dietei nu contează pentru slăbit, contează doar caloriile
@@ -168,10 +168,9 @@ Mai concret:
 - în fapt nu contează dacă excesul de energie vine de la carbohidrați [[27]](#ref-27), grăsime [[28]](#ref-28) sau proteine [[29]](#ref-29), toți macro-nutrienții pot provoca rezistență la insulină și diabet, nu doar carbohidrații — deci da, îți poți înrăutății diabetul cu o dietă ketogenică în anumite condiții (dacă mănânci mai multe calorii decât arzi)
 - rezistența la insulină este o *reacție defensivă* la excesul de energie [[30]](#ref-30)
 - ce se întâmplă este că celulele de grăsime (adipocitele) devin prea pline, ca niște baloane ce se umflă până mai au puțin și se sparg și nu mai pot înmagazina energie, ajungând să respingă astfel glucoza din sânge, fenomen ce se numește "rezistență la insulină" [[31]](#ref-31) [[32]](#ref-32)
-- există și oameni cu greutate normală ce pot dezvolta rezistență la insulină și diabet, dar asta pentru că nu au capacitatea de a stoca prea multă grăsime în țesutul adipos — capacitatea de a stoca energie variază de la individ la individ, ceea ce se cheamă "*pragul de grăsime personală*" [[33]](#ref-33)
-  - astfel că excesul de energie ori este stocat în țesutul adipos, ori faci diabet de tip 2, din două una, mai bine te îngrași decât să faci diabet și din păcate capacitatea de îngrășare este limitată, mai devreme sau mai târziu cu toții putem face diabet
-  - această predispoziție a oamenilor slabi pentru diabet are inclusiv cauze genetice identificate [[36]](#ref-36) [[37]](#ref-37)
-- prin "randomizare mandeliană" ([engleză](https://en.wikipedia.org/wiki/Mendelian_randomization){:target="_blank"}), o tehnică ce ne ajută să descoperim asocieri dintre factori de risc și probleme de sănătate, putem vedea că nici secreția de insulină [[38]](#ref-38) și nici nivelul insulinei pe nemâncate [[39]](#ref-39) nu este asociat cu nivelul grăsimii corporale
+- există și oameni cu greutate normală ce pot dezvolta rezistență la insulină și diabet, dar asta pentru că nu au capacitatea de a stoca prea multă grăsime în țesutul adipos — capacitatea de a stoca energie variază de la individ la individ, ceea ce se cheamă "*pragul de grăsime personală*" [[33]](#ref-33); astfel că excesul de energie ori este stocat în țesutul adipos, ori faci diabet de tip 2, din două una, mai bine te îngrași decât să faci diabet și din păcate capacitatea de îngrășare este limitată, mai devreme sau mai târziu cu toții putem face diabet
+- această predispoziție a oamenilor slabi pentru diabet are inclusiv cauze genetice identificate [[36]](#ref-36) [[37]](#ref-37)
+- prin "randomizare mendeliană" ([engleză](https://en.wikipedia.org/wiki/Mendelian_randomization){:target="_blank"}), o tehnică ce ne ajută să descoperim asocieri dintre factori de risc și probleme de sănătate, putem vedea că nici secreția de insulină [[38]](#ref-38) și nici nivelul insulinei pe nemâncate [[39]](#ref-39) nu este asociat cu nivelul grăsimii corporale
 
 [[Vezi conținut]](#continut)
 

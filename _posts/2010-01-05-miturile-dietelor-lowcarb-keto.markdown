@@ -118,7 +118,7 @@ Acest studiu este principalul studiu pe oameni ce-i confirmă ipoteza. Problema 
 
 Astfel că dacă vrei să demonstrezi ceva, trebuie să demonstrezi că intervenția merge independent de scăderea în greutate. Și în acest studiu au încercat să controleze caloriile, însă probabil au subestimat consumul caloric al copiilor — și din cauză că grup de control nu a existat, nici nu putem spune dacă scăderea în greutate s-a produs ca urmare a intervenției sau ca urmare a condițiilor din clinică (altor factori de stres).
 
-Zahărul și fructoza nu sunt nevinovate totuși. Există suficiente indicii că zahărul și fructoza sunt asociate cu "ficatul gras non-alcoolic" [15](#ref-15) [16](#ref-16). Este foarte posibil ca fructoza să defină problematică atunci când consumăm calorii în exces.
+Zahărul și fructoza nu sunt nevinovate totuși. Există suficiente indicii că zahărul și fructoza sunt asociate cu "ficatul gras non-alcoolic" [[15]](#ref-15) [[16]](#ref-16). Este foarte posibil ca fructoza să defină problematică atunci când consumăm calorii în exces.
 
 Problema este că zahărul nu pare să fie toxic atunci când consumul caloric este la mentenanță, mai ales în oameni normali. Și *creșterea în greutate* este un factor de confuzie la fel ca și *scăderea în greutate*.
 
@@ -129,7 +129,7 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 - într-un studiu recent pe oameni sănătoși, au fost puși să consume un exces de 150 grame de fructoză pe zi [[11]](#ref-11), adică o doză foarte mare, cel puțin dublă față de ce consumă ca medie americanii și ... n-au pățit nimic; interesant este că deși consumul de mâncare a fost "ad libitum" (adică la propria discreție), aceștia și-au ajustat automat caloriile încât să compenseze pentru consumul de fructoză, n-au luat în greutate și astfel că n-au pățit nimic
 - există indicii că grăsimea saturată s-ar putea să fie chiar mai toxică pentru ficat decât fructoza [[14]](#ref-14)
 - într-un meta review ce folosește scorul de tip GRADE pentru a determina calitatea studiilor [[17]](#ref-17), s-a arătat că recomandările pentru reducerea zahărului sunt de fapt de proastă calitate
-- cuplat cu faptul că zahărul nu pare să îngrașe, vezi mai jos
+- cuplat cu faptul că zahărul nu pare să îngrașe decât prin calorii în exces, vezi mai jos
 
 [[Vezi conținut]](#continut)
 

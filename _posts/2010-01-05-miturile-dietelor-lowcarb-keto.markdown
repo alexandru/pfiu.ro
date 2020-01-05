@@ -219,7 +219,7 @@ Ca și fapt, o prescriere pentru schimbarea dietei și pentru exerciții fizice 
 
 Că grăsimea saturată mărește nivelul colesterolului LDL din sânge este un fapt [[43]](#ref-43) [[44]](#ref-44).
 
-Când te apuci de dieta Keto, din cauză că consumul de grăsime saturată din dietă se mărește, unii oameni ajung cu un număr de particule LDL (LDL-p) din sânge mărit, ce se vede prin faptul că colesterolul din sânge, atât cel total cât și cel LDL (LDL-c) poate atinge valori amețitoare, de peste 200 mg/dL.
+Când te apuci de dieta Keto, din cauză că consumul de grăsime saturată din dietă crește, unii oameni ajung cu un număr de particule LDL (LDL-p) din sânge mărit, ce se vede prin faptul că colesterolul din sânge, atât cel total cât și cel LDL (LDL-c) poate atinge valori amețitoare, de peste 200 mg/dL.
 
 La astfel de valori orice cardiolog te sfătuiește să iei statine, niște pastile al căror efect este să micșoreze nivelul colesterolului LDL din sânge.
 

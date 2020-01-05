@@ -211,7 +211,7 @@ Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pe
 
 Din păcate teoriile conspiraționiste, acuzațiile de incompetență, dramele, astea sunt poveștile ce vând — așa că escrocilor le este mai ușor să-și vândă ipotezele și produsele atacându-i pe adevărații profesioniști cu acuzații de incompetență și conspirație. Iar oamenii bine intenționați, dar îndrumați greșit, preiau aceleași linii de la liderii pe care-i urmează.
 
-Ca și fapt, o prescriere pentru schimbarea dietei și pentru exerciții fizice este primul lucru pe care ți-l spune medicul.
+Ca și fapt, o prescriere pentru schimbarea dietei și pentru exerciții fizice este primul lucru pe care ți-l spune medicul. Dar este responsabilitatea ta să te ții de dietă, medicul n-are cum să te urmărească, dacă nu te ții de dietă poate cel mult să-ți dea pastile.
 
 [[Vezi conținut]](#continut)
 

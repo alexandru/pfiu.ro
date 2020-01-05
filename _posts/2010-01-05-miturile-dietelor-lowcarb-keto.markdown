@@ -99,8 +99,6 @@ Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzali
 
 **INEPȚIE LOGICĂ:** din modelul "*echilibrului energetic*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
 
-În primul rând asta-i o inepție de logică ([engleză](https://en.wikipedia.org/wiki/Fallacy){:target="_blank"}): din `A ⇒ B` nu rezultă în mod automat că `B ⇒ A` este deasemenea o propoziție adevărată. Asta-i logică (matematică) de liceu 😉
-
 Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul este că mâncatul este un proces instinctual. Mâncăm când ni se face foame, ne oprim din mâncat atunci ne simțim sătui. Este ca atunci când respirăm. Nu ne gândim că trebuie să inspirăm și apoi să expirăm aerul din plămâni, procesul este unul total automat, condus de "sistemul nervos vegetativ".
 
 Iar oamenii supraponderali au semnalele de foame și de sațietate stricate dintr-un motiv sau altul.

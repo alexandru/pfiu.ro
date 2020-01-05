@@ -97,7 +97,7 @@ Acest model al obezității se numește modelul "echilibrului energetic" ([energ
 
 Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
 
-**FALS:** din modelul "*echilibrului de energie*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
+**FALS:** din modelul "*echilibrului energetic*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
 
 În primul rând asta-i o inepție de logică ([engleză](https://en.wikipedia.org/wiki/Fallacy){:target="_blank"}): din `A ⇒ B` nu rezultă în mod automat că `B ⇒ A` este deasemenea o propoziție adevărată. Asta-i logică (matematică) de liceu 😉
 

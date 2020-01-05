@@ -21,6 +21,7 @@ Iar dacă mecanismele prin care ne îngrășăm și prin care putem slăbi nu su
 
 - [Ce este o dietă low-carb?](#ce-este-o-dietă-low-carb)
   - [Ce este o dietă ketogenică (keto)?](#ce-este-o-dietă-ketogenică-keto)
+- [De ce merg bine dietele low-carb / keto?](#de-ce-merg-bine-dietele-low-carb--keto)
 - [Mituri](#mituri)
   - [Caloriile nu sunt importante](#caloriile-nu-sunt-importante)
   - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compoziția-mâncării)
@@ -53,6 +54,19 @@ Scopul dietei keto este inducerea stării de "[cetoză alimentară](https://en.w
 Detaliile chimice și fiziologice sunt mai puțin importante, ce este important este că starea asta de cetoză are anumite avantaje metabolice, cum ar fi o scădere potențială (dar nu garantată) a apetitului.
 
 Deasemenea nu este nevoie neapărat de dieta ketogenică pentru inducerea stării de cetoză și nu este nici neapărat sănătos să stăm în cetoză tot timpul (vezi detalii mai jos).
+
+## De ce merg bine dietele low-carb / keto?
+
+Dietele low-carb duc la o scădere spontană a apetitului — asta se datorează de la caz la caz următoarelor:
+
+1. evitarea de alimente ultra-procesate [[46]](#ref-46)
+2. consumul de mai multe alimente bogate în proteine, ce sunt foarte sățioase [[35]](#ref-35) — efectul de "[protein leverage](https://en.wikipedia.org/wiki/Protein_leverage_hypothesis){:target="_blank"})", o ipoteză ce zice că prioritizăm proteinele din mâncare și că nu ne oprim până nu obținem suficiente proteine
+3. evitarea efectului de "hipoglicemie reactivă" ([engleză](https://en.wikipedia.org/wiki/Reactive_hypoglycemia)) — când se consumă carbohidrați rafinați, unii oameni au un răspuns inițial întârziat al insulinei, ceea ce provoacă apoi un răspuns exagerat, ce duce la o stare de hipoglicemie ce poate provoca foame și oboseală; însă atenție, că acest efect nu apare la oameni sănătoși, acesta fiind cel mai probabil un semn de diabet incipient, și deasemenea rar se întâmplă la consum de carbohidrați complecși (legume și fructe integrale)
+4. inducerea stării de "cetoză alimentară", ce are efecte potențiale benefice pentru sănătate și deasemenea reducerea apetitului — cu observația că probabil depinde de individ dacă efectul este semnificativ sau nu
+  - Notă: starea de cetoză poate fi indusă și doar prin post intermitent și/sau prin deficit caloric; oamenii sănătoși intră în cetoză în timpul nopții, deoarece se golesc suficient rezervele de glicogen din ficat, având cetone în sânge semnificative înainte de micul dejun
+5. pentru diabetici reducerea glucozei din sânge este semnificativă și asta se vede la analiza de Hb A1C — managementul glucozei este important la diabet, deoarece glucoza din sânge în exces devine toxică — atenție însă, hiperglicemia este doar un simptom al bolii, dar nu este cauza bolii, astfel că pentru "vindecare", avem nevoie cel puțin de scăderea în greutate (vezi mai jos)
+
+Știm că dietele low carb și keto funcționează bine. Nu disputăm acest fapt.
 
 ## Mituri
 
@@ -276,3 +290,4 @@ PS: există și [cholesterolcode.com](https://cholesterolcode.com/) la care mul�
 43. [Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials](https://academic.oup.com/ajcn/article/77/5/1146/4689813){:target="blank" id="ref-43"}
 44. [Effects of saturated fatty acids on serum lipids and lipoproteins: a systematic review and regression analysis](https://www.who.int/nutrition/publications/nutrientrequirements/sfa_systematic_review/en/){:target="blank" id="ref-44"}
 45. [Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel](https://www.ncbi.nlm.nih.gov/m/pubmed/28444290/){:target="blank" id="ref-45"}
+46. [Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake](https://www.cell.com/cell-metabolism/fulltext/S1550-4131%2819%2930248-7){:target="blank" id="ref-46"}

@@ -111,7 +111,7 @@ Astfel că o strategie bună de slăbit și de menținere a unei greutăți norm
 
 ### Rata metabolismului depinde de compoziția mâncării
 
-**FALS:** Se zice că dacă consumi carbohidrați, rata metabolismului scade suficient cât să te îngrașe și dacă consumi mai puțin carbohidrați, atunci rata metabolismului crește.
+**FALS:** Se zice că dacă consumi carbohidrați, rata metabolismului scade suficient cât să te îngrașe și dacă consumi mai puțini carbohidrați, atunci rata metabolismului crește.
 
 **ADEVĂRUL:** rata metabolismului nu se modifică semnificativ în funcție de ce mănânci.
 

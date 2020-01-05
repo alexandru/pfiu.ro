@@ -97,7 +97,7 @@ Acest model al obezității se numește modelul "balansului de energie" ([energy
 
 Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
 
-**FALS:** Idea că ar trebui să *ne numărăm caloriile* ca să slăbim.
+**FALS:** din modelul "balansului de energie" rezultă idea că ar trebui să *ne numărăm caloriile* ca să slăbim.
 
 Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul este că mâncatul este un proces instinctual. Mâncăm când ni se face foame, ne oprim din mâncat atunci ne simțim sătui. Este ca atunci când respirăm. Nu ne gândim că trebuie să inspirăm și apoi să expirăm aerul din plămâni, procesul este unul total automat, condus de "sistemul nervos vegetativ".
 

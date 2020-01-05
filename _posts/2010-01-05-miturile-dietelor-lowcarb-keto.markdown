@@ -85,10 +85,10 @@ NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau 
 
 Se zice că:
 
-- ne îngrășăm atunci când consumăm mai multe calorii decât ardem (adică suntem într-n "echilibru de energie pozitiv")
-- slăbim atunci când consumăm mai puține calorii decât ardem ("echilibru de energie negativ")
+- ne îngrășăm atunci când consumăm mai multe calorii decât ardem (adică suntem într-n "echilibru energetic pozitiv")
+- slăbim atunci când consumăm mai puține calorii decât ardem ("echilibru energetic negativ")
 
-Acest model al obezității se numește modelul "echilibrului de energie" ([energy balance (engleză)](https://en.wikipedia.org/wiki/Energy_homeostasis){:target="blank"}).
+Acest model al obezității se numește modelul "echilibrului energetic" ([energy balance (engleză)](https://en.wikipedia.org/wiki/Energy_homeostasis){:target="blank"}).
 
 **ADEVĂRUL:** pentru a slăbi trebuie să mâncăm mai puține calorii decât ardem.
 

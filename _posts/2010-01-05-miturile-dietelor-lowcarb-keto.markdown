@@ -79,7 +79,7 @@ Acest model al obezității se numește modelul "balansului de energie" ([energy
 **ADEVĂRUL:** pentru a slăbi trebuie să mâncăm mai puține calorii decât ardem.
 
 - studiile arată consecvent că oamenii supraponderali consumă cu 20%-30% mai multe calorii decât oamenii cu greutate normală [[1]](#ref-1) [[2]](#ref-2)
-- dacă reducem caloriile din dietă, indiferent de compoziția dietei, oamenii slăbesc — un meta-analiză superbă a 20 de studii [[4]](#ref-4) ajunge la concluzia că "*pentru toate scopurile practice, o calorie este o calorie*"
+- dacă reducem caloriile din dietă, indiferent de compoziția dietei, oamenii slăbesc — o meta-analiză superbă a 20 de studii [[4]](#ref-4) ajunge la concluzia că "*pentru toate scopurile practice, o calorie este o calorie*"
 
 Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
 

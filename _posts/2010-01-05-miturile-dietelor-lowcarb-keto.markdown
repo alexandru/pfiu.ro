@@ -43,7 +43,7 @@ Mâncarea conține în general o combinație de 3 macro-nutrienți:
 
 La o dietă low carb se limitează carbohidrații la sub 30%, restul fiind grăsimi și proteine. În mod normal la o dietă "standard" (ce consumă oamenii în mod normal) se consumă peste 50% carbohidrați, poate chiar și 60%.
 
-Astfel că dacă consumul de calorii al unui individ este pe la 2000 calorii (aproximativ consumul de care are nevoie un bărbat sedentar, cu greutate normală pe la 1.72 metrii înălțime), 30% ar însemna 600 calorii din carbohidrați, adică 150 grame. O dietă de sub 150 grame este considerată "low carb", deși în comunitatea științifică se consideră "low carb" chiar și sub 40%.
+Astfel dacă consumul de calorii al unui individ este pe la 2000 calorii (aproximativ consumul de care are nevoie un bărbat sedentar, cu greutate normală pe la 1.72 metrii înălțime), 30% ar însemna 600 calorii din carbohidrați, adică 150 grame. O dietă de sub 150 grame este considerată "low carb", deși în comunitatea științifică se consideră "low carb" chiar și sub 40%.
 
 ### Ce este o dietă ketogenică (keto)?
 

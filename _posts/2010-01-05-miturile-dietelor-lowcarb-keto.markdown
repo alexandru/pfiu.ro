@@ -89,7 +89,7 @@ Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul 
 
 Iar oamenii supraponderali au semnalele de foame și de sațietate stricate dintr-un motiv sau altul.
 
-Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puțini grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte.
+Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puține grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte.
 
 [[Vezi conținut]](#continut)
 
@@ -151,6 +151,8 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 - în 1975 japonezii consumau o dietă de 62% carbohidrați, majoritatea din orez alb, și prevalența obezității și diabetului era mai mică decât în orice altă țară industrializată, iar japonezii ce au emigrat în SUA s-au îngrășat la fel ca americanii, ce sugerează că această trăsătură nu este genetică
 - rezultatele dietelor sunt la fel de puțin impresionante pe termen lung, oamenii tind să recâștige greutatea pierdută cu aceași pondere, indiferent dacă dieta a fost bogată sau săracă în carbohidrați [[22]](#ref-22) [[23]](#ref-23)
 
+[[Vezi conținut]](#continut)
+
 ### Carbohidrații ridică insulina din sânge, insulina îngrașă și provoacă diabet
 
 **FALS:** Consumul de carbohidrații cauzează un nivel mai ridicat al insulinei din sânge și că aceasta duce la "hiperinsulinemie" ([engleză](https://en.wikipedia.org/wiki/Hyperinsulinemia){:target="_blank"}) și că aceasta este cauza obezității și diabetului.
@@ -171,6 +173,8 @@ Mai concret:
   - această predispoziție a oamenilor slabi pentru diabet are inclusiv cauze genetice identificate [[36]](#ref-36) [[37]](#ref-37)
 - prin "randomizare mandeliană" ([engleză](https://en.wikipedia.org/wiki/Mendelian_randomization){:target="_blank"}), o tehnică ce ne ajută să descoperim asocieri dintre factori de risc și probleme de sănătate, putem vedea că nici secreția de insulină [[38]](#ref-38) și nici nivelul insulinei pe nemâncate [[39]](#ref-39) nu este asociat cu nivelul grăsimii corporale
 
+[[Vezi conținut]](#continut)
+
 ### Insulina previne arderea de grăsimi
 
 **FALS:** se zice că insulina este hormon de stocare a grăsimilor și că previne arderea de grăsimi (lipoliza). Și cu o inhibare a lipolizei corpul devine înfometat.
@@ -179,6 +183,8 @@ Mai concret:
 
 - într-un studiu foarte informativ putem vedea cum capacitatea omului de a arde grăsimi este de fapt direct proporțională cu mărimea țesutului adipos, cu cât un om este mai gras, cu atât lipoliza se întâmplă mai frecvent [[40]](#ref-40)
 - chiar dacă inhibarea lipolizei s-ar întâmpla, nu prea contează — există niște pastile denumite "Acipimox" ce pot inhiba pe bune lipoliza, și se vede într-un studiu randomizat și controlat inclusiv prin placebo cum parțială a  lipolizei nu duce la o creștere în greutate, la o scădere a ratei metabolice sau la un consum mai mare de calorii [[41]](#ref-41)
+
+[[Vezi conținut]](#continut)
 
 ### Medicii tratează diabetul T2 doar prin pastile
 
@@ -191,6 +197,8 @@ Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pe
 Din păcate teoriile conspiraționiste, acuzațiile de incompetență, dramele, astea sunt poveștile ce vând — așa că escrocilor le este mai ușor să-și vândă ipotezele și produsele atacându-i pe adevărații profesioniști cu acuzații de incompetență și conspirație.
 
 Ca și fapt, o prescriere pentru schimbarea dietei și pentru exerciții fizice este primul lucru pe care ți-l spune medicul.
+
+[[Vezi conținut]](#continut)
 
 ### Nivelul colesterolului LDL nu contează
 
@@ -219,6 +227,8 @@ Puteți observa cum riscul crește atunci când mai mulți factori sunt combina�
 Și puteți studia și "*Raportul de consens al Societății Europene de Arteroscleroză*" [[45]](#ref-45) un document foarte detaliat ce spune că numeroasele studii clinice și genetice confirmă fără echivoc că nivelurile ridicate de LDL cauzează [Arteroscleroză](https://ro.wikipedia.org/wiki/Ateroscleroz%C4%83){:target="_blank"}. Ca să ne înțelegem, *cauzalitatea* a fost stabilită — dacă mărești LDL crește riscul pentru arteroscleroză, dacă micșorezi LDL scade riscul.
 
 PS: există și [cholesterolcode.com](https://cholesterolcode.com/) la care mulți din comunitatea Keto face referire — Dave Feldman, un individ simpatic, are el o teorie cum că un colesterol foarte crescut la o dietă keto nu este o problemă. Ipoteza lui, deși interesantă, nu este decât o ipoteză netestată, ce infirmă extraordinar de multe studii și dovezi concludente. Și dacă continui cu-n colesterol LDL mărit bazat pe această informație, o faci pe barba ta.
+
+[[Vezi conținut]](#continut)
 
 ## Referințe
 

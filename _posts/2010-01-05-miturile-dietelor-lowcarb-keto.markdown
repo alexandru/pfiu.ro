@@ -225,7 +225,7 @@ La astfel de valori orice cardiolog te sfătuiește să iei statine, niște past
 
 **FALS:** se zice că la o dietă Keto colesterolul LDL nu este un factor de risc deoarece putem vedea cum HDL (colesterolul bun) crește și oricum studiile pe acest subiect nu sunt concludente.
 
-**ADEVĂRUL:** un nivel LDL mărit este cel mai mare factor de risc independent pentru bolile de inimă, mai mare decât fumatul, mai mare decât obezitatea sau diabetul, mai mare chiar decât tensiunea arterială mărită. Iar problemele devin evident mult mai mari atunci când ai 2 sau mai mulți factori de risc, evident.
+**ADEVĂRUL:** un nivel LDL mărit este cel mai mare factor de risc independent pentru bolile de inimă, mai mare decât fumatul, mai mare decât obezitatea sau diabetul, mai mare chiar decât tensiunea arterială mărită. Iar problemele devin evident mult mai mari atunci când ai 2 sau mai mulți factori de risc.
 
 În primul rând că avem studiul INTERHEART [[42]](#ref-42), poate cel mai informativ studiu pentru asocierea diverșilor factori de risc cu bolile de inimă, cu rezultatul ...
 

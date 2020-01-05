@@ -197,7 +197,7 @@ Mai concret:
 **ADEVĂRUL:** insulina NU este hormon de stocare a grăsimilor, insulina este hormon de procesare a glucozei din sânge și deși rolul său este să comute corpul într-un mod de procesare cu prioritate a carbohidraților, nu previne lipoliza și chiar dacă s-ar întâmpla, nu prea contează.
 
 - într-un studiu foarte informativ putem vedea cum capacitatea omului de a arde grăsimi este de fapt direct proporțională cu mărimea țesutului adipos, cu cât un om este mai gras, cu atât lipoliza se întâmplă mai intens [[40]](#ref-40)
-- chiar dacă inhibarea lipolizei s-ar întâmpla, nu prea contează — există niște pastile denumite "Acipimox" ce pot inhiba pe bune lipoliza, și se vede într-un studiu randomizat și controlat inclusiv prin placebo cum parțială a  lipolizei nu duce la o creștere în greutate, la o scădere a ratei metabolice sau la un consum mai mare de calorii [[41]](#ref-41)
+- chiar dacă inhibarea lipolizei s-ar întâmpla, nu prea contează — există niște pastile denumite "Acipimox" ce pot inhiba pe bune lipoliza, și se vede într-un studiu randomizat și controlat inclusiv prin placebo cum inhibarea parțială a  lipolizei (38%) nu duce la o creștere în greutate, la o scădere a ratei metabolice sau la un consum mai mare de calorii [[41]](#ref-41)
 
 [[Vezi conținut]](#continut)
 

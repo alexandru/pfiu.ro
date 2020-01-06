@@ -105,6 +105,8 @@ Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce �
 
 Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puține grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte.
 
+**IRONIA:** deși la keto nu trebuie să-ți numeri caloriile, foarte mulți își numără carbohidrații, și efortul este același.
+
 [[Vezi conținut]](#continut)
 
 ### Rata metabolismului depinde de compoziția mâncării

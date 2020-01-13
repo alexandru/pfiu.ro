@@ -20,7 +20,11 @@ https://www.pfiu.ro/* https://ro.alexn.org/:splat 301!
 #########################################################################
 ### RSS feed
 
-# Redirect flux-ro.alexn.org to /feed.xml
+# Old domain to new domain
+http://flux.pfiu.ro/* https://flux-ro.alexn.org/:splat 301!
+https://flux.pfiu.ro/* https://flux-ro.alexn.org/:splat 301!
+
+# Forward flux-ro.alexn.org to /feed.xml
 https://flux-ro.alexn.org/* https://ro.alexn.org/feed.xml 200!
 
 # Correct feed path

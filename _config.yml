@@ -4,7 +4,7 @@ description: Explorări, dietă, viață
 url: https://ro.alexn.org
 baseurl: ""
 permalink: :year/:month/:title/
-feed: https://flux.ro.alexn.org/
+feed: https://flux-ro.alexn.org/
 
 include: ["_redirects"]
 

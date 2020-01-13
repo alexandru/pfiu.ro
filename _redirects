@@ -8,6 +8,8 @@ http://ro.alexn.org/*  https://ro.alexn.org/:splat 301!
 
 http://pfiu.netlify.com/* https://ro.alexn.org/:splat 301!
 https://pfiu.netlify.com/* https://ro.alexn.org/:splat 301!
+http://alexn-ro.netlify.com/* https://ro.alexn.org/:splat 301!
+https://alexn-ro.netlify.com/* https://ro.alexn.org/:splat 301!
 
 #########################################################################
 ### Redirect pfiu.ro to new address

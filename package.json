@@ -1,5 +1,5 @@
 {
-  "name": "pfiu.ro",
+  "name": "ro.alexn.org",
   "private": true,
   "version": "1.0.0",
   "description": "My website",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexandru/pfiu.ro.git"
+    "url": "git+https://github.com/alexandru/ro.alexn.org.git"
   },
   "author": "Alexandru Nedelcu",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/alexandru/pfiu.ro/issues"
+    "url": "https://github.com/alexandru/ro.alexn.org/issues"
   },
-  "homepage": "https://github.com/alexandru/pfiu.ro#readme"
+  "homepage": "https://github.com/alexandru/ro.alexn.org#readme"
 }

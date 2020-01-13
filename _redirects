@@ -1,25 +1,35 @@
-# Redirect default Netlify subdomain to primary domain
-http://pfiu.netlify.com/* https://pfiu.ro/:splat 301!
-https://pfiu.netlify.com/* https://pfiu.ro/:splat 301!
+#########################################################################
+### HTTPS
 
-# Redirect www to naked
-http://www.pfiu.ro/* https://pfiu.ro/:splat 301!
-https://www.pfiu.ro/* https://pfiu.ro/:splat 301!
+http://ro.alexn.org/*  https://ro.alexn.org/:splat 301!
 
+#########################################################################
+### Redirect default Netlify subdomain to primary domain
+
+http://pfiu.netlify.com/* https://ro.alexn.org/:splat 301!
+https://pfiu.netlify.com/* https://ro.alexn.org/:splat 301!
+
+#########################################################################
+### Redirect pfiu.ro to new address
+
+http://pfiu.ro/* https://ro.alexn.org/:splat 301!
+https://pfiu.ro/* https://ro.alexn.org/:splat 301!
+http://www.pfiu.ro/* https://ro.alexn.org/:splat 301!
+https://www.pfiu.ro/* https://ro.alexn.org/:splat 301!
+
+#########################################################################
 ### RSS feed
 
-# HTTPS
-http://flux.pfiu.ro/*  https://flux.pfiu.ro/:splat 301!
-
-# Redirect flux.pfiu.ro to /feed/
-https://flux.pfiu.ro/* https://pfiu.ro/feed.xml 200!
+# Redirect flux.ro.alexn.org to /feed.xml
+https://flux.ro.alexn.org/* https://ro.alexn.org/feed.xml 200!
 
 # Correct feed path
-https://pfiu.ro/feed/ https://pfiu.ro/feed.xml 302!
+https://ro.alexn.org/feed/ https://ro.alexn.org/feed.xml 302!
 
-# Old links, new links
+#########################################################################
+### Old links, new links
+
 /2019/:month/:day/:slug/ /2019/:month/:slug/ 301!
-
 /foamea/ /2019/05/foamea/ 301!
 /postul-intermitent/ /2019/02/postul-intermitent/ 301!
 /dieta-ancestrala/ /2019/02/dieta-ancestrala/ 301!

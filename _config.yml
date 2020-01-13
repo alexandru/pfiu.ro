@@ -1,10 +1,10 @@
-title: Pfiu.ro
+title: Alexandru Nedelcu (RO)
 description: Explorări, dietă, viață
 
-url: https://pfiu.ro
+url: https://ro.alexn.org
 baseurl: ""
 permalink: :year/:month/:title/
-feed: https://flux.pfiu.ro/
+feed: https://flux.ro.alexn.org/
 
 include: ["_redirects"]
 
@@ -62,7 +62,7 @@ social:
   # github: alexandru
   # twitter: alexelcu
   # facebook: alexelcu
-  email: contact@m9.pfiu.ro
+  email: contact@m9.alexn.org
 
 google_analytics: "UA-84530423-4"
 

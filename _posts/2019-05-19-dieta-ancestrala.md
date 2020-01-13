@@ -414,4 +414,4 @@ Deasemenea oricine vrea să afle adevăruri direct de la sursă nu greșește da
 
 ## Alătură-te, hai în grup
 
-{% include hai-in-grup-2.html skip_header=true %}
+{% include hai-in-grup.html skip_header=true %}

@@ -66,10 +66,10 @@
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" sizes="16x16" />
-    <link rel="icon" href="{{ "/assets/media/favicon-32.png" | prepend: site.baseurl }}" sizes="32x32" />
-    <link rel="icon" href="{{ "/assets/media/favicon-192.png" | prepend: site.baseurl }}" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="{{ "/assets/media/favicon-180.png" | prepend: site.baseurl }}" />
-    <meta name="msapplication-TileImage" content="{{ "/assets/media/favicon-270.png" | prepend: site.baseurl }}" />
+    <link rel="icon" href="{% link assets/logo/32px.png %}" sizes="32x32" />
+    <link rel="icon" href="{% link assets/logo/192px.png %}" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="{% link assets/logo/180px.png %}" />
+    <meta name="msapplication-TileImage" content="{% link assets/logo/270px.png %}" />
 
     <!-- Come and get me RSS readers -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.feed }}" />

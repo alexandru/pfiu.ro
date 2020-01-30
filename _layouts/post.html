@@ -100,12 +100,13 @@ layout: default
   <div class="related">
     <h2>Articole similare</h2>
     <div class="container">
+      {% assign valid_related_posts = site.related_posts | unless_hidden  %}
       {% assign num=4 %}
-      {% for related_post in site.related_posts limit:num %}
+      {% for related_post in valid_related_posts limit:num %}
         {% if related_post.url == page.url %}{% assign num=5 %}{% endif %}
       {% endfor %}
 
-      {% for related_post in site.related_posts limit:num %}
+      {% for related_post in valid_related_posts limit:num %}
       {% unless related_post.url == page.url %}
       <div class="item">
         <a class="related-link" href="{{ site.baseurl }}{{ related_post.url }}">

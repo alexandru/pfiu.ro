@@ -37,6 +37,14 @@ module Jekyll
   module MyRSSFilter
     @@site = Jekyll.configuration({})
 
+    def unless_hidden(list)
+      new_list = []
+      list.each do |elem|
+        new_list << elem unless elem['hidden']
+      end
+      new_list
+    end
+
     def rss_process(html)
       doc = Nokogiri::HTML(html)
 

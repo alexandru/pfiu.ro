@@ -14,19 +14,19 @@ author: alexelcu
 
 - [Introducere](#introducere)
 - [Ce mâncăm](#ce-mâncăm)
-  - [Mâncăruri de evitat](#mâncăruri-de-evitat)
+  - [Regula 80% - 20%](#regula-80---20)
+  - [Mâncăruri de consumat cu moderație](#mâncăruri-de-consumat-cu-moderație)
   - [Mâncăruri sănătoase](#mâncăruri-sănătoase)
   - [Mâncăruri așa și-așa](#mâncăruri-așa-și-așa)
   - [Cum afli că ești sensibil la o mâncare?](#cum-afli-că-ești-sensibil-la-o-mâncare)
   - [Macro-nutrienți](#macro-nutrienți)
-- [Motive pentru eliminare](#motive-pentru-eliminare)
+- [Motive pentru limitare](#motive-pentru-limitare)
   - [Mâncarea ultra-procesată](#mâncarea-ultra-procesată)
   - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semințe)
   - [Zahărul (Fructoza)](#zahărul-fructoza)
   - [Grâul și Glutenul](#grâul-și-glutenul)
 - [Dieta din Paleolitic?](#dieta-din-paleolitic)
 - [Credite](#credite)
-- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
 
@@ -42,21 +42,37 @@ Rețeta dietei ancestrale:
 6. somnul este important, culcă-te la timp, dormi suficient
 7. joacă-te
 
+<p class="false-info">
+  <strong>Avertizare:</strong> deși această dietă poate fi baza unei diete sănătoase, restricția severă de alimente și categorii de alimente poate induce tulburări psihice din categoria tulburărilor de alimentație!
+  <br><br>
+  Nu există mâncăruri comune care să fie toxice în adevăratul sens al cuvântului, macro-nutrienții și mâncărurile comune ne fac rău doar în contextul consumului caloric exagerat cronic, iar alimentele ce conțin zahăr sau grăsimi adăugate pot face parte dintr-o dietă sănătoasă, atâta timp cât sunt consumate cu moderație!
+</p>
+
 ## Ce mâncăm
 
 Dieta ancestrală elimină substanțele comestibile pe care străbunica ta nu le recunoștea ca fiind mâncare, preferând mâncărurile foarte bogate în nutrienți.
 
 În dieta ancestrală este vorba în primul rând de eliminarea mâncării ultra-procesate și a carbohidraților rafinați, concentrându-ne foarte mult pe mâncare proaspătă. Dar mai concret ...
 
-### Mâncăruri de evitat
+### Regula 80% - 20%
 
-Această listă include mâncăruri ce ne pot face rău.
+Când adoptăm o dietă, orice dietă care e cât de cât sănătoasă, e bine să nu fim super stricți cu regulile impuse, altfel putem dezvolta tulburări serioase de alimentație.
 
-În funcție de individ aceste alimente pot fi tolerate, dar doar în cantități mici și doar ocazional. În cantități mari devin toxice și este recomandat să fie eliminate din dietă:
+O regulă sănătoasă este regula 80% - 20%, adică ... 80% din timp mâncăm sănătos, iar 20% din timp ne facem de cap (cu moderație).
+
+Implementarea pentru o astfel de regulă ar fi de exemplu — odată pe săptămână mâncăm ispre ceva bun, de care ne este poftă, dar care nu se clasifică în categoria mâncărurilor optime pentru slăbit și sănătate. De exemplu pizza sau o prăjitură bună, poate fi orice.
+
+Perfecțiunea este inamicul binelui 😉
+
+### Mâncăruri de consumat cu moderație
+
+Această listă include mâncăruri ce ne pot face rău, în contextul supralimentării cronice cu calorii ... adică ce-i mult strică.
+
+În funcție de individ aceste alimente pot fi tolerate, dar doar în cantități moderate. În cantități mari pot ajunge să dăuneze și consumul trebuie moderat:
 
 1. **mâncarea ultra-procesată** — vorbim de procesarea industrială, mâncărurile suspecte de ultra-procesare fiind mâncărurile ambalate frumos și cu ingrediente pe etichetă ce nu le cunoaștem ([detalii](#mâncarea-ultra-procesată))
-2. **carbohidrații rafinați** — cum ar fi fulgii de porumb, făina de grâu și produsele bazate pe făină, cum ar fi pâinea și pastele ([detalii](#mâncarea-ultra-procesată))
-3. **zahărul adăugat (cu fructoză)**, fie că vorbim de sucroză sau HFCS nu contează; nu bea nimic ce conține zahăr, evită chiar și sucul "natural" din fructe proaspete; deși fructele consumate întregi sunt sănătoase ([detalii](#zahărul-fructoza))
+2. **carbohidrații rafinați** — cum ar fi fulgii de porumb, făina de grâu albă și produsele bazate pe făină albă, cum ar fi pâinea și pastele ([detalii](#mâncarea-ultra-procesată))
+3. **zahărul adăugat (cu fructoză)**, fie că vorbim de sucroză sau HFCS nu contează; nu bea nimic ce conține zahăr, evită chiar și sucul "natural" din fructe proaspete; deși fructele consumate întregi sunt foarte sănătoase ([detalii](#zahărul-fructoza))
 4. **grăsimile trans** — aceste grăsimi sunt super periculoase și în general se găsesc în mâncarea ultra-procesată, în fast-food, în multe mâncăruri de super-market ce au fost vândute ca fiind "sănătoase" cum ar fi margarina; verifică mereu eticheta
 5. **grăsimile polinesaturate** trebuie să constituie doar o foarte mică parte din dietă; asta înseamnă evitarea uleiurilor de semințe cum ar fi uleiul de floarea soarelui, uleiul de soia, uleiul de porumb, uleiul de șofrănel, uleiul de canola și altele similare; uleiul de floarea soarelui de exemplu este peste 65% din compoziție acizi grași omega-6, sau mai precis acid linolenic ([detalii](#uleiurile-vegetale-de-semințe))
 6. **grâul și produsele bogate în gluten** deoarece sunt inflamatoare și este posibil să provoace boli autoimune, în special grâul, fie că este de la gluten sau de la alte substanțe toxice din grâu ([detalii](#grâul-și-glutenul))
@@ -94,15 +110,19 @@ NOTĂ: această listă nu este neapărat completă și conține atât alimente b
 
 Motivul invocat este că astfel de alimente sunt prea "moderne" și nu suntem bine adaptați pentru a le digera, iar semințele plantelor la modul general conțin toxine ce previn digestia și pot acționa ca și "antinutrienți", adică previn absorpția de nutrienți și pot duce la diverse deficiențe. Exemple ar fi lectinele sau acidul fitic.
 
-Problema este că multe alte legume conțin lectine sau acid fitic, deci acest fapt nu-i un motiv bun de eliminare. Deasemenea lectinele din leguminoase pot fi distruse prin procesul de gătire. Toxicitatea fasolei este diminuată mult dacă înmuiem fasolea în jur de 12 - 24 de ore înainte de gătire, iar apoi prin fierbere lectinele sunt distruse. Leguminoasele în mod tradițional se prepară printr-o înmuiere prealabilă, pentru a declanșa procesul de germinație și ce reduce astfel toxicitatea. Această practică însă a fost uitată și mai nou preferăm să cumpărăm fasole, mazăre semi-preparată la conservă de la supermarket, ce intră la categoria de mâncare ultra-procesată.
+Problema este că multe alte legume conțin lectine sau acid fitic, deci acest fapt nu-i un motiv bun pentru limitare. Deasemenea lectinele din leguminoase pot fi distruse prin procesul de gătire. Toxicitatea fasolei este diminuată mult dacă înmuiem fasolea în jur de 12 - 24 de ore înainte de gătire, iar apoi prin fierbere lectinele sunt distruse. Leguminoasele în mod tradițional se prepară printr-o înmuiere prealabilă, pentru a declanșa procesul de germinație și ce reduce astfel toxicitatea. Această practică însă a fost uitată și mai nou preferăm să cumpărăm fasole, mazăre semi-preparată la conservă de la supermarket, ce intră la categoria de mâncare ultra-procesată.
 
 Deasemenea anumite substanțe, cum ar fi din grâu, pot declanșa reacții autoimune. Un exemplu ar fi boala celiacă, declanșată de glutenul din grâu. Și de fapt tot mai mulți oameni dezvoltă o sensibilitate la gluten chiar dacă nu vorbim de boala celiacă. Însă în alte țări gluten izolat este servit ca și mâncare pe meniu, cum ar fi în Japonia și o teorie ar fi că devenim sensibili la gluten datorită unei flore intestinale din ce în ce mai afectată de mâncărurile procesate și antibiotice, dar că în contextul potrivit glutenul în sine nu face rău. Dar înainte de a trage concluzii pripite, vedeți secțiunea despre [grâu și gluten](#grâul-și-glutenul).
 
-Astfel că astfel de mâncăruri pot fi sănătoase, dacă sunt mâncate în moderație de oameni sănătoși. Deasemenea anumite leguminoase, dar și anumite cereale integrale, pot avea beneficii pentru flora intestinală. Însă aici depinde dacă aveți un stomac sănătos sau nu. Un stomac sănătos poate digera cereale și leguminoase fără probleme, însă un stomac cu probleme ale florei intestinale poate că nu.
+Astfel că astfel de mâncăruri pot fi sănătoase, dacă sunt consumate de oameni sănătoși. Deasemenea anumite leguminoase, dar și anumite cereale integrale, pot avea beneficii pentru flora intestinală. Însă aici depinde dacă aveți un stomac sănătos sau nu. Un stomac sănătos poate digera cereale și leguminoase fără probleme, însă un stomac cu probleme ale florei intestinale poate că nu.
 
 Atenție însă, când vorbim de cereale aici, nu vorbim de _carbohidrați rafinați_, nu vorbim de făina de grâu, de pâine, sau de paste.
 
-Un motiv bun pentru evitare ar fi că atât celealele cât și multe leguminoase sunt bogate în calorii, dar sărace în nutrienți și fibre comparativ cu alte plante. Dieta ancestrală pune accentul pe mâncare ce maximizează nutrienții, astfel că recomandarea ar fi evitarea cerealelor și a leguminoaselor bogate în calorii. Dar din când în când o mămăligă din mălai integral, sau periodic o fasole sau o mazăre merge, atâta timp cât sunt corect preparate.
+Un motiv bun pentru evitare ar fi că atât celealele cât și multe leguminoase sunt bogate în calorii, dar sărace în nutrienți comparativ cu alte plante — cu excepția proteinelor (vezi mai jos). Dieta ancestrală pune accentul pe mâncare ce maximizează nutrienții, astfel că recomandarea ar fi evitarea cerealelor și a leguminoaselor bogate în calorii. Dar din când în când o mămăligă din mălai integral, sau periodic o fasole sau o mazăre merge, atâta timp cât sunt corect preparate.
+
+<p class="info-bubble">
+  <strong>Atenție:</strong> Leguminoasele sunt foarte bogate în proteine vegetale. La o dietă vegană, ce nu include carne, leguminoasele sunt aproape obligatorii!
+</p>
 
 ### Cum afli că ești sensibil la o mâncare?
 
@@ -135,7 +155,7 @@ Dieta este agnostică vizavi de carbohidrați și grăsimi, deoarece la nivel mo
 
 Eschimoșii Inuit mâncau aproape numai carne, cu foarte multă grăsime, dar s-au observat și adaptări ale ficatului și rinichilor pentru asta. Maasai din Africa au fost observați că mănâncă carne crudă și sânge crud de vită. Kuna din Panama sau băștinașii din Kitava au fost observați cu diete de peste 65% carbohidrați și-n condiții de sănătate excelentă.
 
-Considerăm totuși că în contextul vieții moderne, dietele cu mai puțini carbohidrați sunt mai sănătoase decât dietele cu mai mulți carbohidrați. Însă dacă veți elimina zahărul și carbohidrații rafinați din dietă, conform recomandării, veți fi oricum "low carb" pentru că o dietă cu mulți carbohidrați devine foarte grea fără făină și zahăr 😉
+Considerăm totuși că în contextul vieții moderne, dietele moderate în carbohidrați sunt mai sănătoase decât dietele cu foarte mulți carbohidrați. Însă dacă veți limita zahărul adăugat și carbohidrații rafinați din dietă, conform recomandării, veți fi oricum "low carb" pentru că o dietă cu mulți carbohidrați devine foarte dificilă fără făină albă și zahăr 😉
 
 Proteinele sunt o altă problemă. Recomandarea este pentru un consum mărit de proteine, față de dieta standard, deoarece proteinele promovează sațietatea și sunt importante pentru întreținerea masei musculare și a oaselor.
 
@@ -153,11 +173,11 @@ Referințe:
 - [How much protein do you need per day?](https://examine.com/nutrition/how-much-protein-do-you-need/)
 - [How can you assess protein quality?](https://examine.com/nutrition/rating-proteins/)
 
-## Motive pentru eliminare
+## Motive pentru limitare
 
 ### Mâncarea ultra-procesată
 
-Evitarea mâncării ultra-procesate este cea mai importantă regulă.
+Limitarea mâncării ultra-procesate este cea mai importantă regulă.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/media/2019/processed-food.jpg" />
 
@@ -326,9 +346,9 @@ Ce trebuie să știi despre grâu:
 2. Răspunsul imun la grâu poate rezulta în deteriorarea corpului, dar cel mai sever sunt afectate stomacul și tiroida
 3. Răspunsul la grâu variază de la persoană la persoană
 4. La orice moment o persoană poate obține anticorpi împotriva grâului ce pot genera atacuri autoimune
-5. Singura modalitate de a evita problemele de sănătate generate de grâu este să eliminați grâul din dietă
+5. Singura modalitate de a evita problemele de sănătate generate de grâu este să limitați grâul din dietă
 
-Consumul de grâu poate genera atacuri autoimune ce pot duce la hipotiroidism. Grâul poate declanșa atacuri autoimune împotriva pancreasului și poate induce diabetul de tip 1, cauza descoperită fiind o proteină denumită "globulina 1". Însă vestea bună este că astfel de afecțiuni par să dispară atunci când grâul este eliminat din dietă.
+Consumul de grâu poate genera atacuri autoimune ce pot duce la hipotiroidism. Grâul poate declanșa atacuri autoimune împotriva pancreasului și poate induce diabetul de tip 1, cauza descoperită fiind o proteină denumită "globulina 1". Însă vestea bună este că astfel de afecțiuni par să dispară atunci când grâul este limitat din dietă.
 
 Grâul ar putea distruge inclusiv inima. Pacienții cu transplanturi de inimă au de obicei boala celiac, și când oamenii de știință au investigat, au aflat că anticorpi pentru gliadina din grâu atacă deasemenea inima.
 
@@ -411,7 +431,3 @@ Pentru acest articol m-am inspirat din mai multe surse, însă sursele principal
 3. Website-ul lui [Chris Kresser](https://chriskresser.com/)
 
 Deasemenea oricine vrea să afle adevăruri direct de la sursă nu greșește dacă face căutări pe [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/).
-
-## Alătură-te, hai în grup
-
-{% include hai-in-grup.html skip_header=true %}

@@ -14,6 +14,8 @@ last_modified_at: 2019-06-03
 description: 'Cetoza alimentară este o stare metabolică ce stimulează arderea de grăsimi (lipoliza), ajutând la slăbit, dar și un semn că nivelul de insulină din sânge e foarte scăzut, ceea ce-i important pentru diabetici. Postul intermitent are multe beneficii, dar oare poate induce starea de cetoză, fără schimbarea alimentației?'
 image: "/assets/media/2019/cetone.jpg"
 image_hide_in_post: true
+false_info: true
+hidden: true
 ---
 
 <p class="intro">
@@ -116,5 +118,3 @@ Pentru cele mai bune rezultate cei experimentați apelează la două metode:
 2. suplimente alimentare cu cetone "exogene", cum ar fi uleiul de cocos, sau uleiul MCT ... însă prin suplimente alimentare nu se atinge o stare metabolică adecvată
 
 Astfel că postul intermitent e util chiar dacă ții sau nu Keto.
-
-{% include hai-in-grup.html %}

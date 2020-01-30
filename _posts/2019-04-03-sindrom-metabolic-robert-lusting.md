@@ -14,6 +14,9 @@ description: 'O prezentare fascinantă, în limba engleză, de Robert Lusting de
 image: "/assets/media/2019/metabolic-syndrome-robert-lustig.png"
 image_hide_in_post: true
 author: alexelcu
+image_hide_in_post: true
+false_info: true
+hidden: true
 ---
 
 <p class="intro">
@@ -115,5 +118,3 @@ sucurile dulci, orice are fructoză altfel decât într-o stare naturală
 (fructe și legume neprelucrate). Și să mănânci *mâncare adevărată*.
 
 Și aș putea adăuga din propria experiență ... să ții post intermitent 😉
-
-{% include hai-in-grup.html %}

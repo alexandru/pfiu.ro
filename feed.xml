@@ -21,7 +21,7 @@ permalink: /feed.xml
     <generator>Jekyll v{{ jekyll.version }}</generator>
 
     {% for post in site.posts limit:200 %}
-      {% unless post.link %}
+      {% unless post.link or post.hidden %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description><![CDATA[

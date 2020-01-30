@@ -14,6 +14,9 @@ description: 'Cărțile și resursele în limba română despre practici de diet
 image: "/assets/media/2019/fasting-book.jpg"
 image_hide_in_post: false
 author: alexelcu
+image_hide_in_post: true
+false_info: true
+hidden: true
 ---
 
 <p class="intro">Cărțile și resursele în limba română despre practici de dietă și viață mai moderne, cum ar fi postul intermitent, sunt mai puțin disponibile și mai puțin cunoscute. Următoarele două cărți însă au fost traduse și reprezintă o resursă bună pentru începători.</p>
@@ -126,5 +129,3 @@ Jason Fung a absolvit Facultatea de Medicină a Universității din Toronto și 
 ### Jimmy Moore
 
 Jimmy Moore a devenit popular în 2004 după o pierdere în greutate de 82 Kg, ceea ce i-a permis să renunțe la medicamentele pentru colesterol mărit, tensiune și probleme de respirație. Este persoana energetică din spatele blogului foarte popular "_Livin’ La Vida Low-Carb_", gazda podcast-ului foarte popular "_The Livin’ La Vida Low-Carb Show_" și deasemenea gazda "_Low-Carb Conversations_" și "_Keto Talk_". A intervievat peste 1000 din experții mondiali în sănătate. Este și autorul aclamat al cărților "_The Ketogenic Cookbook_", "_Keto Clarity", și "_Cholesterol Clarity_".
-
-{% include hai-in-grup.html %}

@@ -9,9 +9,12 @@ categories:
 tags:
   - Cetoză
   - Autofagie
+  -
 author: alexelcu
 description: Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată. Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză intermittent fasting, prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 image: /assets/media/2019/fasting.jpg
+false_info: true
+hidden: true
 ---
 
 - [Introducere](#introducere)
@@ -30,7 +33,6 @@ image: /assets/media/2019/fasting.jpg
     - [Autofagie](#autofagie)
     - [Importanța postului curat](#importanța-postului-curat)
     - [Rata metabolică](#rata-metabolică)
-- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
 
@@ -185,7 +187,3 @@ Vezi deasemenea:
 O lucrare ce confirmă diferența între post și restricția calorică vizavi de rata metabolică bazală:
 
 - [Resting energy expenditure in short-term starvation is increased as a result of an increase in serum norepinephrine.](https://www.ncbi.nlm.nih.gov/pubmed/10837292)
-
-## Alătură-te, hai în grup
-
-{% include hai-in-grup.html skip_header=true %}

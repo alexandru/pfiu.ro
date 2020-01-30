@@ -16,7 +16,6 @@ author: alexelcu
 - [Cât de important este somnul?](#cât-de-important-este-somnul)
 - [Soluții](#soluții)
 - [Referințe](#referințe)
-- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Introducere
 
@@ -105,7 +104,3 @@ O listă de studii, copiate de pe pagina [justgetflux.com/research](https://just
 - [Dynamic resetting of the human circadian pacemaker by intermittent bright light](http://ajpregu.physiology.org/content/279/5/R1574.full.pdf+html)
 - [Human circadian pacemaker is sensitive to light throughout subjective day without evidence of transients](http://ajpregu.physiology.org/content/273/5/R1800.full.pdf+html)
 - [Exposure to bright light and darkness to treat physiologic maladaptation to night work](http://www.nejm.org/doi/pdf/10.1056/NEJM199005033221801)
-
-## Alătură-te, hai în grup
-
-{% include hai-in-grup.html skip_header=true %}

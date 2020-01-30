@@ -14,6 +14,20 @@ layout: default
     | <nobr><span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}</nobr>
   </p>
 
+  {% if page.false_info %}
+  <{% unless page.image_hide_in_post %}div{% else %}p{% endunless %} class="false-info">
+    <strong>Avertizare <em>informații false</em>:</strong>
+    Acest articol prezintă informații ce contravin consensului din știință,
+    informații ce pot duce la dezvoltarea unei tulburări psihice din categoria
+    tulburărilor de alimentație!
+    <br><br>
+    Autorul acestui articol și-a schimbat părerea vizavi de ce înseamnă o
+    dietă și un stil de viață sănătos, și nu mai promovează diete și sfaturi
+    pentru care nu există un consens științific. Iar pentru sfaturi de dietă
+    cel mai bine apelați la un dietetician licențiat.
+  </{% unless page.image_hide_in_post %}div{% else %}p{% endunless %}>
+  {% endif %}
+
   {% if page.image -%}
     {% unless page.image_hide_in_post -%}
     <figure class="featuredImage" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">

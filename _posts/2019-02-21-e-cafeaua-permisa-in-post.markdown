@@ -14,6 +14,8 @@ author: alexelcu
 description: "Alimentele și băuturile pot întrerupe postul și beneficiile sale metabolice. O mare nedumerire vizavi de a ține post (intermitent, alternativ, extins) ar fi: <i>Este cafeaua permisă în post sau nu?</i>"
 image: /assets/media/2019/coffee.jpg
 image_caption: "Autor: <a href='https://flic.kr/p/k2WYEw'>tsaiproject</a>"
+false_info: true
+hidden: true
 ---
 
 <p class="intro">Alimentele și băuturile pot întrerupe postul și beneficiile sale metabolice. O mare nedumerire vizavi de a ține post (intermitent, alternativ, extins) ar fi:
@@ -116,5 +118,3 @@ Din fericire cafeaua neagră nu pare să întrerupă postul în vreun fel semnif
 Aș include aici și ceaiul negru sau verde. Ceaiul verde în particular am citit că are și alte beneficii pe lângă cofeină.
 
 ATENȚIE: consensul însă nu este unanim vizavi de autofagie, deși există indicații că cafeina ajută, vezi notițe.
-
-{% include hai-in-grup.html %}

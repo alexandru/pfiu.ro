@@ -48,5 +48,3 @@ Inspirat de ["Delay, Don't Deny"](https://www.goodreads.com/book/show/33647411-d
 25. Am mâncăruri pe care le consider rele pentru mine? Am mâncăruri pe care le consider bune? Ce aș putea să fac pentru a scăpa de astfel de etichete, pentru ca mâncarea să nu mai aibă asemenea putere asupra mea?
 26. Ce vreau să-i învăț pe cei din generațiile următoare (copii, nepoți) despre mâncare?
 27. Când mă gândesc la istoria mea cu dietele anterioare, ce lecții am învățat despre mine?
-
-{% include hai-in-grup.html %}

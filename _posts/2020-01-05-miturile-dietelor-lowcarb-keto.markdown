@@ -32,7 +32,6 @@ Iar dacă mecanismele prin care ne îngrășăm și prin care putem slăbi nu su
   - [Medicii tratează diabetul T2 doar prin pastile](#medicii-tratează-diabetul-t2-doar-prin-pastile)
   - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-contează)
 - [Referințe](#referințe)
-- [Alătură-te, hai în grup](#alătură-te-hai-în-grup)
 
 ## Ce este o dietă low-carb?
 
@@ -299,7 +298,3 @@ PS: există și [cholesterolcode.com](https://cholesterolcode.com/){:target="_bl
 49. [A Randomized Double-Blind, Cross-Over Trial of very Low-Calorie Diet in Overweight Migraine Patients: A Possible Role for Ketones?](https://www.ncbi.nlm.nih.gov/pubmed/31357685/){:target="blank" id="ref-49"}
 50. [Do ketogenic diets really suppress appetite? A systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pubmed/25402637){:target="blank" id="ref-50"}
 51. [Ketogenic low-carbohydrate diets have no metabolic advantage over nonketogenic low-carbohydrate diets](https://www.ncbi.nlm.nih.gov/pubmed/16685046){:target="blank" id="ref-51"}
-
-## Alătură-te, hai în grup
-
-{% include hai-in-grup.html skip_header=true %}

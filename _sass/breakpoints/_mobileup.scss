@@ -611,3 +611,27 @@ img.right {
 .hidden {
 	display: none;
 }
+
+.post {
+	.info-bubble {
+		background-color: rgba($color: #e2f0e7, $alpha: 0.3);
+		color: #555;
+		padding: 7px;
+		border: 2px dashed #e2f0e7;
+		border-radius: 10px;
+	}
+
+	.false-info {
+		font-size: 110%;
+		background-color: rgba($color: #f0e2e8, $alpha: 0.3);
+		color: #855;
+		padding: 7px;
+		border: 2px dashed #e2f0e7;
+		border-radius: 10px;
+
+		strong {
+			color: darkred;
+			text-transform: uppercase;
+		}
+	}
+}

@@ -5,17 +5,15 @@ layout: default
   <h1 class="postTitle" itemprop="headline">{{ page.title }}</h1>
   <p class="meta">
     <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ page.url | absolute_url }}"/>
-    <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}"/>
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}"/>{% endif %}
     {% capture minutes %}{% capture value %}{{ page.content | number_of_words | divided_by:180 }}{% endcapture %}{% if value == "0" %}1{% else %}{{ value }}{% endif %}{% endcapture %}
     <time itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | ro_date_to_long_string }}</time>
-    {% for category in page.categories %}
-    | <a href="{{ category | downcase | append: '/' | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
-    {% endfor %}
     | <nobr><span class="time">{{ minutes }}</span> {% if minutes == "1" %}minut{% else %}minute{% endif %}</nobr>
   </p>
 
   {% if page.false_info %}
-  <{% unless page.image_hide_in_post %}div{% else %}p{% endunless %} class="false-info">
+  {% capture tag %}{% if page.image %}{% unless page.image_hide_in_post %}div{% else %}p{% endunless %}{% else %}p{% endif %}{% endcapture -%}
+  <{{ tag }} class="false-info">
     <strong>Avertizare <em>informații false</em>:</strong>
     Acest articol prezintă informații ce contravin consensului din știință,
     informații ce pot duce la dezvoltarea unei tulburări psihice din categoria
@@ -25,7 +23,7 @@ layout: default
     dietă și un stil de viață sănătos, și nu mai promovează diete și sfaturi
     pentru care nu există un consens științific. Iar pentru sfaturi de dietă
     cel mai bine apelați la un dietetician licențiat.
-  </{% unless page.image_hide_in_post %}div{% else %}p{% endunless %}>
+  </{{ tag }}>
   {% endif %}
 
   {% if page.image -%}
@@ -46,7 +44,7 @@ layout: default
   {% endif %}
 
   <div class="hidden" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-    <meta itemprop="name" content="ro.alexn.org">
+    <meta itemprop="name" content="{{ site.title }}">
     <meta itemprop="url" content="{{ '/despre/' | absolute_url }}">
     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
       <meta itemprop="url" content="{{ '/assets/raw/logo-green.png' | absolute_url }}">
@@ -86,12 +84,9 @@ layout: default
 
     <div id="all-categories">
       Etichete:
-      {% for category in page.categories %}
-        {% unless forloop.first %} | {% endunless %}
-        <a href="{{ category | downcase | append: '/' | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
-      {% endfor %}
       {% for tag in page.tags %}
-        | <a href="{{ tag | downcase | append: '/' | prepend: '/eticheta/' | prepend: site.baseurl }}" class="category">{{ tag | downcase }}</a>
+        {% unless forloop.first %} | {% endunless %}
+        <a href="{{ tag | downcase | append: '/' | prepend: '/eticheta/' | prepend: site.baseurl }}" class="category">{{ tag | downcase }}</a>
       {% endfor %}
     </div>
   </div>
@@ -110,12 +105,11 @@ layout: default
       {% unless related_post.url == page.url %}
       <div class="item">
         <a class="related-link" href="{{ site.baseurl }}{{ related_post.url }}">
-          <div class="related-image" style='{% if related_post.image %}background-image: url({% asset '{{ related_post.image | replace: "/assets/media/", "" }}' @path magick:resize=600x600 magick:quality=90 %});{% endif %}'></div>
           {{ related_post.title }}
         </a>
         <div class="related-meta">
           {{ related_post.date | ro_date_to_long_string }}
-          {% for category in related_post.categories %}
+          {% for category in related_post.tags %}
           | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
           {% endfor %}
         </div>

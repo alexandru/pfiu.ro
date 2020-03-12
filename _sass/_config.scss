@@ -1,4 +1,10 @@
 /***************
+PAGE WIDTH
+***************/
+
+$elementsWidth: 75%;
+
+/***************
 COLOR VARIABLES
 ***************/
 
@@ -38,6 +44,7 @@ $info-color: $blue; // Good color for success etc.
 $warning-color: $orange; // Good color for success etc.
 $subtle-color: $grey; // Subtle color for subtle text
 
+$all-headers-color: $black;
 
 /***************
 CONSISTENT SETTINGS
@@ -55,6 +62,9 @@ TYPE SETTINGS
 
 $sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
 $serif: "PT Serif", Georgia, Times, serif;
+$monospace: "Fira Code", monospace, monospace;
+
+$header-font: $monospace;
 
 $site-background: transparent url("/assets/media/tile-graphpaper.jpg") 50% 0;
 $site-background-footer: transparent url("/assets/media/tile-graphpaper-footer.jpg") 50% 0;

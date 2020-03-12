@@ -3,13 +3,9 @@ layout: post
 title:  "Postul intermitent"
 date:   2019-02-20
 last_modified_at: 2019-06-03
-categories:
+tags:
   - Dietă
   - Post
-tags:
-  - Cetoză
-  - Autofagie
-  -
 author: alexelcu
 description: Postul este un secret antic pentru sănătate. Este antic pentru că a fost practicat în toată istoria umană. Este un secret pentru că această practică a fost uitată. Postul este restricția voluntară a mâncării, practicată de oameni din motive spirituale, dar și de sănătate. Iar postul intermitent (pe engleză intermittent fasting, prescurtat IF) este un termen umbrelă pentru mai multe protocoale în care se comută între restricție alimentară și festin în timpul zilei.
 image: /assets/media/2019/fasting.jpg
@@ -20,19 +16,19 @@ hidden: true
 - [Introducere](#introducere)
   - [Beneficii](#beneficii)
 - [Avertisment: Cine nu poate?](#avertisment-cine-nu-poate)
-- [Cum se practică?](#cum-se-practică)
+- [Cum se practică?](#cum-se-practic%c4%83)
 - [Reguli pentru un post curat](#reguli-pentru-un-post-curat)
-- [Întrebări frecvente](#Întrebări-frecvente)
-  - [Nu este postul înformetare?](#nu-este-postul-înformetare)
-  - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restricțiile-calorice)
-- [Prezentări video (în engleză)](#prezentări-video-în-engleză)
-- [Referințe](#referințe)
-    - [Pierderea în greutate](#pierderea-în-greutate)
-    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-sânge-și-rezistența-la-insulină)
+- [Întrebări frecvente](#%c3%8entreb%c4%83ri-frecvente)
+  - [Nu este postul înformetare?](#nu-este-postul-%c3%aenformetare)
+  - [Nu este postul similar cu restricțiile calorice?](#nu-este-postul-similar-cu-restric%c8%9biile-calorice)
+- [Prezentări video (în engleză)](#prezent%c4%83ri-video-%c3%aen-englez%c4%83)
+- [Referințe](#referin%c8%9be)
+    - [Pierderea în greutate](#pierderea-%c3%aen-greutate)
+    - [Glucoza din sânge și rezistența la insulină](#glucoza-din-s%c3%a2nge-%c8%99i-rezisten%c8%9ba-la-insulin%c4%83)
     - [Longevitate](#longevitate)
     - [Autofagie](#autofagie)
-    - [Importanța postului curat](#importanța-postului-curat)
-    - [Rata metabolică](#rata-metabolică)
+    - [Importanța postului curat](#importan%c8%9ba-postului-curat)
+    - [Rata metabolică](#rata-metabolic%c4%83)
 
 ## Introducere
 

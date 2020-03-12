@@ -2,6 +2,8 @@
 GLOBAL STYLES
 ***************/
 
+@import "../config";
+
 body {
   font-size: 125%;
 }
@@ -25,8 +27,8 @@ HOMEPAGE STYLING
 ***************/
 
 #home {
-	.posts, .pageTitle, .pagination {
-    width: 75%;
+	.posts, .pageTitle, .pagination, .archive_list {
+    width: $elementsWidth;
 		float: none;
 		margin: 0 auto 1.5em;
 	}
@@ -42,7 +44,7 @@ HEADER STYLING
 ***************/
 
 .header {
-	height: 13em;
+	height: 7em;
 	position: relative;
 	padding-bottom: 0;
 
@@ -125,8 +127,8 @@ POST STYLING
 ***************/
 
 .post {
-	h1, h2, h3, h4, h5, h6, p, ul, ol, dl, .pageTitle {
-    width: 75%;
+	h1, h2, h3, h4, h5, h6, p, ul, ol, dl, .pageTitle, div.content {
+    width: $elementsWidth;
 		float: none;
 		margin: 0 auto 2rem;
 	}
@@ -142,6 +144,15 @@ POST STYLING
 	.featuredImage {
 		position: relative;
 		margin-top: 2rem;
+	}
+
+	.highlight {
+		font-size: .8em;
+		padding: 20px;
+	}
+
+	div.formula-code {
+		padding: 20px 10px;
 	}
 }
 
@@ -224,21 +235,6 @@ img.right {
 	float: right;
 }
 
-.highlight {
-	padding: 1em;
-	margin: 1em 0;
-	overflow: auto;
-	line-height: 130%;
-
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-
-	border: 2px solid #f0f0f0;
-	background-color: #fbfbfb;
-}
-
-// About page: /despre/
 .post.about {
 	img.avatar {
 		width: 300px;
@@ -253,18 +249,21 @@ div.header {
 
 #abonament {
 	form {
-		width: 75%;
+		width: $elementsWidth;
 		margin: 0 auto 2rem;
 	}
 }
 
 .post {
 	div.related {
-		width: 75%;
+		width: $elementsWidth;
 	}
 
 	#article-details {
-		width: 75%;
+		width: $elementsWidth;
+	}
+
+	.formula-code, .highlight > pre.code > code {
+		font-size: 100%;
 	}
 }
-

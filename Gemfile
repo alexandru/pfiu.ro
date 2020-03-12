@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
+ruby "2.6.5"
 
-gem "jekyll"
+gem "jekyll", "~> 4.0.0"
 gem "jekyll-paginate-v2"
 gem "support-for"
 gem 'nokogiri'

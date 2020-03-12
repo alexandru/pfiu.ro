@@ -1,9 +1,11 @@
 {% assign auto_category = include.autopages.display_name %}
 <div class="meta">
   <time class="date" datetime="{{ include.post.date | date: '%Y-%m-%d' }}">{{ include.post.date | ro_date_to_long_string }}</time>
-  {% for category in include.post.categories %}
-    {% unless category == auto_category %}
-    | <a href="{{ category | downcase | append: '/' | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+  {% assign had_first_tag = false %}
+  {% for tag in include.post.tags %}
+    {% unless tag == auto_tag %}
+      {% unless had_first_tag %}{% assign had_first_tag = true %}{% else %} | {% endunless -%}
+      <a href="{{ tag | downcase | append: '/' | prepend: '/eticheta/' | prepend: site.baseurl }}" class="tag">{{ tag | downcase }}</a>
     {% endunless %}
   {% endfor %}
 </div>

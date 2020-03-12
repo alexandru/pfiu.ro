@@ -1,6 +1,6 @@
 ---
 layout: post
-categories:
+tags:
   - Sănătate
   - Somn
 title: Lumina albastră ne afectează somnul
@@ -13,9 +13,9 @@ author: alexelcu
 ---
 
 - [Introducere](#introducere)
-- [Cât de important este somnul?](#cât-de-important-este-somnul)
-- [Soluții](#soluții)
-- [Referințe](#referințe)
+- [Cât de important este somnul?](#c%c3%a2t-de-important-este-somnul)
+- [Soluții](#solu%c8%9bii)
+- [Referințe](#referin%c8%9be)
 
 ## Introducere
 

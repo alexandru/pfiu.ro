@@ -1,6 +1,6 @@
 ---
 layout: post
-categories:
+tags:
   - Dietă
   - Paleo
 title: Dieta Ancestrală (Paleo)
@@ -13,18 +13,18 @@ author: alexelcu
 ---
 
 - [Introducere](#introducere)
-- [Ce mâncăm](#ce-mâncăm)
+- [Ce mâncăm](#ce-m%c3%a2nc%c4%83m)
   - [Regula 80% - 20%](#regula-80---20)
-  - [Mâncăruri de consumat cu moderație](#mâncăruri-de-consumat-cu-moderație)
-  - [Mâncăruri sănătoase](#mâncăruri-sănătoase)
-  - [Mâncăruri așa și-așa](#mâncăruri-așa-și-așa)
-  - [Cum afli că ești sensibil la o mâncare?](#cum-afli-că-ești-sensibil-la-o-mâncare)
-  - [Macro-nutrienți](#macro-nutrienți)
+  - [Mâncăruri de consumat cu moderație](#m%c3%a2nc%c4%83ruri-de-consumat-cu-modera%c8%9bie)
+  - [Mâncăruri sănătoase](#m%c3%a2nc%c4%83ruri-s%c4%83n%c4%83toase)
+  - [Mâncăruri așa și-așa](#m%c3%a2nc%c4%83ruri-a%c8%99a-%c8%99i-a%c8%99a)
+  - [Cum afli că ești sensibil la o mâncare?](#cum-afli-c%c4%83-e%c8%99ti-sensibil-la-o-m%c3%a2ncare)
+  - [Macro-nutrienți](#macro-nutrien%c8%9bi)
 - [Motive pentru limitare](#motive-pentru-limitare)
-  - [Mâncarea ultra-procesată](#mâncarea-ultra-procesată)
-  - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semințe)
-  - [Zahărul (Fructoza)](#zahărul-fructoza)
-  - [Grâul și Glutenul](#grâul-și-glutenul)
+  - [Mâncarea ultra-procesată](#m%c3%a2ncarea-ultra-procesat%c4%83)
+  - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semin%c8%9be)
+  - [Zahărul (Fructoza)](#zah%c4%83rul-fructoza)
+  - [Grâul și Glutenul](#gr%c3%a2ul-%c8%99i-glutenul)
 - [Dieta din Paleolitic?](#dieta-din-paleolitic)
 - [Credite](#credite)
 

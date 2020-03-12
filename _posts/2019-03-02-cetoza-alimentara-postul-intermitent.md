@@ -1,12 +1,8 @@
 ---
 layout: post
-categories:
+tags:
   - Dietă
   - Post
-tags:
-  - Cetoză
-  - Teste
-  - Metabolism
 title: Cetoza alimentară și postul intermitent
 author: alexelcu
 date: 2019-03-02 22:00:00 +0200
@@ -24,10 +20,11 @@ hidden: true
 
 <p class="intro">Răspunsul este DA, dar să vedem ...</p>
 
-- [Despre cetoza alimentară](#despre-cetoza-alimentară)
+- [Despre cetoza alimentară](#despre-cetoza-alimentar%c4%83)
 - [Literatura de specialitate](#literatura-de-specialitate)
 - [Experiment personal (n=1)](#experiment-personal-n1)
-- [Dieta ketogenică](#dieta-ketogenică)
+  - [Actualizare: 7 Martie, 2019](#actualizare-7-martie-2019)
+- [Dieta ketogenică](#dieta-ketogenic%c4%83)
 
 ## Despre cetoza alimentară
 

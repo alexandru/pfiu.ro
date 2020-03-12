@@ -1,5 +1,5 @@
-title: Alexandru Nedelcu (RO)
-description: Explorări, dietă, viață
+title: ro.alexn.org
+description: Gândurile unui introvertit
 
 url: https://ro.alexn.org
 baseurl: ""
@@ -13,6 +13,8 @@ defaults:
     scope:
       path: "_posts" # an empty string here means all files in the project
     values:
+      layout: post
+      author: alexelcu
       has_comments: true
 
 sass:
@@ -33,13 +35,11 @@ pagination:
 
 autopages:
   enabled: true
-
-  categories:
-    layouts:
-      - 'auto-categorie.html'
   tags:
     layouts:
       - 'auto-tag.html'
+  categories:
+    enabled: false
   collections:
     enabled: false
 

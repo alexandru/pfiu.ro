@@ -1,12 +1,8 @@
 ---
 layout: post
-categories:
+tags:
   - Dietă
   - Post
-tags:
-  - Recenzie
-  - Cetoză
-  - Metabolism
 title: 2 cărți pentru o introducere în post
 date: 2019-03-10 21:27:07 +0200
 last_modified_at: 2019-06-03

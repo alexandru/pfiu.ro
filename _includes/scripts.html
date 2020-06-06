@@ -5,4 +5,20 @@
 <script src="{{ '/assets/js/responsive-nav.min.js' | prepend: site.baseurl }}"></script>
 <script src="{{ '/assets/js/scripts.js' | prepend: site.baseurl }}"></script>
 
-{% if site.google_analytics %}{% include google_analytics.html %}{% endif %}
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ly.alexn.org/";
+    _paq.push(['setTrackerUrl', u+'m.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'m.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+  {% capture page_name %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif -%}{% endcapture %}
+  <img src="https://ly.alexn.org/m.php?idsite=3&rec=1&action_name={{ page_name | url_encode }}" style="border:0" alt="" />
+</noscript>

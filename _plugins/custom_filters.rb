@@ -45,6 +45,18 @@ module Jekyll
       new_list
     end
 
+    def rss_campaign_link(link, keyword)
+      l = if link.include? '?'
+        link + "&"
+      else
+        link + "?"
+      end
+
+      l = l + "pk_campaign=rss"
+      l = l + "&pk_kwd=" + keyword if keyword
+      l
+    end
+
     def rss_process(html)
       doc = Nokogiri::HTML(html)
 
@@ -63,6 +75,9 @@ module Jekyll
 
       doc.css("a").each do |elem|
         elem["href"] = to_absolute_url(@@site, elem['href'])
+        if elem["href"].include?("alexn.org")
+          elem["href"] = rss_campaign_link(elem["href"], "inner-link")
+        end
       end
 
       doc.css("figcaption").each do |elem|

@@ -13,23 +13,23 @@ image: /assets/media/2020/keto.jpg
 
 Dietele low-carb, inclusiv dieta ketogenică (keto) merg foarte bine pentru slăbit și pentru managementul glucozei pentru diabetici, însă motivele pentru care aceste diete merg nu sunt cele expuse în comunitățile de keto.
 
-Iar dacă mecanismele prin care ne îngrășăm și prin care putem slăbi nu sunt înțeles corect, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
+Iar dacă mecanismele prin care ne îngrășăm și prin care putem slăbi nu sunt înțelese, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
 
 <p id="continut"><strong>Conținut:</strong></p>
 
-- [Ce este o dietă low-carb?](#ce-este-o-diet%c4%83-low-carb)
-  - [Ce este o dietă ketogenică (keto)?](#ce-este-o-diet%c4%83-ketogenic%c4%83-keto)
+- [Ce este o dietă low-carb?](#ce-este-o-dietă-low-carb)
+  - [Ce este o dietă ketogenică (keto)?](#ce-este-o-dietă-ketogenică-keto)
 - [De ce merg bine dietele low-carb / keto?](#de-ce-merg-bine-dietele-low-carb--keto)
 - [Mituri](#mituri)
   - [Caloriile nu sunt importante](#caloriile-nu-sunt-importante)
-  - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compozi%c8%9bia-m%c3%a2nc%c4%83rii)
-  - [Fructoza este toxică pentru ficat](#fructoza-este-toxic%c4%83-pentru-ficat)
-  - [Nu poți slăbi dacă mănânci foarte mult zahăr sau carbohidrați](#nu-po%c8%9bi-sl%c4%83bi-dac%c4%83-m%c4%83n%c3%a2nci-foarte-mult-zah%c4%83r-sau-carbohidra%c8%9bi)
-  - [Carbohidrații ridică insulina din sânge, insulina îngrașă și provoacă diabet](#carbohidra%c8%9bii-ridic%c4%83-insulina-din-s%c3%a2nge-insulina-%c3%aengra%c8%99%c4%83-%c8%99i-provoac%c4%83-diabet)
-  - [Insulina previne arderea de grăsimi](#insulina-previne-arderea-de-gr%c4%83simi)
-  - [Medicii tratează diabetul T2 doar prin pastile](#medicii-trateaz%c4%83-diabetul-t2-doar-prin-pastile)
-  - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-conteaz%c4%83)
-- [Referințe](#referin%c8%9be)
+  - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compoziția-mâncării)
+  - [Fructoza este toxică pentru ficat](#fructoza-este-toxică-pentru-ficat)
+  - [Nu poți slăbi dacă mănânci foarte mult zahăr sau carbohidrați](#nu-poți-slăbi-dacă-mănânci-foarte-mult-zahăr-sau-carbohidrați)
+  - [Carbohidrații ridică insulina din sânge, insulina îngrașă și provoacă diabet](#carbohidrații-ridică-insulina-din-sânge-insulina-îngrașă-și-provoacă-diabet)
+  - [Insulina previne arderea de grăsimi](#insulina-previne-arderea-de-grăsimi)
+  - [Medicii tratează diabetul T2 doar prin pastile](#medicii-tratează-diabetul-t2-doar-prin-pastile)
+  - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-contează)
+- [Referințe](#referințe)
 
 ## Ce este o dietă low-carb?
 

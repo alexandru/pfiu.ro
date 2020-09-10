@@ -3,6 +3,7 @@ title: "Vreau să slăbesc, dar cum?"
 tags: 
 - Dietă
 false_info: true
+hidden: true
 ---
 
 Greutatea mea, stabilă de câţiva ani, este pe undeva la 90-95 Kg, cu o înălţime de 172 cm. Însă greutatea mea ideală ar trebui să fie undeva pe la 70 Kg, ceea ce înseamnă că sufer de obezitate de grad 1. Şi m-am gândit să fac ceva în legătură cu asta.

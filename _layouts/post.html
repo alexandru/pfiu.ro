@@ -110,7 +110,7 @@ layout: default
         <div class="related-meta">
           {{ related_post.date | ro_date_to_long_string }}
           {% for category in related_post.tags %}
-          | <a href="{{ category | downcase | prepend: '/categorie/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
+          | <a href="{{ category | downcase | prepend: '/eticheta/' | prepend: site.baseurl }}" class="category">{{ category | downcase }}</a>
           {% endfor %}
         </div>
       </div>

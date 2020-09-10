@@ -5,7 +5,6 @@ tags:
 - Viață
 ---
 
-
 Azi, în timp ce-mi fumam ţigara pe balcon am observat un guguştiuc cu
 o crenguţă uscată în cioc, zburând grăbit pe lângă mine la o distanţă
 de câţiva metrii. Se grăbea probabil să-şi termine de construit cuibul

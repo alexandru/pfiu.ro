@@ -10,21 +10,23 @@ description: 'Dieta ancestrală este o dietă bazată pe alimente integrale, pro
 image: "/assets/media/2019/dieta-ancestrala.jpg"
 image_hide_in_post: false
 author: alexelcu
+false_info: true
+hidden: true
 ---
 
 - [Introducere](#introducere)
-- [Ce mâncăm](#ce-m%c3%a2nc%c4%83m)
+- [Ce mâncăm](#ce-mâncăm)
   - [Regula 80% - 20%](#regula-80---20)
-  - [Mâncăruri de consumat cu moderație](#m%c3%a2nc%c4%83ruri-de-consumat-cu-modera%c8%9bie)
-  - [Mâncăruri sănătoase](#m%c3%a2nc%c4%83ruri-s%c4%83n%c4%83toase)
-  - [Mâncăruri așa și-așa](#m%c3%a2nc%c4%83ruri-a%c8%99a-%c8%99i-a%c8%99a)
-  - [Cum afli că ești sensibil la o mâncare?](#cum-afli-c%c4%83-e%c8%99ti-sensibil-la-o-m%c3%a2ncare)
-  - [Macro-nutrienți](#macro-nutrien%c8%9bi)
+  - [Mâncăruri de consumat cu moderație](#mâncăruri-de-consumat-cu-moderație)
+  - [Mâncăruri sănătoase](#mâncăruri-sănătoase)
+  - [Mâncăruri așa și-așa](#mâncăruri-așa-și-așa)
+  - [Cum afli că ești sensibil la o mâncare?](#cum-afli-că-ești-sensibil-la-o-mâncare)
+  - [Macro-nutrienți](#macro-nutrienți)
 - [Motive pentru limitare](#motive-pentru-limitare)
-  - [Mâncarea ultra-procesată](#m%c3%a2ncarea-ultra-procesat%c4%83)
-  - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semin%c8%9be)
-  - [Zahărul (Fructoza)](#zah%c4%83rul-fructoza)
-  - [Grâul și Glutenul](#gr%c3%a2ul-%c8%99i-glutenul)
+  - [Mâncarea ultra-procesată](#mâncarea-ultra-procesată)
+  - [Uleiurile vegetale de semințe](#uleiurile-vegetale-de-semințe)
+  - [Zahărul (Fructoza)](#zahărul-fructoza)
+  - [Grâul și Glutenul](#grâul-și-glutenul)
 - [Dieta din Paleolitic?](#dieta-din-paleolitic)
 - [Credite](#credite)
 
@@ -41,12 +43,6 @@ Rețeta dietei ancestrale:
 5. mănâncă mâncare cât mai diversă
 6. somnul este important, culcă-te la timp, dormi suficient
 7. joacă-te
-
-<p class="false-info">
-  <strong>Avertizare:</strong> deși această dietă poate fi baza unei diete sănătoase, restricția severă de alimente și categorii de alimente poate induce tulburări psihice din categoria tulburărilor de alimentație!
-  <br><br>
-  Nu există mâncăruri comune care să fie toxice în adevăratul sens al cuvântului, macro-nutrienții și mâncărurile comune ne fac rău doar în contextul consumului caloric exagerat cronic, iar alimentele ce conțin zahăr sau grăsimi adăugate pot face parte dintr-o dietă sănătoasă, atâta timp cât sunt consumate cu moderație!
-</p>
 
 ## Ce mâncăm
 

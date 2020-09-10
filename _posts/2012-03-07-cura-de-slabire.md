@@ -3,6 +3,7 @@ title: "Cura de slăbire, sau cum să turbezi"
 tags: 
 - Dietă
 false_info: true
+hidden: true
 ---
 
 La o cură sănătoasă trebuie să slăbeşti în medie cam 1 Kg pe săptămână

@@ -26,7 +26,7 @@ Sunt privilegiat că-mi permit să merg în concediu. Sunt privilegiat că-n pan
 
 Sunt privilegiat că am fost la școală, o școală românească care este extraordinară, așa cum e ea, dacă te poți duce, un privilegiu ce nu se observă până nu vezi problemele pe care le au săracii, de la noi din satele sărace, sau din SUA. Sunt privilegiat că n-am rămas cu datorii pe viață din educație.
 
-Sunt privilegiat că sunt un bărbat heterosexual și alb din Europa, că oriunde mă duc îmi sunt ușile deschise, că nu sunt judecat pentru felul în care m-am născut, că nu trebuie să păstrez bonul fiscal de la magazin să demonstrez că n-am furat, că dacă sunt respins, nu mă întreb dacă am fost respins pentru culoarea pielii, pentru orientările sexuale, pentru că sunt evreu, travestit, sau femeie.
+Sunt privilegiat că sunt un bărbat heterosexual și alb din Europa, că oriunde mă duc îmi sunt ușile deschise, că nu sunt judecat pentru felul în care m-am născut, că nu trebuie să păstrez bonul fiscal de la magazin să demonstrez că n-am furat, că dacă sunt respins, nu mă întreb dacă am fost respins pentru culoarea pielii, pentru orientarea sexuală, pentru că sunt evreu, travestit, sau femeie.
 
 Sunt privilegiat că port măsura M sau L la tricou, că deși am tendința să mă îngraș, gravitez totuși între supra-ponderal și XL, dar nu mai mult. Sunt privilegiat că nu sunt obez morbid, că nu sunt discriminat pentru felul în care arăt, că n-aș putea fi acuzat de un defect de caracter pentru constituția ce o am, și chiar și când îmi crește burta, la bărbați e acceptabil.
 

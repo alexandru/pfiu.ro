@@ -44,6 +44,6 @@ Muncim mult pentru ce avem, desigur, dar în societate munca nu este totul, și 
 
 Iar rasismul sistemic, misoginismul, antisemitismul, lipofobia, xenofobia ... încă există chiar și în 2020, inclusiv în societea românească. Iar când oamenii devin conservatori, când ajung la ură împotriva semenilor, cel mai adesea nu-și protejează propria muncă, ci privilegiul.
 
-Fi-miu este și va fi un privilegiat. Și mă bucur că este, pentru că nu se va discrimina împotriva lui. Nu este o rușine să te naști în privilegiu. 
+Fi-miu este și va fi un privilegiat. Și mă bucur că este, pentru că nu se va discrimina împotriva lui. Nu este o rușine să te naști în privilegiu, dar este noroc chior.
 
-Însă pe fi-miu nu-l cresc să nutrească sentimente de ură față de semeni, bazat pe criterii de poziție socială, rasă, etnie, religie, mărime a corpului, sex sau orientare sexuală. N-ar trebui s-o faci nici tu.
+Așa că pe fi-miu nu-l cresc să nutrească sentimente de ură față de semeni, bazat pe criterii de poziție socială, rasă, etnie, religie, mărime a corpului, sex sau orientare sexuală. N-ar trebui s-o faci nici tu.

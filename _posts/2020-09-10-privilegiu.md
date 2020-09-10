@@ -34,7 +34,7 @@ Sunt privilegiat că sunt sănătos, și chiar dacă aș avea probleme, am acces
 
 Sunt născut în privilegiu.
 
-**Alții nu sunt atât de norocoși.**
+Alții nu sunt atât de norocoși.
 
 Nu scriu asta ca să mă simt mai bine. Este important să avem înțelegerea faptului că mulți dintre noi avem un [_privilegiu social_](https://en.wikipedia.org/wiki/Social_privilege) ce ne-a propulsat în fața altora. Că oricât de mult am avea impresia că oportunitățile de la naștere sunt egale, de fapt nu sunt, și este nedrept, este injust.
 

@@ -30,7 +30,7 @@ Sunt privilegiat că sunt un bărbat heterosexual și alb din Europa, că oriund
 
 Sunt privilegiat că port măsura M sau L la tricou, că deși am tendința să mă îngraș, gravitez totuși între supra-ponderal și XL, dar nu mai mult. Sunt privilegiat că nu sunt obez morbid, că nu sunt discriminat pentru felul în care arăt, că n-aș putea fi acuzat de un defect de caracter pentru constituția ce o am, și chiar și când îmi crește burta, la bărbați e acceptabil.
 
-Sunt privilegiat că sunt sănătos, și chiar dacă aș avea probleme, am acces la un sistem de sănătate public, care chiar dacă este șubred, cel puțin există, și chiar am prioritate ca și bărbat alb din clasa de mijloc (cu bani de bacșiș și gură mare). Și-n caz de ceva, n-ar trebui să-mi vând apartamentul pentru cheltuieli medicale. Iar când n-am chef de instituții publice, când n-am chef de cozi, mă pot duce oricând la clinica privată unde am abonament.
+Sunt privilegiat că sunt sănătos, și chiar dacă aș avea probleme, am acces la un sistem de sănătate public, care chiar dacă este șubred, cel puțin există, și chiar am prioritate ca și bărbat alb din clasa de mijloc (cu bani de bacșiș și tupeu). Și-n caz de ceva, n-ar trebui să-mi vând apartamentul pentru cheltuieli medicale. Iar când n-am chef de instituții publice, când n-am chef de cozi, mă pot duce oricând la clinica privată unde am abonament.
 
 **Alții nu sunt atât de norocoși.**
 

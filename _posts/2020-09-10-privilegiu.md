@@ -32,6 +32,8 @@ Sunt privilegiat că port măsura M sau L la tricou, că deși am tendința să 
 
 Sunt privilegiat că sunt sănătos, și chiar dacă aș avea probleme, am acces la un sistem de sănătate public, care chiar dacă este șubred, cel puțin există, și chiar am prioritate ca și bărbat alb din clasa de mijloc (cu bani de bacșiș și tupeu). Și-n caz de ceva, n-ar trebui să-mi vând apartamentul pentru cheltuieli medicale. Iar când n-am chef de instituții publice, când n-am chef de cozi, mă pot duce oricând la clinica privată unde am abonament.
 
+Sunt născut în privilegiu.
+
 **Alții nu sunt atât de norocoși.**
 
 Nu scriu asta ca să mă simt mai bine. Este important să avem înțelegerea faptului că mulți dintre noi avem un [_privilegiu social_](https://en.wikipedia.org/wiki/Social_privilege) ce ne-a propulsat în fața altora. Că oricât de mult am avea impresia că oportunitățile de la naștere sunt egale, de fapt nu sunt, și este nedrept, este injust.

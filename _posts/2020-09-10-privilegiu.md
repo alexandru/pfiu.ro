@@ -9,7 +9,9 @@ image_caption: "Fi-miu. Al meu este ❤️"
 author: alexelcu
 ---
 
-Azi împlinesc 38 de ani. Sunt privilegiat că am ajuns la vârsta asta.
+<p class="intro">
+  Azi împlinesc 38 de ani. Sunt privilegiat că am ajuns la vârsta asta.
+</p>
 
 Sunt privilegiat că am o soție și un copil minunați. Sunt privilegiat că am o familie.
 
@@ -19,9 +21,9 @@ Sunt privilegiat că mi-am găsit vocația, că am o profesie pe care aș practi
 
 Sunt privilegiat că am ce mânca, că-mi permit să fac mofturi, de genul că vreau ulei de măsline extra-virgin, sau unt irlandez, că-mi permit să mănânc curcan, cotlete de porc, doradă sau somon la orice masă; că vreau fructe, chiar și când sunt scumpe, în afara sezonului; sunt privilegiat că are cine să-mi gătească acasă.
 
-Sunt privilegiat că-n pandemia Covid-19 singura mea problemă este că m-am plictisit în casă.
+Sunt privilegiat că-n pandemia Covid-19 singura mea problemă este că m-am plictisit lucrând de casă.
 
-Sunt privilegiat că am fost la școală, o școală românească care, așa cum e ea, este extraordinară, dacă te poți duce la școală, un fapt ce nu se observă până nu vezi problemele pe care le au săracii, de la noi din provincie, sau din SUA. Sunt privilegiat că n-am rămas cu datorii pe viață din educație.
+Sunt privilegiat că am fost la școală, o școală românească care este extraordinară, așa cum e ea, dacă te poți duce, un privilegiu ce nu se observă până nu vezi problemele pe care le au săracii, de la noi din satele sărace, sau din SUA. Sunt privilegiat că n-am rămas cu datorii pe viață din educație.
 
 Sunt privilegiat că sunt un bărbat heterosexual și alb din Europa, că oriunde mă duc îmi sunt ușile deschise, că nu sunt judecat pentru felul în care m-am născut, că nu trebuie să păstrez bonul fiscal de la magazin, că dacă sunt respins, nu mă întreb dacă am fost respins pentru culoarea pielii, pentru orientările sexuale, pentru religia din care fac parte, sau pentru că sunt femeie.
 
@@ -35,4 +37,6 @@ Nu scriu asta ca să mă simt mai bine. Este important să avem înțelegea fapt
 
 Că muncim mult pentru ce avem, desigur, dar în societate munca nu este totul, și de fapt privilegiul în care te naști contează mai mult.
 
-Iar rasismul sistemic, misoginismul, antisemitismul, lipofobia,xenofobia ... încă există chiar și în 2020, inclusiv în societea românească.
+Iar rasismul sistemic, misoginismul, antisemitismul, lipofobia,xenofobia ... încă există chiar și în 2020, inclusiv în societea românească. Iar când oamenii devin conservatori, când ajung la ură împotriva semenilor, cel mai adesea nu-și protejează propria muncă, ci privilegiul.
+
+Fi-miu va fi un privilegiat. Și mă bucur că este, însă nu-l cresc să nutrească sentimente de ură față de semeni, bazat pe criterii de rasă, etnie, religie, sau sex. N-ar trebui s-o faci nici tu.

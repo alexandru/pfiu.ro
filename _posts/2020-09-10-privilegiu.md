@@ -1,7 +1,8 @@
 ---
 layout: post
-categories:
-- Social
+tags:
+- Personal
+- Părinte
 title: Privilegiu
 description: 'Azi împlinesc 38 de ani. Sunt privilegiat că am ajuns la vârsta asta, sunt un norocos. Alții nu sunt.'
 image: "/assets/media/articles/fi-miu.jpg"

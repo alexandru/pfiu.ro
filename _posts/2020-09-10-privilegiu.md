@@ -14,7 +14,7 @@ author: alexelcu
   Azi împlinesc 38 de ani. Sunt privilegiat că am ajuns la vârsta asta.
 </p>
 
-Sunt privilegiat că am o soție și un copil minunați. Sunt privilegiat că am o familie.
+Sunt privilegiat că am o soție și un copil minunați, că am o familie.
 
 Sunt privilegiat că sunt din clasa de mijloc, că am un serviciu confortabil și stabil, ce de fapt merge mai bine în criză; sunt privilegiat că grijile pentru ziua de mâine sunt doar superficiale; sunt privilegiat că încă n-am datorii la bancă.
 

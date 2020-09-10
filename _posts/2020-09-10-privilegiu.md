@@ -40,10 +40,10 @@ Nu scriu asta ca să mă simt mai bine, să mă simt recunoscător pentru ce am,
 
 Este important să avem înțelegerea faptului că mulți dintre noi avem un [_privilegiu social_](https://en.wikipedia.org/wiki/Social_privilege) ce ne-a propulsat în fața altora. Că oricât de mult am avea impresia că oportunitățile de la naștere sunt egale, de fapt nu sunt, și este nedrept, este injust.
 
-Că muncim mult pentru ce avem, desigur, dar în societate munca nu este totul, și de fapt privilegiul în care te naști contează mai mult.
+Muncim mult pentru ce avem, desigur, dar în societate munca nu este totul, și de fapt privilegiul în care te naști contează mai mult.
 
 Iar rasismul sistemic, misoginismul, antisemitismul, lipofobia, xenofobia ... încă există chiar și în 2020, inclusiv în societea românească. Iar când oamenii devin conservatori, când ajung la ură împotriva semenilor, cel mai adesea nu-și protejează propria muncă, ci privilegiul.
 
 Fi-miu este și va fi un privilegiat. Și mă bucur că este, pentru că nu se va discrimina împotriva lui. Nu este o rușine să te naști în privilegiu. 
 
-Însă nu-l cresc să nutrească sentimente de ură față de semeni, bazat pe criterii de poziție socială, rasă, etnie, religie, mărime a corpului, sex sau orientare sexuală. N-ar trebui s-o faci nici tu.
+Însă pe fi-miu nu-l cresc să nutrească sentimente de ură față de semeni, bazat pe criterii de poziție socială, rasă, etnie, religie, mărime a corpului, sex sau orientare sexuală. N-ar trebui s-o faci nici tu.

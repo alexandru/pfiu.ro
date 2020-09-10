@@ -22,7 +22,7 @@ Sunt privilegiat că mi-am găsit vocația, că am o profesie pe care aș practi
 
 Sunt privilegiat că am ce mânca, că-mi permit să fac mofturi, de genul că vreau ulei de măsline extra-virgin, sau unt irlandez, că-mi permit să mănânc curcan, cotlete de porc, doradă sau somon la orice masă; că vreau fructe, chiar și când sunt scumpe, în afara sezonului; sunt privilegiat că are cine să-mi gătească acasă.
 
-Sunt privilegiat că-mi permit să merg în concediu. Sunt privilegiat că-n pandemia Covid-19 singura mea problemă este că m-am plictisit lucrând de casă, și că am rămas cu zile de concediu neconsumate.
+Sunt privilegiat că-mi permit să merg în concediu. Sunt privilegiat că-n pandemia Covid-19 singura mea problemă este că m-am plictisit lucrând de acasă, și că am rămas cu zile de concediu neconsumate.
 
 Sunt privilegiat că am fost la școală, o școală românească care este extraordinară, așa cum e ea, dacă te poți duce, un privilegiu ce nu se observă până nu vezi problemele pe care le au săracii, de la noi din satele sărace, sau din SUA. Sunt privilegiat că n-am rămas cu datorii pe viață din educație.
 

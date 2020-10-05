@@ -137,7 +137,7 @@ Acest studiu este principalul studiu pe oameni ce-i confirmă ipoteza. Problema 
 
 Astfel că dacă vrei să demonstrezi ceva, trebuie să demonstrezi că intervenția merge independent de scăderea în greutate. Și în acest studiu au încercat să controleze caloriile, însă probabil au subestimat consumul caloric al copiilor — și din cauză că grup de control nu a existat, nici nu putem spune dacă scăderea în greutate s-a produs ca urmare a intervenției sau ca urmare a condițiilor din clinică (altori factori de stres).
 
-Zahărul și fructoza nu sunt nevinovate totuși. Există suficiente indicii că zahărul și fructoza sunt asociate cu "ficatul gras non-alcoolic" [[15]](#ref-15) [[16]](#ref-16). Este foarte posibil ca fructoza să defină problematică atunci când consumăm calorii în exces.
+Zahărul și fructoza nu sunt nevinovate totuși. Există suficiente indicii că zahărul și fructoza sunt asociate cu "ficatul gras non-alcoolic" [[15]](#ref-15) [[16]](#ref-16). Este foarte posibil ca fructoza să devină problematică atunci când consumăm calorii în exces.
 
 Problema este că zahărul nu pare să fie toxic atunci când consumul caloric este la mentenanță, mai ales în oameni sănătoși. Și *creșterea în greutate* este un factor de confuzie la fel ca și *scăderea în greutate*.
 

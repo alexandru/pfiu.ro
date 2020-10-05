@@ -290,7 +290,7 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
 **Adevărul:** 
 
 - NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie"
-- **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează)
+- **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează) ([[22]](#ref-22), [[23]](#ref-23), [[58]](#ref-58), [[59]](#ref-59))
 - dietele și "fobia față de grăsime" pot fi "factori de confuzie"; ar putea fi cauza multor cazuri de îmbolnăvire, deoarece generează stres, și discriminare în sistemul medical
 - comportamentul oamenilor ce țin dietă este adesea același comportament cu cel al oamenilor ce suferă de [anorexie (tulburare psihică, de alimentație)](https://ro.wikipedia.org/wiki/Anorexie_nervoas%C4%83){:target="_blank"}, și doar numărul de pe cântar face diferența între un medic ce se îngrijorează sau nu, cânt aude de acest comportament, ceea ce nu-i chiar OK
 
@@ -358,3 +358,4 @@ Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), 
 56. [Medicare's search for effective obesity treatments: diets are not the answer](https://pubmed.ncbi.nlm.nih.gov/17469900/){:target="blank" id="ref-56"}
 57. [Genetic contributors to obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2787002/){:target="blank" id="ref-57"}
 58. [Maintenance of lost weight and long-term management of obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5764193/){:target="blank" id="ref-58"}
+59. [Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion](https://jamanetwork.com/journals/jama/fullarticle/2673150){:target="blank" id="ref-59"}

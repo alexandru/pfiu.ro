@@ -7,13 +7,13 @@ tags:
   - Dietă
   - Keto
 author: alexelcu
-description: Dietele low-carb, inclusiv dieta ketogenică (keto) merg foarte bine pentru slăbit și pentru managementul glucozei pentru diabetici, însă motivele pentru care aceste diete merg nu sunt cele expuse în comunitățile de keto.
+description: Dietele low-carb, merg bine pe termen scurt, iar pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete. Iar motive pentru care aceste diete merg pe termen scurt nu sunt cele expuse în comunitățile de keto.
 image: /assets/media/2020/keto.jpg
 ---
 
-Dietele low-carb, inclusiv dieta ketogenică (keto) merg foarte bine pentru slăbit și pentru managementul glucozei pentru diabetici, însă motivele pentru care aceste diete merg nu sunt cele expuse în comunitățile de keto.
+Dietele low-carb, inclusiv dieta ketogenică (keto) merg bine pentru slăbit pe termen scurt, și posibil pentru managementul glucozei pentru diabetici, însă motivele pentru care aceste diete merg nu sunt cele expuse în comunitățile de keto. Iar pe termen lung, dietele low-carb / keto sunt la fel de dezamăgitoare ca toate celelalte diete.
 
-Iar dacă mecanismele prin care ne îngrășăm și prin care putem slăbi nu sunt înțelese, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
+Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
 
 <p id="continut"><strong>Conținut:</strong></p>
 
@@ -49,20 +49,22 @@ Dieta ketogenică este o dietă low-carb dusă la extrem — cu un consum zilnic
 
 Scopul dietei keto este inducerea stării de "[cetoză alimentară](https://en.wikipedia.org/wiki/Ketosis){:target="_blank"}" (denumită și "cetoză fiziologică"), adică o stare metabolică în care ficatul, pentru a contracara un nivel scăzut al glucozei din sânge și pentru a conserva glucoza, ce este foarte necesară pentru funcționarea creierului, începe să emită cetone. Cetonele sunt niște compuși chimici ce sunt folosiți parțial de creier și de alte organe vitale, ca și alternativă la glucoză.
 
-Detaliile chimice și fiziologice sunt mai puțin importante, ce este important este că starea asta de cetoză are anumite avantaje metabolice.
+Detaliile chimice și fiziologice sunt mai puțin importante, ce este important este că starea asta de cetoză ar putea avea anumite avantaje metabolice (afirmație ce trebuie s-o luăm cu un pumn de sare, că dovezile în acest sens nu sunt concludente).
 
 ## De ce merg bine dietele low-carb / keto?
 
-Dietele low-carb duc la o scădere spontană a apetitului — asta se datorează de la caz la caz următoarelor:
+Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — și asta se datorează de la caz la caz următoarelor:
 
 1. evitarea de alimente ultra-procesate [[46]](#ref-46)
 2. consumul de mai multe alimente bogate în proteine, ce sunt foarte sățioase [[35]](#ref-35) — efectul de "[protein leverage](https://en.wikipedia.org/wiki/Protein_leverage_hypothesis){:target="_blank"}", o ipoteză ce zice că prioritizăm proteinele din mâncare și că nu ne oprim până nu obținem suficiente proteine — și foarte mulți oameni nu consumă suficiente proteine [[47]](#ref-47)
 3. evitarea efectului de "hipoglicemie reactivă" ([engleză](https://en.wikipedia.org/wiki/Reactive_hypoglycemia){:target="_blank"}) — când se consumă carbohidrați rafinați, unii oameni au un răspuns inițial întârziat al insulinei, ceea ce provoacă apoi un răspuns exagerat, ce duce la o stare de hipoglicemie după câteva ore de la masă, ce poate provoca foame și oboseală; însă atenție, acest efect nu apare la oameni sănătoși, acesta fiind cel mai probabil un semn de diabet incipient și rar se întâmplă la consum de carbohidrați complecși (legume și fructe integrale)
-4. inducerea stării de "cetoză alimentară", ce are efecte potențiale benefice pentru sănătate (cum ar fi în tratarea migrenelor [[48]](#ref-48) [[49]](#ref-49)) și deasemenea reducerea apetitului [[50]](#ref-50) — cu observația că probabil depinde de individ dacă efectul este semnificativ sau nu
+4. inducerea stării de "cetoză alimentară", ce are efecte potențial benefice pentru sănătate (cum ar fi în tratarea migrenelor [[48]](#ref-48) [[49]](#ref-49)) și deasemenea reducerea apetitului [[50]](#ref-50) — cu observația că probabil depinde de individ dacă efectul este semnificativ sau nu
   - Notă: starea de cetoză poate fi indusă și doar prin post intermitent și/sau prin deficit caloric; oamenii sănătoși intră în cetoză în timpul nopții, deoarece se golesc suficient rezervele de glicogen din ficat, având cetone în sânge semnificative după vreo 12 ore de post
-5. pentru diabetici reducerea glucozei din sânge este semnificativă și asta se vede la analiza de Hb A1C — managementul glucozei este important la diabet, deoarece glucoza din sânge în exces devine toxică — atenție însă, hiperglicemia este doar un simptom al bolii, dar nu este cauza bolii, astfel că pentru "vindecare" adevărată avem nevoie cel puțin de scăderea în greutate (vezi mai jos)
+  - Este discutabil dacă o stare de cetoză cronică este benefică; corpul nostru luptă efectiv pentru a nu sta în starea de cetoză, chiar și un consum mic de carbohidrați sau proteine te poate scoate din starea de cetoză alimentară, și de exemplu populațiile de eschimoși (Inuit), aduse adesea ca argument pro-cetoză, au o adaptare genetică (o versiune mai ușoară a deficienței CPT-1a) ce nu le permite să intre în starea de cetoză; indiciile ce le avem sugerează că am evoluat cu această stare ca o stare de urgență, nu ca o stare de echilibru (homeostazie)
+5. pentru diabetici reducerea glucozei din sânge, după mese, este semnificativă — managementul glucozei este important la diabet, deoarece glucoza din sânge în exces devine toxică — atenție însă, hiperglicemia este doar un simptom al bolii, dar nu este cauza bolii, astfel că pentru "vindecare" adevărată avem nevoie fie de scăderea în greutate (vezi mai jos), fie de exercițiu fizic
+  - este discutabil dacă dietele low-carb sunt mai benefice pentru diabetici; chiar dacă se micșorează glicemia de după masă, per total dietele low carb înrăutățesc rezistența la insulină, și afectează răspunsul în primă fază a pancreasului, efecte ce pot duce chiar la un management mai prost al glicemiei
 
-Știm că dietele low carb și keto funcționează bine. Nu disputăm acest fapt.
+Știm că dietele low carb și keto funcționează pe termen scurt. Motivele însă nu sunt cele enunțate...
 
 ## Mituri
 

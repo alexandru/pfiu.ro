@@ -133,7 +133,7 @@ Robert Lustig are și un studiu în care unor copii supraponderali le sunt înlo
 - nu au folosit grup de control
 - copiii din studiu au *pierdut în greutate*
 
-Acest studiu este principalul studiu pe oameni ce-i confirmă ipoteza. Problema este că *scăderea în greutate* este ceea ce se cheamă un *factor de confuzie* în astfel de studii, deoarece se știe că slăbitul vindecă sindromul metabolic, fiind de fapt singura intervenție dovedită ce poate vindeca diabetul de tip 2 în stare incipientă [[10]](#ref-10).
+Acest studiu este principalul studiu pe oameni ce-i confirmă ipoteza. Problema este că *scăderea în greutate* este ceea ce se cheamă un *factor de confuzie* în astfel de studii, deoarece se știe că slăbitul vindecă sindromul metabolic, împreună cu exercițiul fizic fiind intervenția dovedită ce poate vindeca diabetul de tip 2 în stare incipientă [[10]](#ref-10).
 
 Astfel că dacă vrei să demonstrezi ceva, trebuie să demonstrezi că intervenția merge independent de scăderea în greutate. Și în acest studiu au încercat să controleze caloriile, însă probabil au subestimat consumul caloric al copiilor — și din cauză că grup de control nu a existat, nici nu putem spune dacă scăderea în greutate s-a produs ca urmare a intervenției sau ca urmare a condițiilor din clinică (altor factori de stres).
 

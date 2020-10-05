@@ -11,9 +11,11 @@ description: Dietele low-carb, merg bine pe termen scurt, iar pe termen lung sun
 image: /assets/media/2020/keto.jpg
 ---
 
-Dietele low-carb, inclusiv dieta ketogenică (keto) merg bine pentru slăbit pe termen scurt, și posibil pentru managementul glucozei pentru diabetici, însă motivele pentru care aceste diete merg nu sunt cele expuse în comunitățile de keto. Iar pe termen lung, dietele low-carb / keto sunt la fel de dezamăgitoare ca toate celelalte diete.
+Dietele low-carb, inclusiv dieta ketogenică (keto) merg bine pentru slăbit pe termen scurt, și posibil pentru managementul glucozei pentru diabetici, însă motivele pentru care aceste diete merg nu sunt cele expuse în comunitățile de keto.
 
 Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
+
+Iar pe termen lung, dietele low-carb / keto sunt la fel de dezamăgitoare ca toate celelalte diete.
 
 <p id="continut"><strong>Conținut:</strong></p>
 

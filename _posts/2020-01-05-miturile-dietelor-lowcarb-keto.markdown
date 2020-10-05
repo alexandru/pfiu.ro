@@ -108,7 +108,7 @@ Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce �
 
 Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există multe alte strategi posibile. Și pe termen lung, din contră, că prin dieta ketogenică poți suferi de tulburări de alimentație (ortorexie, anorexie), ce nu sunt tocmai o strategie bună pentru sănătate.
 
-**IRONIA:** deși la keto nu trebuie să-ți numeri caloriile, foarte mulți își numără carbohidrații, și efortul este același.
+**IRONIA:** deși la keto nu trebuie să-ți numeri caloriile, foarte mulți își numără carbohidrații, și efortul este același. Orice dietă ce implică calcul conștient al unor parametrii este o dietă echivalentă cu număratul caloriilor.
 
 [[Vezi conținut]](#continut)
 

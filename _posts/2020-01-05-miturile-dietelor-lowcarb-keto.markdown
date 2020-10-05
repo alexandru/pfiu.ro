@@ -212,7 +212,7 @@ Mai concret:
 
 **ADEVĂRUL:** există dovezi extraordinar de solide ce arată că schimbări ale stilului de viață — în special scăderea în greutate [[10]](#ref-10) — pot vindeca diabetul de tip 2, iar acest fapt nu a fost ignorat de medici, din contră.
 
-Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pentru asta sunt de necontestat. Problema este că majoritatea pacienților nu vor ține cu succes cure de slăbire, chiar dacă sănătatea le este amenințată, pentru că dietele de slăbire nu merg (cu o rată de eșec de peste 95%). Și astfel că se recurge la pastile, în primă fază pastile mai ușurele gen Metmorfin. Iar dacă ajungi la injecții cu insulină, asta înseamnă că capacitatea pancreasului a fost afectată, iar insulina nu se prescrie ușor.
+Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pentru asta sunt de necontestat. Problema este că majoritatea pacienților nu vor ține cu succes cure de slăbire, chiar dacă sănătatea le este amenințată, pentru că dietele de slăbire nu merg, având o rată de eșec de peste 95%. Și astfel că se recurge la pastile, în primă fază pastile mai ușurele gen Metmorfin. Iar dacă ajungi la injecții cu insulină, asta înseamnă că capacitatea pancreasului a fost afectată, iar insulina nu se prescrie ușor.
 
 Din păcate teoriile conspiraționiste, acuzațiile de incompetență, dramele, astea sunt poveștile ce vând — așa că escrocilor le este mai ușor să-și vândă ipotezele și produsele atacându-i pe adevărații profesioniști cu acuzații de incompetență și conspirație. Iar oamenii bine intenționați, dar îndrumați greșit, preiau aceleași linii de la liderii pe care-i urmează.
 

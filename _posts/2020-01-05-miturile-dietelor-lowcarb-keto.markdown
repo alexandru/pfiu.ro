@@ -215,7 +215,7 @@ Mai concret:
 
 **ADEVĂRUL:** există dovezi extraordinar de solide ce arată că schimbări ale stilului de viață — în special scăderea în greutate [[10]](#ref-10) — pot vindeca diabetul de tip 2, iar acest fapt nu a fost ignorat de medici, din contră.
 
-Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pentru asta sunt de necontestat. Problema este că majoritatea pacienților nu vor ține cu succes cure de slăbire, chiar dacă sănătatea le este amenințată, pentru că dietele de slăbire nu merg, având o rată de eșec de peste 95%. Și astfel că se recurge la pastile, în primă fază pastile mai ușurele gen Metmorfin. Iar dacă ajungi la injecții cu insulină, asta înseamnă că capacitatea pancreasului a fost afectată, iar insulina nu se prescrie ușor.
+Când ajungi la medic, primul sfat este să pierzi în greutate, că dovezile pentru asta sunt de necontestat. Problema este că majoritatea pacienților nu vor ține cu succes cure de slăbire, chiar dacă sănătatea le este amenințată, pentru că dietele de slăbire nu merg [[58]](#ref-58). Și astfel că se recurge la pastile, în primă fază pastile mai ușurele gen Metmorfin. Iar dacă ajungi la injecții cu insulină, asta înseamnă că capacitatea pancreasului a fost afectată, iar insulina nu se prescrie ușor.
 
 Din păcate teoriile conspiraționiste, acuzațiile de incompetență, dramele, astea sunt poveștile ce vând — așa că escrocilor le este mai ușor să-și vândă ipotezele și produsele atacându-i pe adevărații profesioniști cu acuzații de incompetență și conspirație. Iar oamenii bine intenționați, dar îndrumați greșit, preiau aceleași linii de la liderii pe care-i urmează.
 
@@ -273,7 +273,7 @@ Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare 
 
 Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm doar cheesburger, sau doar mere, sau doar spanac, sau doar cartofi prăjiți. Oamenii au nevoie de varietate, și dieta poate fi una nesănătoasă, dar nu mâncărurile în sine.
 
-Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de toți nutrienții în dietă, iar gândurile noastre despre ce înseamnă o dietă sănătoasă s-ar putea să intre în conflict cu nevoile reale ale corpului nostru. Nu degeaba dietele eșuează în proporție de 95%. Pentru că foamea în cele din urmă învinge 😉
+Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de toți nutrienții în dietă, iar gândurile noastre despre ce înseamnă o dietă sănătoasă s-ar putea să intre în conflict cu nevoile reale ale corpului nostru. Nu degeaba dietele eșuează, greutatea fiind câștigată înapoi după 3-5 ani [[58]](#ref-58). Pentru că foamea în cele din urmă învinge 😉
 
 [[Vezi conținut]](#continut)
 
@@ -356,3 +356,4 @@ Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), 
 55. [Weight Science: Evaluating the Evidence for a Paradigm Shift](https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-10-9){:target="blank" id="ref-55"}
 56. [Medicare's search for effective obesity treatments: diets are not the answer](https://pubmed.ncbi.nlm.nih.gov/17469900/){:target="blank" id="ref-56"}
 57. [Genetic contributors to obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2787002/){:target="blank" id="ref-57"}
+58. [Maintenance of lost weight and long-term management of obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5764193/){:target="blank" id="ref-58"}

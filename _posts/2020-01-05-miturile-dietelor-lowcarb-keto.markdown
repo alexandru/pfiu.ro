@@ -299,7 +299,7 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
   - dacă vrei să fii mai sănătos, atunci adoptarea unui comportament asociat cu o tulburare psihică nu poate fi răspunsul, pentru că acest comportament în sine ar putea fi cauza problemelor de sănătate asociate cu obezitatea
 - efectul de "yo-yo" de după dietă (slăbirea, urmată de îngrășare, cum se întâmplă adesea ca urmare a tuturor dietelor) este clar mai nesănătos decât dacă ți-ai fi menținut greutatea; și ar putea fi încă un "factor de confuzie"
 
-Adică nu știm, și n-ar trebui să pretindem că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției 😉
+Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției 😉
 
 Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 

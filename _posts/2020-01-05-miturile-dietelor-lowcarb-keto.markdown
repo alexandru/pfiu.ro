@@ -287,6 +287,8 @@ Dacă ar fi să pariem, datele indică o probabilitate mare că obezitatea ar fi
 
 Sărăcia și rasismul sunt adesea factori de confuzie. Și stresul în sine, ce ar putea cauza acele probleme de sănătate, stres ce ar fi putut cauza episoadele de mâncat în exces cronic, stres generat inclusiv de "fobia față de grăsime" din societate. Un alt factor de confuzie ar putea fi chiar discriminarea din sistemul medical, deoarece oamenii obezi sunt deprioritizați, și tratați inadecvat, pe motiv că "trebuie să slăbească". Iar studiile controlate (RCTs) pot suferi prin folosirea de "indicatori surogați", deoarece studiile controlate sunt foarte scumpe; motiv pentru care concluziile ar putea fi eronate, deoarece nu se măsoară obiectivele adevărate. Și n-am putea să băgăm oameni în laborator, să-i îngrășăm forțat, timp de ani de zile, că astfel de studii n-ar fi etice.
 
+Ca și exemplu: acum în plină pandemie Covid-19, oamenii obezi au fost în mod activ deprioritizați la internarea în spitale, deprioritizați de la accesul la ventilatoare. Când vedeți vreun raport cu asocierea dintre obezitate și mortalitate Covid-19, să vă amintiți de această discriminare 😉
+
 Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, sau supratensiune arterială. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
 
 **Adevărul:** 

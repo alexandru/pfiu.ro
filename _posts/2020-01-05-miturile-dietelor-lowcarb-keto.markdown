@@ -82,13 +82,15 @@ Dieta ketogenică nu este singura dietă ce perpetuează acest mit. Dietele Pale
 
 Este adevărat că în secolul 19 oamenii erau slabi într-o vastă majoritate. Pentru că mureau de foame, la propriu. Nu știu ce credeți voi, dar eu prefer să fiu gras, decât să mor de foame.
 
+**ADEVĂRUL 2:** nu există mâncăruri nesănătoase; există doar diete nesănătoase.
+
 Un măr nu este mai "sănătos", sau mai "curat" decât un cheesburger de la McDonalds. Spanacul nu este mai "sănătos" decât o ciocolată cu zahăr și lapte. O ceafă de porc la grătar nu este mai "sănătoasă" sau mai "curată" decât cartofii prăjiți.
 
-Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare cu care trebuie să trăiești, ar fi stupid să alegi mărul sau spanacul. Dintre toate mâncărurile enunțate (măr, spanac, cheesburger, ciocolata cu lapte), adevărul este că cheesburgerul reprezintă o dietă completă, și cu calorii suficiente, ce permit supraviețuirea, pe când mărul sau spanacul nu sunt. Nici ceafa de porc nu e o dietă completă. De fapt cu cartofii ai avea o șansă mai bună de supraviețuire. Știați de exemplu că lapte + cartofi reprezintă o dietă completă? Exact dieta cu care au supraviețuit bunicii noștrii pe timp de foamete ;-)
+Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare cu care trebuie să trăiești, ar fi stupid să alegi mărul sau spanacul. Dintre toate mâncărurile enunțate (măr, spanac, cheesburger, ciocolata cu lapte, ceafă de porc, cartofi prăjiți), adevărul este că cheesburgerul reprezintă o dietă completă, și cu calorii suficiente, ce permit supraviețuirea, pe când mărul sau spanacul nu sunt. Nici ceafa de porc nu e o dietă completă. De fapt cu cartofii ai avea o șansă mai bună de supraviețuire. Știați de exemplu că lapte + cartofi reprezintă o dietă completă? Exact dieta cu care au supraviețuit bunicii noștrii pe timp de foamete ;-)
 
-Astfel că depinde mult de context.
+Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm doar cheesburger, sau doar mere, sau doar spanac, sau doar cartofi prăjiți. Oamenii au nevoie de varietate, și dieta poate fi una nesănătoasă, dar nu mâncărurile în sine.
 
-**ADEVĂRUL 2:** nu există mâncăruri nesănătoase; există doar diete nesănătoase.
+Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de carbohidrați în dietă.
 
 ### Obezitatea este sigur o problemă de sănătate
 

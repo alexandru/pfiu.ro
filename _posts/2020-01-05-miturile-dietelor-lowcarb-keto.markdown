@@ -7,7 +7,7 @@ tags:
   - Dietă
   - Keto
 author: alexelcu
-description: Dietele low-carb merg bine pe termen scurt, dar pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete. Iar motivele pentru care aceste diete merg pe termen scurt nu sunt cele expuse în comunitățile de keto.
+description: Dietele low-carb merg bine pe termen scurt, dar pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete. Și multă mitologie înconjoară aceste diete în comunitățile low-carb.
 image: /assets/media/2020/keto.jpg
 ---
 

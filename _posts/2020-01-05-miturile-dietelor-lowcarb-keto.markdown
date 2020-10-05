@@ -291,8 +291,6 @@ Ca și exemplu: acum în plină pandemie Covid-19 🦠, oamenii obezi au fost î
 
 Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, sau supratensiune arterială. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
 
-Dacă acceptăm că "otrăvirea cu energie în exces" este cauza, așa cum indică toate dovezile ce le avem, atunci obezitatea poate fi doar efectul, și posibil protecția organismului împotriva otrăvirii cu energie; nu cauza.
-
 **Adevărul:** 
 
 - NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie" 
@@ -304,6 +302,8 @@ Dacă acceptăm că "otrăvirea cu energie în exces" este cauza, așa cum indic
 - efectul de "yo-yo" de după dietă (slăbirea, urmată de îngrășare, cum se întâmplă adesea ca urmare a tuturor dietelor) este clar mai nesănătos decât dacă ți-ai fi menținut greutatea; și ar putea fi încă un "factor de confuzie"
 
 Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției 😉
+
+Dacă acceptăm că "otrăvirea cu energie în exces" este cauza, așa cum indică toate dovezile ce le avem, atunci obezitatea poate fi doar efectul, și posibil protecția organismului împotriva otrăvirii cu energie; nu cauza. Mai bine să fi gras, decât să te îmbolnăvești de diabet de tip 2.
 
 Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 

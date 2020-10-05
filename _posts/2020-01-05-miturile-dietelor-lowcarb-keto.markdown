@@ -258,7 +258,7 @@ Dieta ketogenică nu este singura dietă ce perpetuează acest mit. Dietele Pale
 
 **ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57). Și singurul lucru major ce s-a schimbat, din secolul 19 și până azi, adică schimbarea de mediu necesară, este *disponibilitatea mâncării*.
 
-În secolul 20 foametea de pe tot globul a scăzut de la 90%, la sub 10% în 2015, datorită nivelului de trai crescut, a agriculturii industriale, a dezvoltării mediului urban. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.
+În secolul 20, populația ce suferă de malnutriție și foamete, de pe tot globul, a scăzut de la 90% la sub 10% în 2015, datorită nivelului de trai crescut, a agriculturii industriale, a dezvoltării mediului urban. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.
 
 Este adevărat că în secolul 19 oamenii erau slabi într-o vastă majoritate. Pentru că mureau de foame, la propriu. Nu știu ce credeți voi, dar eu prefer să fiu gras, decât să mor de foame.
 

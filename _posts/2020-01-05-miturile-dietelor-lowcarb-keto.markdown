@@ -78,7 +78,9 @@ Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — �
 
 Asta-i o sintagmă pe care o veți auzi des. O [calorie](https://ro.wikipedia.org/wiki/Calorie){:target="_blank"} ([engleză](https://en.wikipedia.org/wiki/Calorie){:target="_blank"}) este o unitate de energie folosită în nutriție, unitate prin care putem măsura energia ce o mâncăm și energia ce o ardem pentru a trăi și a ne mișca.
 
-NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau cât ardem, ne referim de fapt la kilocalorii (kcal), astfel că dacă spunem că un ou mediu are 68 de calorii, spunem de fapt că are 68 kcal. Asta naște un pic de confuzie, dar toată lumea folosește kcal, astfel că nu-i niciodată nevoie de vreo conversie.
+<p class="info-bubble">
+  NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau cât ardem, ne referim de fapt la kilocalorii (kcal), astfel că dacă spunem că un ou mediu are 68 de calorii, spunem de fapt că are 68 kcal. Asta naște un pic de confuzie, dar toată lumea folosește kcal, astfel că nu-i niciodată nevoie de vreo conversie.
+</p>
 
 "*Calorii care intră*" se referă la ce mâncăm, iar "*calorii care ies*" se referă la ce ardem, mai concret la:
 
@@ -89,7 +91,7 @@ NOTĂ: când vorbim de câte "calorii" are o mâncare în vorbirea liberă, sau 
 
 Se zice că:
 
-- ne îngrășăm atunci când consumăm mai multe calorii decât ardem (adică suntem într-n "echilibru energetic pozitiv")
+- ne îngrășăm atunci când consumăm mai multe calorii decât ardem (adică suntem într-un "echilibru energetic pozitiv")
 - slăbim atunci când consumăm mai puține calorii decât ardem ("echilibru energetic negativ")
 
 Acest model al obezității se numește modelul "echilibrului energetic" ([energy balance (engleză)](https://en.wikipedia.org/wiki/Energy_homeostasis){:target="blank"}).

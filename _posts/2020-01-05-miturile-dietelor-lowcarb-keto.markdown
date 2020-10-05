@@ -76,9 +76,11 @@ Un mit ce este perpetuat de majoritatea dietelor de tipul "*clean eating*", un m
 
 Dieta ketogenică nu este singura dietă ce perpetuează acest mit. Dietele Paleo, Vegan și multe altele fac același lucru, cu aceeași lipsă de dovezi; pentru că ne este mai ușor să credem că există un dușman invizil, ce ne hrănește cu "otravă"; teorii conspiraționiste ce cu siguranță vând multe cărți.
 
-**ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57).
+**ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57). Și singurul lucru major ce s-a schimbat, din secolul 19 și până azi, este disponibilitatea mâncării.
 
 Deasemenea în secolul 20 foametea de pe tot pământul a scăzut de la 90%, la sub 10% în 2015. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.
+
+Este adevărat că în secolul 19 oamenii erau slabi într-o vastă majoritate. Pentru că mureau de foame, la propriu. Nu știu ce credeți voi, dar eu prefer să fiu gras, decât să mor de foame.
 
 Un măr nu este mai "sănătos", sau mai "curat" decât un cheesburger de la McDonalds. Spanacul nu este mai "sănătos" decât o ciocolată cu zahăr și lapte. O ceafă de porc la grătar nu este mai "sănătoasă" sau mai "curată" decât cartofii prăjiți.
 

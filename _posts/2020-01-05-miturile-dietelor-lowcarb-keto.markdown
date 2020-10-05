@@ -21,7 +21,7 @@ Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin
   - [Ce este o dietă ketogenică (keto)?](#ce-este-o-dietă-ketogenică-keto)
 - [De ce merg bine dietele low-carb / keto?](#de-ce-merg-bine-dietele-low-carb--keto)
 - [Mituri](#mituri)
-  - [Obezitatea este cauzată de tipul de mâncare](#obezitatea-este-cauzată-de-tipul-de-mâncare)
+  - [Obezitatea este cauzată de mâncare "nesănătoasă"](#obezitatea-este-cauzată-de-mâncare-nesănătoasă)
   - [Obezitatea este sigur o problemă de sănătate](#obezitatea-este-sigur-o-problemă-de-sănătate)
   - [Caloriile nu sunt importante](#caloriile-nu-sunt-importante)
   - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compoziția-mâncării)
@@ -70,7 +70,7 @@ Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — �
 
 ## Mituri
 
-### Obezitatea este cauzată de tipul de mâncare
+### Obezitatea este cauzată de mâncare "nesănătoasă"
 
 Un mit ce este perpetuat de majoritatea dietelor de tipul "*clean eating*", un mit regretabil pentru că poate duce la tulburări de alimentație, gen [ortorexie](https://en.wikipedia.org/wiki/Orthorexia_nervosa){:target="_blank"}.
 

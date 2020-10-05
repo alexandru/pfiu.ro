@@ -15,7 +15,7 @@ Dietele low-carb, inclusiv dieta ketogenică (keto) merg bine pentru slăbit pe 
 
 Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
 
-Iar pe termen lung (3-5 ani), dietele low-carb / keto sunt la fel de dezamăgitoare ca toate celelalte diete.
+Iar pe termen lung (3-5 ani) dietele low-carb / keto sunt la fel de dezamăgitoare ca toate celelalte diete.
 
 <p id="continut"><strong>Conținut:</strong></p>
 

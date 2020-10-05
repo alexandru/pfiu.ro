@@ -106,7 +106,7 @@ Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul 
 
 Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce în ce mai clar că oamenii obezi au diferențe în intensitatea semnalelor de foame și de sațietate, și/sau în răspunsul la aceste semnale.
 
-Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puține grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte (dezamăgitoare).
+Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există multe alte strategi posibile. Și pe termen lung, din contră, că prin dieta ketogenică poți suferi de tulburări de alimentație (ortorexie, anorexie), ce nu sunt tocmai o strategie bună pentru sănătate.
 
 **IRONIA:** deși la keto nu trebuie să-ți numeri caloriile, foarte mulți își numără carbohidrații, și efortul este același.
 

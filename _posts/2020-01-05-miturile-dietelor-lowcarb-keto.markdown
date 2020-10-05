@@ -21,8 +21,6 @@ Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin
   - [Ce este o dietă ketogenică (keto)?](#ce-este-o-dietă-ketogenică-keto)
 - [De ce merg bine dietele low-carb / keto?](#de-ce-merg-bine-dietele-low-carb--keto)
 - [Mituri](#mituri)
-  - [Obezitatea este cauzată de mâncare "nesănătoasă"](#obezitatea-este-cauzată-de-mâncare-nesănătoasă)
-  - [Obezitatea este sigur o problemă de sănătate](#obezitatea-este-sigur-o-problemă-de-sănătate)
   - [Caloriile nu sunt importante](#caloriile-nu-sunt-importante)
   - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compoziția-mâncării)
   - [Fructoza este toxică pentru ficat](#fructoza-este-toxică-pentru-ficat)
@@ -31,6 +29,8 @@ Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin
   - [Insulina previne arderea de grăsimi](#insulina-previne-arderea-de-grăsimi)
   - [Medicii tratează diabetul T2 doar prin pastile](#medicii-tratează-diabetul-t2-doar-prin-pastile)
   - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-contează)
+  - [Obezitatea este cauzată de mâncare "nesănătoasă"](#obezitatea-este-cauzată-de-mâncare-nesănătoasă)
+  - [Obezitatea este sigur o problemă de sănătate](#obezitatea-este-sigur-o-problemă-de-sănătate)
 - [Referințe](#referințe)
 
 ## Ce este o dietă low-carb?
@@ -69,46 +69,6 @@ Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — �
 Știm că dietele low carb și keto funcționează pe termen scurt. Motivele însă nu sunt cele enunțate...
 
 ## Mituri
-
-### Obezitatea este cauzată de mâncare "nesănătoasă"
-
-Un mit ce este perpetuat de majoritatea dietelor de tipul "*clean eating*", un mit regretabil pentru că poate duce la tulburări de alimentație, gen [ortorexie](https://en.wikipedia.org/wiki/Orthorexia_nervosa){:target="_blank"}.
-
-Dieta ketogenică nu este singura dietă ce perpetuează acest mit. Dietele Paleo, Vegan și multe altele fac același lucru, cu aceeași lipsă de dovezi; pentru că ne este mai ușor să credem că există un dușman invizil, ce ne hrănește cu "otravă"; teorii conspiraționiste ce cu siguranță vând multe cărți.
-
-**ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57). Și singurul lucru major ce s-a schimbat, din secolul 19 și până azi, adică schimbarea de mediu necesară, este *disponibilitatea mâncării*.
-
-În secolul 20 foametea de pe tot pământul a scăzut de la 90%, la sub 10% în 2015, datorită nivelului de trai crescut, a agriculturii industriale, a dezvoltării mediului urban. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.
-
-Este adevărat că în secolul 19 oamenii erau slabi într-o vastă majoritate. Pentru că mureau de foame, la propriu. Nu știu ce credeți voi, dar eu prefer să fiu gras, decât să mor de foame.
-
-**ADEVĂRUL 2:** nu există mâncăruri nesănătoase; există doar diete nesănătoase.
-
-Un măr nu este mai "sănătos", sau mai "curat" decât un cheesburger de la McDonalds. Spanacul nu este mai "sănătos" decât o ciocolată cu zahăr și lapte. O ceafă de porc la grătar nu este mai "sănătoasă" sau mai "curată" decât cartofii prăjiți.
-
-Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare cu care trebuie să trăiești, ar fi stupid să alegi mărul sau spanacul. Dintre toate mâncărurile enunțate (măr, spanac, cheesburger, ciocolata cu lapte, ceafă de porc, cartofi prăjiți), adevărul este că cheesburgerul reprezintă o dietă completă, și cu calorii suficiente, ce permit supraviețuirea, pe când mărul sau spanacul nu sunt. Nici ceafa de porc nu e o dietă completă. De fapt cu cartofii ai avea o șansă mai bună de supraviețuire. Știați de exemplu că lapte + cartofi reprezintă o dietă completă? Exact dieta cu care au supraviețuit bunicii noștrii pe timp de foamete ;-)
-
-Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm doar cheesburger, sau doar mere, sau doar spanac, sau doar cartofi prăjiți. Oamenii au nevoie de varietate, și dieta poate fi una nesănătoasă, dar nu mâncărurile în sine.
-
-Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de carbohidrați în dietă.
-
-### Obezitatea este sigur o problemă de sănătate
-
-Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de risc", asociat cu diverse probleme de sănătate, cum ar fi boli cardiovasculare, sau diabetul de tip 2.
-
-Dacă ar fi să pariem, datele indică spre obezitate a fi o problemă de sănătate, deoarece studiile observaționale coroborează rezultatele studiilor controlate (RCT) în 70% din cazuri, adică acele studii ce pot arăta cauzalitatea. Cu alte cuvinte nu vorbim de o șansă de 50% - 50%, așa cum am avea când dăm cu banul.
-
-Însă este important de știut că în studiile observaționale există variabile ce nu pot fi controlate, și pot apare "factori de confuzie" pe care-i putem rata. Cum ar fi că stresul în sine ar putea cauza acele probleme de sănătate, stres ce ar fi putut cauza episoadele de mâncat în exces cronic, stres generat inclusiv de "fobia față de grăsime" din societate. Un alt factor de confuzie ar putea fi chiar discriminarea din sistemul medical, deoarece oamenii obezi sunt deprioritizați, și tratați inadecvat, pe motiv că "trebuie să slăbească". Iar studiile controlate (RCTs) pot suferi prin folosirea de markeri surogați, deoarece studiile controlate sunt foarte scumpe; motiv pentru care concluziile ar putea fi eronate, deoarece nu se măsoară obiectivele adevărate.
-
-Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, sau supratensiune arterială. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
-
-**Adevărul:** 
-
-- NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie"
-- **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează)
-- dietele și "fobia față de grăsime" pot fi un "factori de confuzie"; ar putea cauza multor probleme de sănătate, deoarece generează stres, și discriminare
-
-Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 
 ### Caloriile nu sunt importante
 
@@ -285,6 +245,50 @@ Puteți observa cum riscul crește atunci când mai mulți factori sunt combina�
 Și puteți studia și "*Raportul de consens al Societății Europene de Arteroscleroză*" [[45]](#ref-45) un document foarte detaliat ce spune că numeroasele studii clinice și genetice confirmă fără echivoc că nivelurile ridicate de LDL cauzează [Arteroscleroză](https://ro.wikipedia.org/wiki/Ateroscleroz%C4%83){:target="_blank"}. Ca să ne înțelegem, *cauzalitatea* a fost stabilită — dacă mărești LDL crește riscul pentru arteroscleroză, dacă micșorezi LDL scade riscul.
 
 PS: există și [cholesterolcode.com](https://cholesterolcode.com/){:target="_blank"} la care mulți din comunitatea Keto fac referire — Dave Feldman, un individ simpatic, are el o teorie cum că un colesterol foarte crescut la o dietă keto nu este o problemă. Ipoteza lui, deși interesantă, nu este decât o ipoteză netestată, ce infirmă extraordinar de multe studii și dovezi concludente. Și dacă continui cu-n colesterol LDL mărit bazat pe această informație, o faci pe barba ta.
+
+[[Vezi conținut]](#continut)
+
+### Obezitatea este cauzată de mâncare "nesănătoasă"
+
+Un mit ce este perpetuat de majoritatea dietelor de tipul "*clean eating*", un mit regretabil pentru că poate duce la tulburări de alimentație, gen [ortorexie](https://en.wikipedia.org/wiki/Orthorexia_nervosa){:target="_blank"}.
+
+Dieta ketogenică nu este singura dietă ce perpetuează acest mit. Dietele Paleo, Vegan și multe altele fac același lucru, cu aceeași lipsă de dovezi; pentru că ne este mai ușor să credem că există un dușman invizil, ce ne hrănește cu "otravă"; teorii conspiraționiste ce cu siguranță vând multe cărți.
+
+**ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57). Și singurul lucru major ce s-a schimbat, din secolul 19 și până azi, adică schimbarea de mediu necesară, este *disponibilitatea mâncării*.
+
+În secolul 20 foametea de pe tot pământul a scăzut de la 90%, la sub 10% în 2015, datorită nivelului de trai crescut, a agriculturii industriale, a dezvoltării mediului urban. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.
+
+Este adevărat că în secolul 19 oamenii erau slabi într-o vastă majoritate. Pentru că mureau de foame, la propriu. Nu știu ce credeți voi, dar eu prefer să fiu gras, decât să mor de foame.
+
+**ADEVĂRUL 2:** nu există mâncăruri nesănătoase; există doar diete nesănătoase.
+
+Un măr nu este mai "sănătos", sau mai "curat" decât un cheesburger de la McDonalds. Spanacul nu este mai "sănătos" decât o ciocolată cu zahăr și lapte. O ceafă de porc la grătar nu este mai "sănătoasă" sau mai "curată" decât cartofii prăjiți.
+
+Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare cu care trebuie să trăiești, ar fi stupid să alegi mărul sau spanacul. Dintre toate mâncărurile enunțate (măr, spanac, cheesburger, ciocolata cu lapte, ceafă de porc, cartofi prăjiți), adevărul este că cheesburgerul reprezintă o dietă completă, și cu calorii suficiente, ce permit supraviețuirea, pe când mărul sau spanacul nu sunt. Nici ceafa de porc nu e o dietă completă. De fapt cu cartofii ai avea o șansă mai bună de supraviețuire. Știați de exemplu că lapte + cartofi reprezintă o dietă completă? Exact dieta cu care au supraviețuit bunicii noștrii pe timp de foamete ;-)
+
+Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm doar cheesburger, sau doar mere, sau doar spanac, sau doar cartofi prăjiți. Oamenii au nevoie de varietate, și dieta poate fi una nesănătoasă, dar nu mâncărurile în sine.
+
+Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de carbohidrați în dietă.
+
+[[Vezi conținut]](#continut)
+
+### Obezitatea este sigur o problemă de sănătate
+
+Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de risc", asociat cu diverse probleme de sănătate, cum ar fi boli cardiovasculare, sau diabetul de tip 2.
+
+Dacă ar fi să pariem, datele indică spre obezitate a fi o problemă de sănătate, deoarece studiile observaționale coroborează rezultatele studiilor controlate (RCT) în 70% din cazuri, adică acele studii ce pot arăta cauzalitatea. Cu alte cuvinte nu vorbim de o șansă de 50% - 50%, așa cum am avea când dăm cu banul.
+
+Însă este important de știut că în studiile observaționale există variabile ce nu pot fi controlate, și pot apare "factori de confuzie" pe care-i putem rata. Cum ar fi că stresul în sine ar putea cauza acele probleme de sănătate, stres ce ar fi putut cauza episoadele de mâncat în exces cronic, stres generat inclusiv de "fobia față de grăsime" din societate. Un alt factor de confuzie ar putea fi chiar discriminarea din sistemul medical, deoarece oamenii obezi sunt deprioritizați, și tratați inadecvat, pe motiv că "trebuie să slăbească". Iar studiile controlate (RCTs) pot suferi prin folosirea de markeri surogați, deoarece studiile controlate sunt foarte scumpe; motiv pentru care concluziile ar putea fi eronate, deoarece nu se măsoară obiectivele adevărate.
+
+Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, sau supratensiune arterială. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
+
+**Adevărul:** 
+
+- NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie"
+- **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează)
+- dietele și "fobia față de grăsime" pot fi un "factori de confuzie"; ar putea cauza multor probleme de sănătate, deoarece generează stres, și discriminare
+
+Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 
 [[Vezi conținut]](#continut)
 

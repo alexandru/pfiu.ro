@@ -270,7 +270,7 @@ Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare 
 
 Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm doar cheesburger, sau doar mere, sau doar spanac, sau doar cartofi prăjiți. Oamenii au nevoie de varietate, și dieta poate fi una nesănătoasă, dar nu mâncărurile în sine.
 
-Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de carbohidrați în dietă.
+Și nu, eliminarea anumitor categorii de mâncare din dietă nu merge pe termen lung. Pentru că suntem doar oameni, cu instincte de supraviețuire ce pot suprascrie gândirea critică, și pe bună dreptate, pentru că avem nevoie de toți nutrienții în dietă.
 
 [[Vezi conținut]](#continut)
 

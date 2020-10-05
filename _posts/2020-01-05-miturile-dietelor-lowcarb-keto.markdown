@@ -32,7 +32,7 @@ Iar pe termen lung (3-5 ani), dietele low-carb / keto sunt la fel de dezamăgito
   - [Medicii tratează diabetul T2 doar prin pastile](#medicii-tratează-diabetul-t2-doar-prin-pastile)
   - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-contează)
   - [Obezitatea este cauzată de mâncare "nesănătoasă"](#obezitatea-este-cauzată-de-mâncare-nesănătoasă)
-  - [Obezitatea este sigur o problemă de sănătate](#obezitatea-este-sigur-o-problemă-de-sănătate)
+  - [Obezitatea este o problemă de sănătate publică (aka "epidemia de obezitate")](#obezitatea-este-o-problemă-de-sănătate-publică-aka-epidemia-de-obezitate)
 - [Referințe](#referințe)
 
 ## Ce este o dietă low-carb?
@@ -277,7 +277,7 @@ Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm d
 
 [[Vezi conținut]](#continut)
 
-### Obezitatea este sigur o problemă de sănătate
+### Obezitatea este o problemă de sănătate publică (aka "epidemia de obezitate")
 
 Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de risc", asociat cu diverse probleme de sănătate, cum ar fi boli cardiovasculare, sau diabetul de tip 2.
 

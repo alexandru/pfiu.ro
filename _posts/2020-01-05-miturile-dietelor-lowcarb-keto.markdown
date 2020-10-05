@@ -283,7 +283,7 @@ Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de r
 
 Dacă ar fi să pariem, datele indică o probabilitate mare că obezitatea ar fi o problemă de sănătate, deoarece studiile observaționale coroborează rezultatele studiilor controlate (RCT) în 70% din cazuri, adică acele studii ce pot arăta cauzalitatea. Cu alte cuvinte nu vorbim de o șansă de 50% - 50%, așa cum am avea când dăm cu banul.
 
-Însă este important de știut că în studiile observaționale există variabile ce nu pot fi controlate, și pot apare "factori de confuzie" pe care-i putem rata, în special factori sociali, ce pot fi cu greu controlați, chiar și cu cele mai bune instrumente matematice.
+Însă este important de știut că în studiile observaționale epidemiologice există variabile ce nu pot fi controlate, și pot apare "factori de confuzie" pe care-i putem rata, în special factori sociali, ce pot fi cu greu controlați, chiar și cu cele mai bune instrumente matematice.
 
 Sărăcia și rasismul sunt adesea factori de confuzie. Și stresul în sine, ce ar putea cauza acele probleme de sănătate, stres ce ar fi putut cauza episoadele de mâncat în exces cronic, stres generat inclusiv de "fobia față de grăsime" din societate. Un alt factor de confuzie ar putea fi chiar discriminarea din sistemul medical, deoarece oamenii obezi sunt deprioritizați, și tratați inadecvat, pe motiv că "trebuie să slăbească". Iar studiile controlate (RCTs) pot suferi prin folosirea de "indicatori surogați", deoarece studiile controlate sunt foarte scumpe; motiv pentru care concluziile ar putea fi eronate, deoarece nu se măsoară obiectivele adevărate. Și n-am putea să băgăm oameni în laborator, să-i îngrășăm forțat, timp de ani de zile, că astfel de studii n-ar fi etice.
 

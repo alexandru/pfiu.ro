@@ -74,6 +74,8 @@ Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — �
 
 Un mit ce este perpetuat de majoritatea dietelor de tipul "*clean eating*", un mit regretabil pentru că poate duce la tulburări de alimentație, gen [ortorexie](https://en.wikipedia.org/wiki/Orthorexia_nervosa){:target="_blank"}.
 
+Dieta ketogenică nu este singura dietă ce perpetuează acest mit. Dietele Paleo, Vegan și multe altele fac același lucru, cu aceeași lipsă de dovezi; pentru că ne este mai ușor să credem că există un dușman invizil, ce ne hrănește cu "otravă"; teorii conspiraționiste ce cu siguranță vând multe cărți.
+
 **ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57).
 
 Deasemenea în secolul 20 foametea de pe tot pământul a scăzut de la 90%, la sub 10% în 2015. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.

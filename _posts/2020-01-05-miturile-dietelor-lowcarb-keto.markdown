@@ -290,7 +290,7 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
 **Adevărul:** 
 
 - NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie"
-- **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează) ([[22]](#ref-22), [[23]](#ref-23), [[58]](#ref-58), [[59]](#ref-59))
+- dietele de slăbire rar funcționează pe termen lung, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează) ([[22]](#ref-22), [[23]](#ref-23), [[58]](#ref-58), [[59]](#ref-59))
 - dietele și "fobia față de grăsime" pot fi "factori de confuzie"; ar putea fi cauza multor cazuri de îmbolnăvire, deoarece generează stres, și discriminare în sistemul medical
 - comportamentul oamenilor ce țin dietă este adesea același comportament cu cel al oamenilor ce suferă de [anorexie (tulburare psihică, de alimentație)](https://ro.wikipedia.org/wiki/Anorexie_nervoas%C4%83){:target="_blank"}, și doar numărul de pe cântar face diferența între un medic ce se îngrijorează sau nu, cânt aude de acest comportament, ceea ce nu-i chiar OK
   - dacă vrei să fii mai sănătos, atunci adoptarea unui comportament asociat cu o tulburare psihică nu poate fi răspunsul, pentru că acest comportament în sine ar putea fi cauza problemelor de sănătate asociate cu obezitatea

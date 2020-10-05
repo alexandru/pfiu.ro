@@ -66,7 +66,7 @@ Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — �
 5. pentru diabetici reducerea glucozei din sânge, după mese, este semnificativă — managementul glucozei este important la diabet, deoarece glucoza din sânge în exces devine toxică — atenție însă, hiperglicemia este doar un simptom al bolii, dar nu este cauza bolii, astfel că pentru "vindecare" adevărată avem nevoie fie de scăderea în greutate (vezi mai jos), fie de exercițiu fizic
   - este discutabil dacă dietele low-carb sunt mai benefice pentru diabetici; chiar dacă se micșorează glicemia de după masă, per total dietele low carb înrăutățesc rezistența la insulină, și afectează răspunsul în primă fază a pancreasului, efecte ce pot duce chiar la un management mai prost al glicemiei
 
-Știm că dietele low carb și keto funcționează pe termen scurt. Motivele însă nu sunt cele enunțate...
+Știm că dietele low carb și keto funcționează pe termen scurt. Motivele însă nu sunt cele enunțate, și pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete...
 
 ## Mituri
 

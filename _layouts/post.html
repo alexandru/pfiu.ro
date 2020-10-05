@@ -30,12 +30,12 @@ layout: default
     {% unless page.image_hide_in_post -%}
     <figure class="featuredImage" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
       <meta itemprop="url" content="{{ page.image | absolute_url }}" />
-      <img src="{{ page.image | prepend: site.baseurl }}" alt="" />
+      <img src="{{ page.image | prepend: site.baseurl }}?ts={{ site.time | date: '%Y%m%d%H%M%S%z' }}" alt="" />
       {% if page.image_caption %}<figcaption itemprop="caption">{{ page.image_caption }}</figcaption>{% endif %}
     </figure>
     {% else %}
     <div class="hidden" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="{{ page.image | absolute_url }}" />
+      <meta itemprop="url" content="{{ page.image | absolute_url }}?ts={{ site.time | date: '%Y%m%d%H%M%S%z' }}" />
       {% if page.image_caption -%}
       <meta itemprop="caption" content="{{ page.image_caption | escape }}" />
       {% endif %}

@@ -29,7 +29,7 @@
       <meta content="{{ page.last_modified_at | date_to_xmlschema }}" property="article:modified_time">
     {% endif -%}
     {% if page.image -%}
-      <meta content="{{ site.url }}{{ page.image }}" property="og:image">
+      <meta content="{{ site.url }}{{ page.image }}?ts={{ site.time | date: '%Y%m%d%H%M%S%z' }}" property="og:image">
     {% else %}
       <meta content="{{ '/assets/media/header.jpg' | prepend: site.url }}" property="og:image">
     {% endif -%}
@@ -59,7 +59,7 @@
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif -%}
     {% if page.image -%}
-      <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+      <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}?ts={{ site.time | date: '%Y%m%d%H%M%S%z' }}">
     {% else %}
       <meta name="twitter:image:src" content="{{ '/assets/media/header.jpg' | prepend: site.url }}">
     {% endif -%}

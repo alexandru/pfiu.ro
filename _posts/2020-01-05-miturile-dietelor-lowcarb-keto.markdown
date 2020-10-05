@@ -98,7 +98,7 @@ Acest model al obezității se numește modelul "echilibrului energetic" ([energ
 - dacă reducem caloriile din dietă, indiferent de compoziția dietei, oamenii slăbesc — o meta-analiză superbă a 20 de studii [[4]](#ref-4) ajunge la concluzia că "*pentru toate scopurile practice, o calorie este o calorie*"
 - absolut toate dietele, atunci când merg, merg pe acest principiu
 
-Calitatea dovezilor pentru acest fapt este foarte bună și avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
+Dovezile pentru acest fapt sunt incontestabile, și avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
 
 **INEPȚIE LOGICĂ:** din modelul "*echilibrului energetic*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
 

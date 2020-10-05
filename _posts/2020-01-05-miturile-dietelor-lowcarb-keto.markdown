@@ -303,7 +303,7 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
 
 Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției 😉
 
-Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
+**Referințe relevante:** [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 
 [[Vezi conținut]](#continut)
 

@@ -104,9 +104,9 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
 
 **Adevărul:** 
 
-- avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare
+- NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie"
 - **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează)
-- dietele în sine pot fi un "factor de confuzie", dietele în sine ar putea fi cauza problemelor cardiovasculare
+- dietele și "fobia față de grăsime" pot fi un "factori de confuzie"; ar putea cauza multor probleme de sănătate, deoarece generează stres, și discriminare
 
 Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 

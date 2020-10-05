@@ -7,11 +7,11 @@ tags:
   - Dietă
   - Keto
 author: alexelcu
-description: Dietele low-carb merg bine pe termen scurt, dar pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete. Și multă mitologie înconjoară aceste diete în comunitățile low-carb.
+description: Dietele low-carb merg pe termen scurt, dar pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete. Și multă mitologie înconjoară aceste diete în comunitățile low-carb.
 image: /assets/media/2020/keto.jpg
 ---
 
-Dietele low-carb, inclusiv dieta ketogenică (keto) merg bine pentru slăbit pe termen scurt, și posibil pentru managementul glicemiei la diabetici, însă motivele pentru care aceste diete merg n-au legătură cu mitologia expusă în comunitățile keto.
+Dietele low-carb, inclusiv dieta ketogenică (keto) merg pentru slăbit pe termen scurt, și posibil pentru managementul glicemiei la diabetici, însă motivele pentru care aceste diete merg n-au legătură cu mitologia expusă în comunitățile keto.
 
 Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin rezultate ajung să creadă că este vina lor, că nu au implementat dieta "corect" și că nu mai au alte opțiuni.
 
@@ -21,7 +21,7 @@ Iar pe termen lung (3-5 ani) dietele low-carb / keto sunt la fel de dezamăgitoa
 
 - [Ce este o dietă low-carb?](#ce-este-o-dietă-low-carb)
   - [Ce este o dietă ketogenică (keto)?](#ce-este-o-dietă-ketogenică-keto)
-- [De ce merg bine dietele low-carb / keto?](#de-ce-merg-bine-dietele-low-carb--keto)
+- [De ce merg dietele low-carb / keto?](#de-ce-merg-dietele-low-carb--keto)
 - [Mituri](#mituri)
   - [Caloriile nu sunt importante](#caloriile-nu-sunt-importante)
   - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compoziția-mâncării)
@@ -55,7 +55,7 @@ Scopul dietei keto este inducerea stării de "[cetoză alimentară](https://en.w
 
 Detaliile chimice și fiziologice sunt mai puțin importante, ce este important este că starea asta de cetoză ar putea avea anumite avantaje metabolice (afirmație ce trebuie s-o luăm cu un pumn de sare, că dovezile în acest sens nu sunt concludente).
 
-## De ce merg bine dietele low-carb / keto?
+## De ce merg dietele low-carb / keto?
 
 Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — și asta se datorează de la caz la caz următoarelor:
 

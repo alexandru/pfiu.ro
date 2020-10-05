@@ -100,6 +100,7 @@ Acest model al obezității se numește modelul "echilibrului energetic" ([energ
 
 - studiile arată consecvent că oamenii obezi consumă cu 20%-30% mai multe calorii decât oamenii slabi [[1]](#ref-1) [[2]](#ref-2)
 - dacă reducem caloriile din dietă, indiferent de compoziția dietei, oamenii slăbesc — o meta-analiză superbă a 20 de studii [[4]](#ref-4) ajunge la concluzia că "*pentru toate scopurile practice, o calorie este o calorie*"
+- absolut toate dietele, atunci când merg, merg pe acest principiu
 
 Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
 

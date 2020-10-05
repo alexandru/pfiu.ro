@@ -291,7 +291,7 @@ Ca și exemplu: acum în plină pandemie Covid-19 🦠, oamenii obezi au fost î
 
 Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, sau supratensiune arterială. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
 
-Dacă acceptăm că "otrăvirea cu energie" este cauza, așa cum indică toate dovezile ce le avem, atunci obezitatea poate fi doar efectul, și posibil protecția organismului împotriva otrăvirii cu energie, nu cauza.
+Dacă acceptăm că "otrăvirea cu energie în exces" este cauza, așa cum indică toate dovezile ce le avem, atunci obezitatea poate fi doar efectul, și posibil protecția organismului împotriva otrăvirii cu energie, nu cauza.
 
 **Adevărul:** 
 

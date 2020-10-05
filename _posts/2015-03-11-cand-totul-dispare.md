@@ -50,21 +50,3 @@ sunt doar eu și problema ce trebuie să o rezolv. Și mă simt bine, pentru că
 aer, o realitate unde problemele sunt deterministe. Și este ca un fel de viciu.
 Din cauza asta nu mi-a plăcut niciodată alcoolul, pentru că mă împiedică
 să ajung acolo.
-
-Grav este când ai piedici, adică oameni fără de ocupație ce n-au altceva
-mai bun de făcut decât să-ți stea în cale, pentru a-și justifica existența
-în vreun fel, gen manageri cu simțul răspunderii.
-
-Participam la un "training de scrum" și se dădea exemplu pe Mona Lisa a lui
-Leonardo da Vinci și cum ar putea fi pictată într-un mod "agil".
-Și mi s-a părut o referință extrem de tristă, ținând cont de obsesia lui
-Leonardo pentru perfecțiune, de faptul că i-a luat 3 ani s-o picteze și
-tot nu era mulțumit, de faptul că este imposibil să obți o Mona Lisa cu vreo
-30 de manageri ce n-au altceva mai bun de făcut în afară de a se scărpina la
-coaie prin meeting-uri.
-
-Trist, pentru că întinăm memoria lui Leonardo da Vinci, un adevărat hacker,
-însă încurajator pentru că 10,000 de incompetenți ce construiesc software
-asemenea piramidelor egiptene (e.g. prin sclavi biciuiți să mute cărămizi) tot
-nu pot face treaba a 3 oameni talentați și determinați. Nașpa-i când suntem
-păcăliți să mutăm cărămizi pe salariu de sclav, dar asta-i altă discuție.

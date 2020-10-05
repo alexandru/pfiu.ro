@@ -21,6 +21,8 @@ Dacă mecanismele prin care ne îngrășăm nu sunt înțelese, cei ce nu obțin
   - [Ce este o dietă ketogenică (keto)?](#ce-este-o-dietă-ketogenică-keto)
 - [De ce merg bine dietele low-carb / keto?](#de-ce-merg-bine-dietele-low-carb--keto)
 - [Mituri](#mituri)
+  - [Obezitatea este cauzată de tipul de mâncare](#obezitatea-este-cauzată-de-tipul-de-mâncare)
+  - [Obezitatea este sigur o problemă de sănătate](#obezitatea-este-sigur-o-problemă-de-sănătate)
   - [Caloriile nu sunt importante](#caloriile-nu-sunt-importante)
   - [Rata metabolismului depinde de compoziția mâncării](#rata-metabolismului-depinde-de-compoziția-mâncării)
   - [Fructoza este toxică pentru ficat](#fructoza-este-toxică-pentru-ficat)
@@ -68,6 +70,40 @@ Dietele low-carb duc la o scădere spontană a apetitului, pe termen scurt — �
 
 ## Mituri
 
+### Obezitatea este cauzată de tipul de mâncare
+
+Un mit ce este perpetuat de majoritatea dietelor de tipul "*clean eating*", un mit regretabil pentru că poate duce la tulburări de alimentație, gen [ortorexie](https://en.wikipedia.org/wiki/Orthorexia_nervosa){:target="_blank"}.
+
+**ADEVĂRUL 1:** obezitatea are cauze genetice în proporție de 50% - 70% [[57]](#ref-57).
+
+Deasemenea în secolul 20 foametea de pe tot pământul a scăzut de la 90%, la sub 10% în 2015. Ceea ce înseamnă acces neîngrădit la mâncare, pentru vasta majoritate a populației pământului, inclusiv din țările mai sărace. Iar în țările vestice, problema este cu atât mai pronunțată cu cât accesul la mâncare ieftină este mai facil.
+
+Un măr nu este mai "sănătos", sau mai "curat" decât un cheesburger de la McDonalds. Spanacul nu este mai "sănătos" decât o ciocolată cu zahăr și lapte. O ceafă de porc la grătar nu este mai "sănătoasă" sau mai "curată" decât cartofii prăjiți.
+
+Dacă ai fi blocat pe o insulă pustie, și ai avea de ales o singură mâncare cu care trebuie să trăiești, ar fi stupid să alegi mărul sau spanacul. Dintre toate mâncărurile enunțate (măr, spanac, cheesburger, ciocolata cu lapte), adevărul este că cheesburgerul reprezintă o dietă completă, și cu calorii suficiente, ce permit supraviețuirea, pe când mărul sau spanacul nu sunt. Nici ceafa de porc nu e o dietă completă. De fapt cu cartofii ai avea o șansă mai bună de supraviețuire. Știați de exemplu că lapte + cartofi reprezintă o dietă completă? Exact dieta cu care au supraviețuit bunicii noștrii pe timp de foamete ;-)
+
+Astfel că depinde mult de context.
+
+**ADEVĂRUL 2:** nu există mâncăruri nesănătoase; există doar diete nesănătoase.
+
+### Obezitatea este sigur o problemă de sănătate
+
+Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de risc", asociat cu diverse probleme de sănătate, cum ar fi boli cardiovasculare, sau diabetul de tip 2.
+
+Dacă ar fi să pariem, datele indică spre obezitate a fi o problemă de sănătate, deoarece studiile observaționale coroborează rezultatele studiilor controlate (RCT) în 70% din cazuri, adică acele studii ce pot arăta cauzalitatea. Cu alte cuvinte nu vorbim de o șansă de 50% - 50%, așa cum am avea când dăm cu banul.
+
+Însă este important de știut că în studiile observaționale există variabile ce nu pot fi controlate, și pot apare "factori de confuzie" pe care-i putem rata. Cum ar fi că stresul în sine ar putea cauza acele probleme de sănătate, stres ce ar fi putut cauza episoadele de mâncat în exces cronic, stres generat inclusiv de "fobia față de grăsime" din societate. Un alt factor de confuzie ar putea fi chiar discriminarea din sistemul medical, deoarece oamenii obezi sunt deprioritizați, și tratați inadecvat, pe motiv că "trebuie să slăbească". Iar studiile controlate (RCTs) pot suferi prin folosirea de markeri surogați, deoarece studiile controlate sunt foarte scumpe; motiv pentru care concluziile ar putea fi eronate, deoarece nu se măsoară obiectivele adevărate.
+
+Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, sau supratensiune arterială. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
+
+**Adevărul:** 
+
+- avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare
+- **dietele de slăbire rar funcționează pe termen lung**, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează)
+- dietele în sine pot fi un "factor de confuzie", dietele în sine ar putea fi cauza problemelor cardiovasculare
+
+Referințe: [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
+
 ### Caloriile nu sunt importante
 
 "*Calorii care intră, calorii care ies*"
@@ -90,9 +126,9 @@ Se zice că:
 
 Acest model al obezității se numește modelul "echilibrului energetic" ([energy balance (engleză)](https://en.wikipedia.org/wiki/Energy_homeostasis){:target="blank"}).
 
-**ADEVĂRUL:** pentru a slăbi trebuie să mâncăm mai puține calorii decât ardem.
+**ADEVĂRUL:** pentru a slăbi, trebuie să mâncăm mai puține calorii decât ardem.
 
-- studiile arată consecvent că oamenii supraponderali consumă cu 20%-30% mai multe calorii decât oamenii cu greutate normală [[1]](#ref-1) [[2]](#ref-2)
+- studiile arată consecvent că oamenii obezi consumă cu 20%-30% mai multe calorii decât oamenii slabi [[1]](#ref-1) [[2]](#ref-2)
 - dacă reducem caloriile din dietă, indiferent de compoziția dietei, oamenii slăbesc — o meta-analiză superbă a 20 de studii [[4]](#ref-4) ajunge la concluzia că "*pentru toate scopurile practice, o calorie este o calorie*"
 
 Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzalitatea](https://ro.wikipedia.org/wiki/Cauzalitate){:target="_blank"} confirmată.
@@ -101,7 +137,7 @@ Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzali
 
 Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul este că mâncatul este un proces instinctual. Mâncăm când ni se face foame, ne oprim din mâncat atunci suntem sătui. Este ca atunci când respirăm. Nu ne gândim că trebuie să respirăm aerul din plămâni, procesul este unul total automat, condus de "sistemul nervos vegetativ".
 
-Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce în ce mai clar că oamenii supraponderali au semnalele de foame și de sațietate stricate, iar mâncărurile ultra-procesate ne determină să consumăm peste măsură [[46]](#ref-46).
+Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce în ce mai clar că oamenii obezi au probleme cu semnalele de foame și de sațietate, iar mâncărurile ultra-procesate ne determină să consumăm peste măsură [[46]](#ref-46).
 
 Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puține grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte.
 
@@ -185,7 +221,8 @@ Mai concret:
 - rezistența la insulină este o *reacție defensivă* la excesul de energie [[30]](#ref-30)
 - ce se întâmplă este că celulele de grăsime (adipocitele) devin prea pline, ca niște baloane ce se umflă până mai au puțin și se sparg și nu mai pot înmagazina energie, ajungând să respingă astfel glucoza din sânge, fenomen ce se numește "rezistență la insulină" [[31]](#ref-31) [[32]](#ref-32)
 - există și oameni cu greutate normală ce pot dezvolta rezistență la insulină și diabet, dar asta pentru că nu au capacitatea de a stoca prea multă grăsime în țesutul adipos — capacitatea de a stoca energie variază de la individ la individ, ceea ce se cheamă "*pragul de grăsime personală*" [[33]](#ref-33); astfel că excesul de energie ori este stocat în țesutul adipos, ori faci diabet de tip 2, din două una, mai bine te îngrași decât să faci diabet și din păcate capacitatea de îngrășare este limitată, mai devreme sau mai târziu cu toții putem face diabet
-- această predispoziție a oamenilor slabi pentru diabet are inclusiv cauze genetice identificate [[36]](#ref-36) [[37]](#ref-37)
+  - NOTĂ: teoria "pragului de grăsime personal" este doar o teorie, o "presupunere educată", nu un fapt verificat; adevărul ar putea fi că există oameni ce se nasc cu un strat de grăsime ce nu funcționează cum trebuie, dar că în mod normal acest strat de grăsime nu are limite, iar astfel de oameni nu pot face diabet (vezi punctul următor)
+- această predispoziție a oamenilor slabi pentru diabet are clar cauze genetice identificate [[36]](#ref-36) [[37]](#ref-37)
 - prin "randomizare mendeliană" ([engleză](https://en.wikipedia.org/wiki/Mendelian_randomization){:target="_blank"}), o tehnică ce ne ajută să descoperim asocieri dintre factori de risc și probleme de sănătate, putem vedea că nici secreția de insulină [[38]](#ref-38) și nici nivelul insulinei pe nemâncate [[39]](#ref-39) nu este asociat cu nivelul grăsimii corporale
 
 [[Vezi conținut]](#continut)
@@ -298,3 +335,9 @@ PS: există și [cholesterolcode.com](https://cholesterolcode.com/){:target="_bl
 49. [A Randomized Double-Blind, Cross-Over Trial of very Low-Calorie Diet in Overweight Migraine Patients: A Possible Role for Ketones?](https://www.ncbi.nlm.nih.gov/pubmed/31357685/){:target="blank" id="ref-49"}
 50. [Do ketogenic diets really suppress appetite? A systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pubmed/25402637){:target="blank" id="ref-50"}
 51. [Ketogenic low-carbohydrate diets have no metabolic advantage over nonketogenic low-carbohydrate diets](https://www.ncbi.nlm.nih.gov/pubmed/16685046){:target="blank" id="ref-51"}
+52. [The National Weight Control Registry: A Critique](https://www.sciencedirect.com/science/article/abs/pii/S1499404606602479){:target="blank" id="ref-52"}
+53. [Does dieting make you fat? A twin study](https://pubmed.ncbi.nlm.nih.gov/21829159/){:target="blank" id="ref-53"}
+54. [Methods for voluntary weight loss and control. NIH Technology Assessment Conference Panel](https://pubmed.ncbi.nlm.nih.gov/1580453/){:target="blank" id="ref-54"}
+55. [Weight Science: Evaluating the Evidence for a Paradigm Shift](https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-10-9){:target="blank" id="ref-55"}
+56. [Medicare's search for effective obesity treatments: diets are not the answer](https://pubmed.ncbi.nlm.nih.gov/17469900/){:target="blank" id="ref-56"}
+57. [Genetic contributors to obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2787002/){:target="blank" id="ref-57"}

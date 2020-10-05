@@ -106,11 +106,11 @@ Calitatea dovezilor pentru acest fapt este foarte bună și astfel avem [cauzali
 
 **INEPȚIE LOGICĂ:** din modelul "*echilibrului energetic*" rezultă că ar trebui să *ne numărăm caloriile* ca să slăbim.
 
-Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul este că mâncatul este un proces instinctual. Mâncăm când ni se face foame, ne oprim din mâncat atunci suntem sătui. Este ca atunci când respirăm. Nu ne gândim că trebuie să respirăm aerul din plămâni, procesul este unul total automat, condus de "sistemul nervos vegetativ".
+Deși o strategie de numărare a caloriilor merge pentru unii oameni, adevărul este că mâncatul este un proces instinctual. Mâncăm când ni se face foame, ne oprim din mâncat atunci suntem sătui. Este ca atunci când respirăm. Nu ne gândim că trebuie să respirăm aerul din plămâni, procesul este unul total automat, condus de "sistemul nervos vegetativ". Iar când acest proces nu merge cum trebuie, dacă uităm să respirăm, astea se numesc [crize de apnee](https://ro.wikipedia.org/wiki/Apnee){:target="_blank"}, și putem muri. Deși știm că trebuie să avem încredere în propriul corp, când respirăm, similar nu prea putem controla cantitatea de mâncare ingerată cu ajutorul gândirii critice, pe termen lung.
 
-Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce în ce mai clar că oamenii obezi au probleme cu semnalele de foame și de sațietate, iar mâncărurile ultra-procesate ne determină să consumăm peste măsură [[46]](#ref-46).
+Când vine vorba de nutriție, lucrurile sunt complicate, însă devine din ce în ce mai clar că oamenii obezi au diferențe în intensitatea semnalelor de foame și de sațietate, și/sau în răspunsul la aceste semnale.
 
-Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puține grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte.
+Astfel că o strategie bună de slăbit și de menținere a unei greutăți normale este o strategie de *management al apetitului*. Iar o dietă low-carb este într-adevăr una din strategiile pe care le poți încerca, dar mai există și alte strategi posibile, inclusiv dietele cu puține grăsimi și mulți carbohidrați, ce pot avea fix aceleași efecte (dezamăgitoare).
 
 **IRONIA:** deși la keto nu trebuie să-ți numeri caloriile, foarte mulți își numără carbohidrații, și efortul este același.
 

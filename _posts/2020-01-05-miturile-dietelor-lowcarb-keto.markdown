@@ -282,7 +282,7 @@ Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm d
 
 Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de risc", asociat cu diverse probleme de sănătate, cum ar fi boli cardiovasculare, sau diabetul de tip 2.
 
-Dacă ar fi să pariem, datele indică o probabilitate mare că obezitatea ar fi o problemă de sănătate, deoarece studiile observaționale coroborează rezultatele studiilor controlate (RCT) în 70% din cazuri, adică acele studii ce pot arăta cauzalitatea. Cu alte cuvinte nu vorbim de o șansă de 50% - 50%, așa cum am avea când dăm cu banul.
+Consensul științific, momentan, este că obezitatea este în sine o problemă de sănătate. Și e important să ne încredem în consensul științific. Dacă ar fi să pariem, datele indică o probabilitate mare că obezitatea ar fi o problemă de sănătate, deoarece studiile observaționale sugerează asta. Iar studiile observaționale, deși nu arată cauzalitatea, în general coroborează rezultatele studiilor controlate (RCT) în 70% din cazuri, adică acele studii ce pot arăta cauzalitatea. Cu alte cuvinte nu vorbim de o șansă de 50% - 50%, așa cum am avea când dăm cu banul.
 
 Însă este important de știut că în studiile observaționale epidemiologice există variabile ce nu pot fi controlate, și pot apare "factori de confuzie" pe care-i putem rata, în special factori sociali, ce pot fi cu greu controlați, chiar și cu cele mai bune instrumente matematice.
 
@@ -302,7 +302,7 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
   - dacă vrei să fii mai sănătos, atunci adoptarea unui comportament asociat cu o tulburare psihică nu poate fi răspunsul, pentru că acest comportament în sine ar putea fi cauza problemelor de sănătate asociate cu obezitatea
 - efectul de "yo-yo" de după dietă (slăbirea, urmată de îngrășare, cum se întâmplă adesea ca urmare a tuturor dietelor) este clar mai nesănătos decât dacă ți-ai fi menținut greutatea; și ar putea fi încă un "factor de confuzie"
 
-Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției 😉
+Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției, mai ales când fac asta ca și strategie de a vinde cărți 😉
 
 **Referințe relevante:** [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
 

@@ -328,13 +328,13 @@ Din cauză că luptăm zi de zi cu campanii de dezinformare, trebuie să ne înc
 
 Cursuri de gândire critică ar trebui predate la școală. Până se trezește învățământul românesc, recomand următoarea serie de cursuri de pe Coursera:
 
-[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke){:target="_blank", rel="nofollow"}
+- [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke){:target="_blank", rel="nofollow"}
 
 ### Cum să citim studii?
 
 Cei de la [Examine.com](https://examine.com/){:target="_blank", rel="nofollow"} au pus la dispoziție un document foarte bun despre evaluarea dovezilor științifice: 
 
-[How to Read a Scientific Study (PDF)]({% link assets/pdfs/how-to-read-a-study.pdf %})
+- [How to Read a Scientific Study (PDF)]({% link assets/pdfs/how-to-read-a-study.pdf %})
 
 [[Vezi conținut]](#continut)
 

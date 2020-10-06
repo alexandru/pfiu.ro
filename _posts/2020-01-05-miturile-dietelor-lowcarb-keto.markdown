@@ -147,7 +147,7 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 
 - într-un studiu recent pe oameni sănătoși, au fost puși să consume un exces de 150 grame de fructoză pe zi [[11]](#ref-11), adică o doză foarte mare, cel puțin dublă față de ce consumă ca medie americanii și ... n-au pățit nimic; interesant este că deși consumul de mâncare a fost "ad libitum" (adică la propria discreție), aceștia și-au ajustat automat caloriile încât să compenseze pentru consumul de fructoză, n-au luat în greutate și astfel că n-au pățit nimic
 - există indicii că grăsimea saturată s-ar putea să fie chiar mai toxică pentru ficat decât fructoza [[14]](#ref-14)
-- într-o meta-analiză ce folosește scorul de tip GRADE pentru a determina calitatea studiilor [[17]](#ref-17), s-a arătat că recomandările pentru reducerea zahărului sunt de fapt de proastă calitate
+- într-o revizie sistematică [[17]](#ref-17), ce folosește scorul de tip GRADE pentru a determina calitatea studiilor, s-a arătat că recomandările pentru reducerea zahărului sunt de fapt de proastă calitate
 - cuplat cu faptul că zahărul nu pare să îngrașe decât prin calorii în exces, vezi mai jos
 
 [[Vezi conținut]](#continut)

@@ -310,7 +310,7 @@ Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circum
 
 ## Cum aflăm adevărul?
 
-Rețelele online, din păcate, ne împing către teorii conspiraționiste, și către "cultura mâniei", în special împotriva instituțiilor, împotriva științei. Nu este de mirare că teoriile anti-vaxxing, a radierii populației prin 5G, sau conspirația "pământului plat" au devenit populare.
+Rețelele sociale de pe Internet, din păcate, ne împing către teorii conspiraționiste, și către "cultura mâniei", în special împotriva instituțiilor, împotriva științei. Nu este de mirare că teoriile anti-vaxxing, a radierii populației prin 5G, sau conspirația "pământului plat" au devenit populare.
 
 Nu ne putem încrede în presă, sau în rețele sociale, deoarece acestea funcționează în [economia atenției](https://en.wikipedia.org/wiki/Attention_economy){:target="_blank", rel="nofollow"}. Adică, datorită modelului de business, au stimulente perverse de a maximiza timpul petrecut în fața ecranului. Iar conspirațiile și mânia ne țin captivi. Cu cât atenția este captată mai mult, cu atât se vând mai multe reclame. Din cauza asta, când citim articole de presă, trebuie să mergem direct la sursă. Iar dacă articolul nu are referințe științifice, asta-i o mare bilă neagră.
 

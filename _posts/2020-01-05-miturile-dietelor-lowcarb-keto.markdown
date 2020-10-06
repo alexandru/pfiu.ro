@@ -322,7 +322,7 @@ Comparați lucrările științifice cu publicarea de cărți, cărți ce (1) nu 
 
 Din cauză că luptăm zi de zi cu campanii de dezinformare, trebuie să ne încredem în "consensul științific", și orice afirmație contrară consensului științific trebuie luată cu mult scepticism, mergând la sursă.
 
-Și mare atenție la inepții de logică. Promotorii de teorii conspiraționiste se folosesc în primul rând de anecdote pentru promovarea teoriilor. Că ne plac poveștile de succes. Doar că fiind întâmplări din medii necontrolate, nu sunt altceva decât povești, la propriu, și contrar părerilor populare, "pluralul anecdotei" nu este "date", pentru că datele respectă metoda științifică, pe când anecdotele nu.
+Și mare atenție la inepții de logică. Promotorii de teorii conspiraționiste se folosesc în primul rând de anecdote pentru promovarea teoriilor. Că ne plac poveștile cu care ne putem identifica. Doar că fiind întâmplări din medii necontrolate, nu sunt altceva decât povești, la propriu, și contrar părerilor populare, "pluralul anecdotei" nu este "date", pentru că datele respectă metoda științifică, pe când anecdotele nu.
 
 ### Cum să gândim critic?
 

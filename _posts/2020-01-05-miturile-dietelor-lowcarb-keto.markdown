@@ -147,7 +147,7 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 
 - într-un studiu recent pe oameni sănătoși, au fost puși să consume un exces de 150 grame de fructoză pe zi [[11]](#ref-11), adică o doză foarte mare, cel puțin dublă față de ce consumă ca medie americanii și ... n-au pățit nimic; interesant este că deși consumul de mâncare a fost "ad libitum" (adică la propria discreție), aceștia și-au ajustat automat caloriile încât să compenseze pentru consumul de fructoză, n-au luat în greutate și astfel că n-au pățit nimic
 - există indicii că grăsimea saturată s-ar putea să fie chiar mai toxică pentru ficat decât fructoza [[14]](#ref-14)
-- într-un meta review ce folosește scorul de tip GRADE pentru a determina calitatea studiilor [[17]](#ref-17), s-a arătat că recomandările pentru reducerea zahărului sunt de fapt de proastă calitate
+- într-o meta-analiză ce folosește scorul de tip GRADE pentru a determina calitatea studiilor [[17]](#ref-17), s-a arătat că recomandările pentru reducerea zahărului sunt de fapt de proastă calitate
 - cuplat cu faptul că zahărul nu pare să îngrașe decât prin calorii în exces, vezi mai jos
 
 [[Vezi conținut]](#continut)
@@ -160,9 +160,9 @@ Problema este că zahărul nu pare să fie toxic atunci când consumul caloric e
 
 - impactul mâncărurilor asupra sațietății nu are legătură cu glucoza din sânge rezultată [[34]](ref-34)
 - alți factori determină sațietatea provocată de diverse mâncăruri, cum ar fi fibrele, volumul sau proteinele conținute [[35]](#ref-35)
-- într-un review sistematic și meta-analiză a 30 de studii controlate și randomizate [13](#ref-13) s-a observat că zahărul îngrașă doar prin caloriile sale
-- într-un alt review sistematic și meta-analiză a 31 de studii de hrănire cu fructoză [[18]](#ref-18) se observă cum fructoza nu duce la o creștere în greutate atunci când caloriile sunt înlocuite cu calorii din alți carbohidrați
-- meta-review-ul deja amintit [[4]](#ref-4) arată cum compoziția dietei nu contează pentru slăbit, contează doar caloriile
+- într-o revizie sistematică și meta-analiză a 30 de studii controlate și randomizate [13](#ref-13) s-a observat că zahărul îngrașă doar prin caloriile sale
+- într-o altă revizie sistematică și meta-analiză a 31 de studii de hrănire cu fructoză [[18]](#ref-18) se observă cum fructoza nu duce la o creștere în greutate atunci când caloriile sunt înlocuite cu calorii din alți carbohidrați
+- meta-analiza deja amintită [[4]](#ref-4) arată cum compoziția dietei nu contează pentru slăbit, contează doar caloriile
 - o meta-analiză a 16 studii de hrănire cu diete cu puține grăsimi și mulți carbohidrați (low fat) [[19]](#ref-19) arată cum aceste diete low fat sunt eficiente pentru slăbit chiar și cu consum la propria discreție a participanților (ad libitum)
 - avem o lucrare ce descrie cum 106 pacienți foarte obezi au pierdut în medie 64 Kg și și-au îmbunătățit nivelul glucozei din sânge printr-o dietă formată în totalitate din orez alb, fructe, sucuri și zahăr alb [[20]](#ref-20)
 - avem populații studiate cu consum foarte mare de carbohidrați ce la momentul observației erau foarte sănătoase, de exemplu când în 1990 au fost studiați nativi din Kitava [[12]](#ref-12), aceștia erau foarte sănătoși cu o dietă formată 69% din carbohidrați
@@ -182,7 +182,7 @@ Vorbim de "*modelul carbohidrați-insulină*" pentru obezitate (prescurtat: CIM)
 
 Mai concret:
 
-- nu putem prezice dacă oamenii se vor îngrășa în viitor după nivelurile de insulină, concluzie a unei lucrări de review a mai multor studii [[24]](#ref-24)
+- nu putem prezice dacă oamenii se vor îngrășa în viitor după nivelurile de insulină, concluzie a unei lucrări de revizie a mai multor studii [[24]](#ref-24)
 - pierderea în greutate îmbunătățește rezistența la insulină în aceeași măsură, indiferent de compoziția dietei, s-a văzut asta într-un studiu RCT foarte bun din 2009 [[25]](#ref-25), ce a măsurat rezistența la insulină prin "tehnica clemei de glucoză" (cea mai bună tehnică disponibilă), cu rezultate similare unui studiu mai vechi [[26]](#ref-26)
 - în fapt nu contează dacă excesul de energie vine de la carbohidrați [[27]](#ref-27), grăsime [[28]](#ref-28) sau proteine [[29]](#ref-29), toți macro-nutrienții pot provoca rezistență la insulină și diabet, nu doar carbohidrații — deci da, îți poți înrăutății diabetul cu o dietă ketogenică în anumite condiții (dacă mănânci mai multe calorii decât arzi)
 - rezistența la insulină este o *reacție defensivă* la excesul de energie [[30]](#ref-30)

@@ -35,7 +35,7 @@ Iar pe termen lung (3-5 ani) dietele low-carb / keto sunt la fel de dezamăgitoa
   - [Obezitatea este o problemă de sănătate publică (aka "epidemia de obezitate")](#obezitatea-este-o-problemă-de-sănătate-publică-aka-epidemia-de-obezitate)
 - [Cum aflăm adevărul?](#cum-aflăm-adevărul)
   - [Cum să gândim critic?](#cum-să-gândim-critic)
-  - [Cum să citim studii?](#cum-să-citim-studii)
+  - [Cum să citim studii științifice?](#cum-să-citim-studii-științifice)
 - [Referințe](#referințe)
 
 ## Ce este o dietă low-carb?
@@ -328,13 +328,17 @@ Din cauză că luptăm zi de zi cu campanii de dezinformare, trebuie să ne înc
 
 Cursuri de gândire critică ar trebui predate la școală. Până se trezește învățământul românesc, recomand următoarea serie de cursuri de pe Coursera:
 
-- [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke){:target="_blank", rel="nofollow"}
+<p class="info-bubble" markdown="1">
+  [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke){:target="_blank", rel="nofollow"}
+</p>
 
-### Cum să citim studii?
+### Cum să citim studii științifice?
 
 Cei de la [Examine.com](https://examine.com/){:target="_blank", rel="nofollow"} au pus la dispoziție un document foarte bun despre evaluarea dovezilor științifice: 
 
-- [How to Read a Scientific Study (PDF)]({% link assets/pdfs/how-to-read-a-study.pdf %})
+<p class="info-bubble" markdown="1">
+  [How to Read a Scientific Study (PDF)]({% link assets/pdfs/how-to-read-a-study.pdf %})
+</p>
 
 [[Vezi conținut]](#continut)
 

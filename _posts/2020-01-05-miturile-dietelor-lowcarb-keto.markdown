@@ -33,6 +33,9 @@ Iar pe termen lung (3-5 ani) dietele low-carb / keto sunt la fel de dezamăgitoa
   - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-contează)
   - [Obezitatea este cauzată de mâncare "nesănătoasă"](#obezitatea-este-cauzată-de-mâncare-nesănătoasă)
   - [Obezitatea este o problemă de sănătate publică (aka "epidemia de obezitate")](#obezitatea-este-o-problemă-de-sănătate-publică-aka-epidemia-de-obezitate)
+- [Cum aflăm adevărul?](#cum-aflăm-adevărul)
+  - [Cum să gândim critic?](#cum-să-gândim-critic)
+  - [Cum să citim studii?](#cum-să-citim-studii)
 - [Referințe](#referințe)
 
 ## Ce este o dietă low-carb?
@@ -302,6 +305,36 @@ Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cu
 Adică nu știm, și n-ar trebui să pretindem prea tare că știm. Fiți circumspecți când auziți de "*epidemia de obezitate*", mai ales când vorbesc nulități în domeniul nutriției 😉
 
 **Referințe relevante:** [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), [[55]](#ref-55), [[56]](#ref-56).
+
+[[Vezi conținut]](#continut)
+
+## Cum aflăm adevărul?
+
+Rețelele online, din păcate, ne împing către teorii conspiraționiste, și către "cultura mâniei", în special împotriva instituțiilor, împotriva științei. Nu este de mirare că teoriile anti-vaxxing, a radierii populației prin 5G, sau conspirația "pământului plat" au devenit populare.
+
+Nu ne putem încrede în presă, sau în rețele sociale, deoarece acestea funcționează în [economia atenției](https://en.wikipedia.org/wiki/Attention_economy){:target="_blank", rel="nofollow"}. Adică, datorită modelului de business, au stimulente perverse de a maximiza timpul petrecut în fața ecranului. Iar conspirațiile și mânia ne țin captivi. Cu cât atenția este captată mai mult, cu atât se vând mai multe reclame. Din cauza asta, când citim articole de presă, trebuie să mergem direct la sursă. Iar dacă articolul nu are referințe științifice, asta-i o mare bilă neagră.
+
+Dar putem avea încredere în "_consensul științific_", pentru că oamenii de știință operează la standarde mult mai mari, prin [metoda științifică](https://ro.wikipedia.org/wiki/Metod%C4%83_%C8%99tiin%C8%9Bific%C4%83){:target="_blank", rel="nofollow"}. Lucrările științifice sunt publicate în jurnale de specialitate, și trecute printr-un proces de revizie din partea semenilor (peer review). Oamenii de știință, când ajung la consens, sunt capabili să ia în calcul totalitatea dovezilor disponibile. Iar oamenii de știință își declară mereu, în lucrări, conflictele de interes.
+
+Comparați lucrările științifice cu publicarea de cărți, cărți ce (1) nu trec prin "peer review" și (2) nu au standarde vizavi de declararea conflictelor de interes. Doar pentru că cineva a publicat o carte, doar pentru că limbajul sună a [technobabble](https://en.wikipedia.org/wiki/Technobabble){:target="_blank", rel="nofollow"}, asta nu înseamnă că acea carte are vreo fărâmă de adevăr.
+
+Și da, oamenii de știință pot avea conflicte de interese (declarate, că sunt transparenți), studiile pot fi finanțate de "industrie". Dar asta se întâmplă pentru că sectorul privat finanțează studiile. Este normal ca industria laptelui să finanțeze studii despre lapte. Și este normal și să există o părtinire la selecție, pe obiectul studiului, în așa fel încât studiile finanțate de industria laptelui să scoată, per total, laptele într-o lumină pozitivă. Dar asta nu înseamnă nimic, deoarece metodele și datele studiilor sunt făcute disponibile, și trecute prin peer review. Iar dacă nu ai nici o critică utilă de adus, în afară de "conflictul de interes", atunci mai bine nu spui nimic, deoarece asta-i doar o oportunitate de [cherry-picking](https://en.wikipedia.org/wiki/Cherry_picking){:target="_blank", rel="nofollow"}, adică de respingere a dovezilor ce nu ne convin pe criterii superficiale.
+
+Din cauză că luptăm zi de zi cu campanii de dezinformare, trebuie să ne încredem în "consensul științific", și orice afirmație contrară consensului științific trebuie luată cu mult scepticism, mergând la sursă.
+
+Și mare atenție la inepții de logică.
+
+### Cum să gândim critic?
+
+Cursuri de gândire critică ar trebui predate la școală. Până se trezește învățământul românesc, recomand următoarea serie de cursuri de pe Coursera:
+
+[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke){:target="_blank", rel="nofollow"}
+
+### Cum să citim studii?
+
+Cei de la [Examine.com](https://examine.com/){:target="_blank", rel="nofollow"} au pus la dispoziție un document foarte bun despre evaluarea dovezilor științifice: 
+
+**[How to Read a Study (PDF)](../assets/pdfs/how-to-read-a-study.pdf)**
 
 [[Vezi conținut]](#continut)
 

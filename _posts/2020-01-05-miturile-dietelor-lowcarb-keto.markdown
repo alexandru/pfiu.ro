@@ -36,6 +36,7 @@ Iar pe termen lung (3-5 ani) dietele low-carb / keto sunt la fel de dezamăgitoa
 - [Cum aflăm adevărul?](#cum-aflăm-adevărul)
   - [Cum să gândim critic?](#cum-să-gândim-critic)
   - [Cum să citim studii științifice?](#cum-să-citim-studii-științifice)
+  - [Cum știi că ai aderat la un cult?](#cum-știi-că-ai-aderat-la-un-cult)
 - [Referințe](#referințe)
 
 ## Ce este o dietă low-carb?
@@ -339,6 +340,14 @@ Cei de la [Examine.com](https://examine.com/){:target="_blank", rel="nofollow"} 
 <p class="info-bubble" markdown="1">
   [How to Read a Scientific Study (PDF)]({% link assets/pdfs/how-to-read-a-study.pdf %})
 </p>
+
+### Cum știi că ai aderat la un cult?
+
+În general, dacă ai aderat la o comunitate cu teorii ce sunt contrare consensului științific, probabilitatea e mare ca acea comunitate să fie un cult.
+
+Recomand următorul episod de pe Netflix:
+
+{% include youtube.html id="6NWIfiV1_XQ" caption="Cults, Explained | Netflix" %}
 
 [[Vezi conținut]](#continut)
 

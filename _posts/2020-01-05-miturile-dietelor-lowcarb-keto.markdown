@@ -334,7 +334,7 @@ Cursuri de gândire critică ar trebui predate la școală. Până se trezește 
 
 Cei de la [Examine.com](https://examine.com/){:target="_blank", rel="nofollow"} au pus la dispoziție un document foarte bun despre evaluarea dovezilor științifice: 
 
-**[How to Read a Study (PDF)](../assets/pdfs/how-to-read-a-study.pdf)**
+**[How to Read a Scientific Study (PDF)]({% link assets/pdfs/how-to-read-a-study.pdf %})**
 
 [[Vezi conținut]](#continut)
 

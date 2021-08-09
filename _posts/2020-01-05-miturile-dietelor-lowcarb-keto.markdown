@@ -32,6 +32,7 @@ Iar pe termen lung (3-5 ani) dietele low-carb / keto sunt la fel de dezamăgitoa
   - [Medicii tratează diabetul T2 doar prin pastile](#medicii-tratează-diabetul-t2-doar-prin-pastile)
   - [Nivelul colesterolului LDL nu contează](#nivelul-colesterolului-ldl-nu-contează)
   - [Obezitatea este cauzată de mâncare "nesănătoasă"](#obezitatea-este-cauzată-de-mâncare-nesănătoasă)
+- [Semne de întrebare](#semne-de-întrebare)
   - [Obezitatea este o problemă de sănătate publică (aka "epidemia de obezitate")](#obezitatea-este-o-problemă-de-sănătate-publică-aka-epidemia-de-obezitate)
 - [Cum aflăm adevărul?](#cum-aflăm-adevărul)
   - [Cum să gândim critic?](#cum-să-gândim-critic)
@@ -279,6 +280,8 @@ Astfel că depinde mult de context. Cu siguranță nu e sănătos să mâncăm d
 
 [[Vezi conținut]](#continut)
 
+## Semne de întrebare
+
 ### Obezitatea este o problemă de sănătate publică (aka "epidemia de obezitate")
 
 Adevărul este că nu prea știm. Obezitatea este cu siguranță un "factor de risc", asociat cu diverse probleme de sănătate, cum ar fi boli cardiovasculare, sau diabetul de tip 2.
@@ -293,13 +296,13 @@ Ca și exemplu: acum în plină pandemie Covid-19 🦠, oamenii obezi au fost î
 
 Stratul de grăsime e un organ ca oricare altul, ce poate să nu funcționeze cum trebuie, așa cum se poate întâmpla cu toate celelalte organe vitale. Iar în cazul în care stratul de grăsime nu poate absorbi excesul de energie, este normal ca asta să cauzeze diabetul de tip 2, colesterol din sânge mărit, supratensiune arterială, sau toate celelalte probleme asociate. Iar cauzele pentru care stratul de grăsime nu funcționează la capacitate maximă sunt cel mai adesea genetice.
 
-**Adevărul:** 
+De avut în vedere ...
 
 - NU avem dovezi directe că îngrașarea duce neapărat la diabet de tip 2, sau probleme cardiovasculare; iar studiile observaționale ce sugerează asta pot suferi de "factori de confuzie" 
   - atenție aici să nu picăm în capcana inepțiilor de logică: o lipsă de dovezi nu este o dovadă de lipsă a cauzalității
 - dietele de slăbire rar funcționează pe termen lung, indiferent de ce dietă vorbim (keto, vegan, paleo, IF, chiar nu contează) [[22]](#ref-22), [[23]](#ref-23), [[58]](#ref-58), [[59]](#ref-59)
 - dietele și "fobia față de grăsime" pot fi "factori de confuzie"; ar putea fi cauza multor cazuri de îmbolnăvire, deoarece generează stres, și discriminare în sistemul medical
-- comportamentul oamenilor ce țin dietă este adesea același comportament cu cel al oamenilor ce suferă de [anorexie (tulburare psihică, de alimentație)](https://ro.wikipedia.org/wiki/Anorexie_nervoas%C4%83){:target="_blank"}, și doar numărul de pe cântar face diferența între un om ce se îngrijorează sau nu, cânt aude de acest comportament, ceea ce nu-i chiar OK
+- comportamentul oamenilor ce țin dietă este adesea același comportament cu cel al oamenilor ce suferă de [anorexie (tulburare psihică, de alimentație)](https://ro.wikipedia.org/wiki/Anorexie_nervoas%C4%83){:target="_blank"}, și doar numărul de pe cântar face diferența între un om ce se îngrijorează sau nu, când aude de acest comportament, ceea ce nu-i chiar OK
   - dacă vrei să fii mai sănătos, atunci adoptarea unui comportament asociat cu o tulburare psihică nu poate fi răspunsul, pentru că acest comportament în sine ar putea fi cauza problemelor de sănătate asociate cu obezitatea
 - efectul de "yo-yo" de după dietă (slăbirea, urmată de îngrășare, cum se întâmplă adesea ca urmare a tuturor dietelor) este clar mai nesănătos decât dacă ți-ai fi menținut greutatea; și ar putea fi încă un "factor de confuzie"
 

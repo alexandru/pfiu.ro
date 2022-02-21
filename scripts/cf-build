@@ -4,4 +4,4 @@ set -e
 
 cd "$(dirname "$0")"
 bundle install --jobs 4 --retry 3
-exec ./build
+bundle exec jekyll build --lsi

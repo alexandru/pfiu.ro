@@ -2,14 +2,14 @@ name: deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-18.04
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
 
       - name: Set up Ruby 2.6
         uses: actions/setup-ruby@v1

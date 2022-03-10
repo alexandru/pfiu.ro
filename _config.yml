@@ -15,7 +15,6 @@ defaults:
     values:
       layout: post
       author: alexelcu
-      has_comments: true
 
 sass:
     style: compressed

@@ -4,7 +4,7 @@ description: Gândurile unui introvertit
 url: https://ro.alexn.org
 baseurl: ""
 permalink: :year/:month/:title/
-feed: https://flux-ro.alexn.org/
+feed: https://ro.alexn.org/feed.xml
 
 include: ["_redirects"]
 

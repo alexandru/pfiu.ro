@@ -65,11 +65,14 @@
     {% endif -%}
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" sizes="16x16" />
-    <link rel="icon" href="{% link assets/logo/32px.png %}" sizes="32x32" />
-    <link rel="icon" href="{% link assets/logo/192px.png %}" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="{% link assets/logo/180px.png %}" />
-    <meta name="msapplication-TileImage" content="{% link assets/logo/270px.png %}" />
+    <link rel="icon" type="image/x-icon" href="{% link /favicon.ico %}" sizes="48x48" />
+    <link rel="icon" href="{% link /assets/logo/16px.png %}" sizes="16x16" />
+    <link rel="icon" href="{% link /assets/logo/32px.png %}" sizes="32x32" />
+    <link rel="icon" href="{% link /assets/logo/192px.png %}" sizes="192x192" />
+    <link rel="icon" href="{% link /assets/logo/270px.png %}" sizes="270x270" />
+    <link rel="icon" href="{% link /assets/logo/512px.png %}" sizes="512x512" />
+    <link rel="apple-touch-icon-precomposed" href="{% link /assets/logo/180px.png %}" />
+    <meta name="msapplication-TileImage" content="{% link /assets/logo/270px.png %}" />
 
     <!-- Come and get me RSS readers -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.feed }}" />

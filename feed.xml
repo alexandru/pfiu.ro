@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+    <title>ro.alexn.org</title>
+    <description>Gândurile unui introvertit</description>
+    <link>https://ro.alexn.org/</link>
+    <atom:link href="https://ro.alexn.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Apr 2022 07:19:43 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 07:19:43 +0000</lastBuildDate>
+  	<language>ro</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+	  <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Jekyll v4.2.2</generator>
+
+    
+      
+      <item>
+        <title>Privilegiu</title>
+        <description><![CDATA[
+          
+          <a href="https://ro.alexn.org/2020/09/privilegiu/?pk_campaign=rss&pk_kwd=image">
+            <img src="https://ro.alexn.org/assets/media/articles/fi-miu.jpg" align="middle" style="display: block; max-width:100%; margin: 0 auto;" />
+          </a>
+          <br />
+          
+          <p>Azi împlinesc 38 de ani. Sunt privilegiat că am ajuns la vârsta asta, sunt un norocos. Alții nu sunt.</p>
+          <p>
+            <a href="https://ro.alexn.org/2020/09/privilegiu/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2020/09/privilegiu/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2020/09/10/privilegiu/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Personal</category>
+        
+        <category>Părinte</category>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Miturile dietelor Low-Carb / Keto</title>
+        <description><![CDATA[
+          
+          <a href="https://ro.alexn.org/2020/01/miturile-dietelor-lowcarb-keto/?pk_campaign=rss&pk_kwd=image">
+            <img src="https://ro.alexn.org/assets/media/2020/keto.jpg" align="middle" style="display: block; max-width:100%; margin: 0 auto;" />
+          </a>
+          <br />
+          
+          <p>Dietele low-carb merg pe termen scurt, dar pe termen lung sunt la fel de dezamăgitoare ca toate celelalte diete. Și multă mitologie înconjoară aceste diete în comunitățile low-carb.</p>
+          <p>
+            <a href="https://ro.alexn.org/2020/01/miturile-dietelor-lowcarb-keto/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2020/01/miturile-dietelor-lowcarb-keto/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2020/01/05/miturile-dietelor-lowcarb-keto/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Dietă</category>
+        
+        <category>Keto</category>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Când totul în jur dispare</title>
+        <description><![CDATA[
+          
+          
+          <p>
+            <a href="https://ro.alexn.org/2015/03/cand-totul-dispare/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Wed, 11 Mar 2015 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2015/03/cand-totul-dispare/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2015/03/11/cand-totul-dispare/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Personal</category>
+        
+        <category>Viață</category>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Timpul trece</title>
+        <description><![CDATA[
+          
+          
+          <p>
+            <a href="https://ro.alexn.org/2013/04/timpul-trece/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2013/04/timpul-trece/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2013/04/29/timpul-trece/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Personal</category>
+        
+        <category>Viață</category>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Viaţă de programator</title>
+        <description><![CDATA[
+          
+          
+          <p>
+            <a href="https://ro.alexn.org/2013/04/viata-de-programator/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2013/04/viata-de-programator/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2013/04/08/viata-de-programator/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Personal</category>
+        
+        <category>Viață</category>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>A Fi Părinte, Partea 2: Nașterea</title>
+        <description><![CDATA[
+          
+          
+          <p>
+            <a href="https://ro.alexn.org/2011/10/a-fi-parinte-2/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Wed, 26 Oct 2011 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2011/10/a-fi-parinte-2/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2011/10/26/a-fi-parinte-2/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Personal</category>
+        
+        <category>Părinte</category>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>A Fi Părinte, Partea 1: Sarcina</title>
+        <description><![CDATA[
+          
+          
+          <p>
+            <a href="https://ro.alexn.org/2011/10/a-fi-parinte-1/?pk_campaign=rss&pk_kwd=read-more">Citește articolul →</a>
+          </p>
+        ]]></description>
+        <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
+        <link>https://ro.alexn.org/2011/10/a-fi-parinte-1/</link>
+        <guid isPermaLink="false">https://ro.alexn.org/2011/10/25/a-fi-parinte-1/</guid>
+        
+        
+        <dc:creator>Alexandru Nedelcu</dc:creator>
+        
+        
+        <category>Personal</category>
+        
+        <category>Părinte</category>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>

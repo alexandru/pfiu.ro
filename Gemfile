@@ -1,20 +1,19 @@
 source 'http://rubygems.org'
 
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.2"
 gem "support-for"
 gem 'nokogiri'
 gem 'classifier-reborn'
 gem 'gsl'
 gem "mini_magick"
 gem "image_optim"
+gem "fastimage"
 
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
-  # gem 'jekyll-optional-front-matter'
-  gem 'jekyll-titles-from-headings'
   gem 'jekyll-relative-links'
-  gem 'jekyll-gist'
   gem 'jekyll-sitemap'
+  gem 'jekyll-redirect-from'
   gem "jekyll-last-modified-at"
 end
 

@@ -1,0 +1,25 @@
+---
+layout: default
+autopages:
+  title: ':cat'
+  permalink: '/categorie/:cat/'
+---
+<div class="home" id="home">
+  <h1 class="pageTitle"><span class="type">Categorie:</span> {% if page.autopages %}{{ page.autopages.display_name }}{% endif %}</h1>
+  <ul class="posts noList">
+    {% for post in paginator.posts %}
+      <li>
+        {% include post-excerpt.html post=post autopages=page.autopages %}
+      </li>
+    {% endfor %}
+  </ul>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Articole mai Noi</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Articole mai Vechi</a>
+    {% endif %}
+  </div>
+</div>

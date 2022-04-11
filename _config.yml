@@ -1,0 +1,69 @@
+title: ro.alexn.org
+description: Gândurile unui introvertit
+
+url: https://ro.alexn.org
+baseurl: ""
+permalink: :year/:month/:title/
+feed: https://ro.alexn.org/feed.xml
+
+include: ["_redirects"]
+
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: post
+      author: alexelcu
+
+sass:
+    style: compressed
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+
+pagination:
+  enabled: true
+  per_page: 20
+  permalink: '/page/:num/'
+  title: ':title - pagina :num'
+  sort_reverse: true
+
+autopages:
+  enabled: true
+  tags:
+    layouts:
+      - 'auto-tag.html'
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+
+navigation:
+  - title: Acasă
+    url: /index.html
+  - title: Despre
+    url: /despre/
+  - title: Abonează-te
+    url: /abonament/
+
+authors:
+  alexelcu:
+    name: Alexandru Nedelcu
+    github: alexandru
+    twitter: alexelcu
+    facebook: alexandru.nedelcu
+
+google_analytics: "UA-84530423-4"
+
+assets:
+  destination: "/assets/compiled"
+  caching:
+    path: ".jekyll-cache/assets"
+    type: file # Possible values: memory, file
+    enabled: true
+  sources:
+    - assets/media
